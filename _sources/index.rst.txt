@@ -10,7 +10,7 @@ Welcome to Freeton Link!
    :maxdepth: 2
    :caption: FreeTON Link
 
-   Home <https://freeton.link>
+   Home <https://www.freeton.link>
    about
    websites
    software
