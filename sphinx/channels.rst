@@ -18,6 +18,10 @@ Telegram
 * <https://t.me/tondev_en>
 * <https://t.me/TON_DEV>
 * <https://t.me/Tonlabs>
+* <https://t.me/FreeTonAnalytics> prices, graphs, influence of some events
+* <https://t.me/betasurf> Beta TON Surf (russian)
+* <https://t.me/freeTON_flud> (russian)
+* <https://t.me/FreeTONclaims> to argufy (russian)
   
 Twitter
 ~~~~~~~
