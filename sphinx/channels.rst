@@ -1,27 +1,28 @@
-Free TON Channels
-=================
+Channels, Chats
+===============
 
-Telegram
-~~~~~~~~
-
-* <https://t.me/TONCRYSTAL>
-* <https://t.me/ton_crystal_news>
-* <https://t.me/freetonsmm_en>
-* <https://t.me/freeton_influencers_channel>
-* <https://t.me/CommVoice_FreeTON>
-* <https://t.me/joinchat/CmHmI0yOHyLPWRfDzAZDkA>
-* <https://t.me/freetonvalidators>
-* <https://t.me/tondefi>
-* <https://t.me/freeton_esports>
-* <https://t.me/ton_contests>
-* <https://t.me/ton_sdk>
-* <https://t.me/tondev_en>
-* <https://t.me/TON_DEV>
-* <https://t.me/Tonlabs>
-  
 Twitter
 ~~~~~~~
+* <https://twitter.com/CommunityTon> Community
+* <https://twitter.com/FreetonH> Free TON House 
+* <https://twitter.com/freeton_academy> Academy
+* <https://twitter.com/tonlabs> TON Labs
+* <https://twitter.com/ocp_freeton> OCamlPro
 
-* <https://twitter.com/CommunityTon>
-* <https://twitter.com/tonlabs>
-* <https://twitter.com/ocp_freeton>
+Youtube
+~~~~~~~
+* <https://www.youtube.com/c/FreeTON_official/featured> Offcial channel, Weekly meetup
+
+Facebook
+~~~~~~~~
+* <https://www.facebook.com/CommunityTon> Community
+* <https://www.facebook.com/tonlabsio> TON Labs
+
+Medium ?
+~~~~~~~~
+Linkedin ?
+~~~~~~~~
+Reddit ?
+~~~~~~~~
+Github ?
+~~~~~~~~
