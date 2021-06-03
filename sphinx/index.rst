@@ -14,6 +14,7 @@ Welcome to Freeton Link!
    about
    websites
    software
+   telegram
    channels
    Edit on Github <https://github.com/ocamlpro/www.freeton.link>
 
