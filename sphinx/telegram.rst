@@ -16,7 +16,7 @@ For a Developer
 * <https://t.me/ton_dev> Developers channel
 * <https://t.me/ton_sdk> Developers chat
 * <https://t.me/tondev_en> Developers chat
-* <https://t.me/freeton_cpp> Development C++ nodes
+* <https://t.me/freeton_cpp> Development C++ nodes chat
 
 For a Validator
 ~~~~~~~~~~~~~~~
