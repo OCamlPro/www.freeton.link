@@ -1,5 +1,3 @@
-03/06
-
 Telegram
 ========
 For a User
@@ -12,7 +10,7 @@ For a User
 * <https://t.me/freeton_otc> Currency exchange chat
 * <https://t.me/joinchat/UlCYzgUx8XcYqW-W> Free TON inner life channel
  
-For a Developper 
+For a Developer 
 ~~~~~~~~~~~~~~~~
 * <https://t.me/tonlabs> TON Labs channel
 * <https://t.me/ton_dev> Developers channel
