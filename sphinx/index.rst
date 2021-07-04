@@ -13,9 +13,8 @@ Welcome to Freeton Link!
    Home <https://www.freeton.link>
    about
    websites
-   software
    telegram
-   channels
+   software
    Edit on Github <https://github.com/ocamlpro/www.freeton.link>
 
 
