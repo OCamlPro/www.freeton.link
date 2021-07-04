@@ -4,7 +4,7 @@ Software
 Development Teams
 ~~~~~~~~~~~~~~~~~
 * .. _TonLabs: https://tonlabs.io/main 
-* <https://broxus.com/> Broxus
+* `Broxus <https://broxus.com/>` 
 * <https://www.ocamlpro.com/> OCamlPro
 * <https://rsquad.io/> RSquad
 * <https://cexiolabs.com/> Cex IO Labs
