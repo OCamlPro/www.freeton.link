@@ -3,24 +3,19 @@ Software
 
 Development Teams
 ~~~~~~~~~~~~~~~~~
-* .. _TonLabs: <https://tonlabs.io/main> 
+* `TonLabs <https://tonlabs.io/main>`_
 * `Broxus <https://broxus.com/>`_ 
-* <https://www.ocamlpro.com/> OCamlPro
-* <https://rsquad.io/> RSquad
-* <https://cexiolabs.com/> Cex IO Labs
-* <https://radianceteam.com/> Radiance
-* <https://pruvendo.com/> PruvendoFormal Verification of Smart Contracts (?)
-* ExtraTON ?
+* `OCamlPro <https://www.ocamlpro.com/>`_
+* `RSquad <https://rsquad.io/>`_
+* `Cex.IO.Labs <https://cexiolabs.com/>`_
+* `Radiance <https://radianceteam.com/> `_
+* `Pruvendo <https://pruvendo.com/>`_
+* `ExtraTON ?
 
 Wallets, Buy, Sell, Send Crystals
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-* <https://ton.surf> Surf Official Version
-* <https://beta.ton.surf> Surf More Fonctionalities
+* Surf `Official Version <https://ton.surf>`_ ` More Fonctionalities <https://beta.ton.surf>` `Android <https://play.google.com/store/apps/details?id=surf.ton>`_ `IOS <https://apps.apple.com/us/app/ton-surf/id1481986831>`_ `Test Version Android <https://play.google.com/apps/testing/surf.ton>`_ `Test Version IOS <https://testflight.apple.com/join/VPcfXsR0>`_
 * <https://web.ton.surf/> ?
-* <https://play.google.com/store/apps/details?id=surf.ton> Surf Android
-* <https://apps.apple.com/us/app/ton-surf/id1481986831> Surf iOS
-* <https://play.google.com/apps/testing/surf.ton> Surf Test Version Android
-* <https://testflight.apple.com/join/VPcfXsR0> Surf Test Version IOS
 * <https://chrome.google.com/webstore/detail/extraton/hhimbkmlnofjdajamcojlcmgialocllm> Extraton Chrome Wallet-Extension 
 * <https://l1.broxus.com/freeton/wallet> Broxus Wallet 
 * <https://wallet.crypterium.com/> Cripterium 
