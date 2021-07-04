@@ -14,14 +14,14 @@ Development Teams
 
 Wallets, Buy, Sell, Send Crystals
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-* Surf 
+* Surf |br|
   `Official Version <https://ton.surf>`_ |br|
   `More Fonctionalities <https://beta.ton.surf>`_ |br|
   `Android <https://play.google.com/store/apps/details?id=surf.ton>`_ |br|
   `IOS <https://apps.apple.com/us/app/ton-surf/id1481986831>`_ |br|
   `Test Version Android <https://play.google.com/apps/testing/surf.ton>`_ |br|
-  `Test Version IOS <https://testflight.apple.com/join/VPcfXsR0>`_|br|
-* <https://web.ton.surf/> ?
+  `Test Version IOS <https://testflight.apple.com/join/VPcfXsR0>`_ |br|
+  <https://web.ton.surf/> ?
 * <https://chrome.google.com/webstore/detail/extraton/hhimbkmlnofjdajamcojlcmgialocllm> Extraton Chrome Wallet-Extension 
 * <https://l1.broxus.com/freeton/wallet> Broxus Wallet 
 * <https://wallet.crypterium.com/> Cripterium 
