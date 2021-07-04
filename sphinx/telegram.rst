@@ -3,7 +3,8 @@ Telegram
 
 For a User
 ~~~~~~~~~~
-* .. |FreeTonNews.ico| image:: _FreeTonNews.ico `Official Channel <https://t.me/ton_crystal_news>`_
+* .. image:: FreeTonNews.ico `Official Channel <https://t.me/ton_crystal_news>`_
+* .. |FreeTonNews.ico| image:: FreeTonNews.ico `Official Channel <https://t.me/ton_crystal_news>`_
 * <https://t.me/toncrystal> Community Chat
 * <https://t.freeton_gramkitme/freeton_gramkit> TON Labs News Channel
 * <https://t.me/telegraph?do=open_link> Blog Anonyme
