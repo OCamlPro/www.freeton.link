@@ -23,7 +23,7 @@ For a User
 * <> OCamlPro Twitter
 * <https://en.freeton.wiki/Free_TON_Wiki> Wiki
 
-Buy, Sell Crystals
+Buy/Sell/Send Crystals
 ~~~~~~~~~~~~~~~~~~
 * <https://exchange.bitcoin.com/ton-to-btc> 
 * <https://kuna.io/markets/bnbrub> 

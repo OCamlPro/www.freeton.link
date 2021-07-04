@@ -16,7 +16,7 @@ For a User
 * <https://t.me/pokerton> Poker News Bot
 * <https://t.me/joinchat/UlCYzgUx8XcYqW-W> Free TON Inner Life Channel
 
-Buy, Sell Crystals
+Buy/Sell/Send Crystals
 ~~~~~~~~~~~~~~~~~~
 * <https://t.me/ton_p2p> Chat
 * <https://t.me/tokiton_chat> Chat

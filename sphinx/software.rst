@@ -12,7 +12,7 @@ Development Teams
 * `RSquad <https://rsquad.io/>`_
 * `TonLabs <https://tonlabs.io/main>`_
 
-Wallets, Buy, Sell, Send Crystals
+Wallets, Buy/Sell/Send Crystals
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 * Surf |br|
   `Official Version <https://ton.surf>`_ |br|
