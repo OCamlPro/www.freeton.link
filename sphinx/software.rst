@@ -3,18 +3,18 @@ Software
 
 Development Teams
 ~~~~~~~~~~~~~~~~~
-* `TonLabs <https://tonlabs.io/main>`_
 * `Broxus <https://broxus.com/>`_ 
-* `OCamlPro <https://www.ocamlpro.com/>`_
-* `RSquad <https://rsquad.io/>`_
 * `Cex.IO.Labs <https://cexiolabs.com/>`_
-* `Radiance <https://radianceteam.com/> `_
-* `Pruvendo <https://pruvendo.com/>`_
 * `ExtraTON ?
+* `OCamlPro <https://www.ocamlpro.com/>`_
+* `Pruvendo <https://pruvendo.com/>`_
+* `Radiance <https://radianceteam.com/>`_
+* `RSquad <https://rsquad.io/>`_
+* `TonLabs <https://tonlabs.io/main>`_
 
 Wallets, Buy, Sell, Send Crystals
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-* Surf `Official Version <https://ton.surf>`_ ` More Fonctionalities <https://beta.ton.surf>` `Android <https://play.google.com/store/apps/details?id=surf.ton>`_ `IOS <https://apps.apple.com/us/app/ton-surf/id1481986831>`_ `Test Version Android <https://play.google.com/apps/testing/surf.ton>`_ `Test Version IOS <https://testflight.apple.com/join/VPcfXsR0>`_
+* Surf `Official Version <https://ton.surf>`_ `More Fonctionalities <https://beta.ton.surf>`_ `Android <https://play.google.com/store/apps/details?id=surf.ton>`_ `IOS <https://apps.apple.com/us/app/ton-surf/id1481986831>`_ `Test Version Android <https://play.google.com/apps/testing/surf.ton>`_ `Test Version IOS <https://testflight.apple.com/join/VPcfXsR0>`_
 * <https://web.ton.surf/> ?
 * <https://chrome.google.com/webstore/detail/extraton/hhimbkmlnofjdajamcojlcmgialocllm> Extraton Chrome Wallet-Extension 
 * <https://l1.broxus.com/freeton/wallet> Broxus Wallet 
