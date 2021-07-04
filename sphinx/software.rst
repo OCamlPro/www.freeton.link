@@ -3,8 +3,8 @@ Software
 
 Development Teams
 ~~~~~~~~~~~~~~~~~
-* .. _TonLabs: https://tonlabs.io/main 
-* `Broxus <https://broxus.com/>` 
+* .. _TonLabs: <https://tonlabs.io/main> 
+* `Broxus <https://broxus.com/>`_ 
 * <https://www.ocamlpro.com/> OCamlPro
 * <https://rsquad.io/> RSquad
 * <https://cexiolabs.com/> Cex IO Labs
