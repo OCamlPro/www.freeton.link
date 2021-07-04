@@ -5,7 +5,7 @@ Development Teams
 ~~~~~~~~~~~~~~~~~
 * `Broxus <https://broxus.com/>`_ 
 * `Cex.IO.Labs <https://cexiolabs.com/>`_
-* `ExtraTON ?
+* ExtraTON ?
 * `OCamlPro <https://www.ocamlpro.com/>`_
 * `Pruvendo <https://pruvendo.com/>`_
 * `Radiance <https://radianceteam.com/>`_
