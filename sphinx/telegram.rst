@@ -3,10 +3,10 @@ Telegram
 
 For a User
 ~~~~~~~~~~
-* .. |FreeTonNews| image:: images/FreeTonNews.ico 
+* .. image:: images/FreeTonNews.ico 
 * .. image:: images/FreeTonNews.ico 
 
-* .. |FreeTonNews| image:: FreeTonNews.ico `Official Channel <https://t.me/ton_crystal_news>`_
+* .. image:: images/FreeTonNews.ico `Official Channel <https://t.me/ton_crystal_news>`_
 * FreeTonNews
 
 * `Official Channel <https://t.me/ton_crystal_news>`_
