@@ -6,7 +6,7 @@ For a User
 * |FreeTonNews.ico| `Official Channel <https://t.me/ton_crystal_news>`_
 .. |FreeTonNews.ico| image:: images/FreeTonNews.ico 
 * |toncrystalico| `Community Chat <https://t.me/toncrystal>`_ 
-.. |toncrystalico| image:: images/toncrystal.ico 
+.. |toncrystalico| image:: images/toncrystal.ico
 * |gramkitico| `TON Labs News Channel <https://t.me/freeton_me/freeton_gramkitgramkit>`_
 .. |gramkitico| image:: images/gramkit.ico 
 * `Telegraph Blog Anonyme <https://t.me/telegraph?do=open_link>`_
