@@ -6,7 +6,7 @@ For a User
 * .. image:: images/FreeTonNews.ico 
 * .. |myimage1| image:: images/FreeTonNews.ico 
 
-* .. image:: images/FreeTonNews.ico `Official Channel <https://t.me/ton_crystal_news>`_
+* |myimage1| `Official Channel <https://t.me/ton_crystal_news>`_
 * |myimage1|
 
 * `Official Channel <https://t.me/ton_crystal_news>`_
