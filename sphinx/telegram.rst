@@ -3,11 +3,10 @@ Telegram
 
 For a User
 ~~~~~~~~~~
-* |FreeTonNewsico| `Official Channel <https://t.me/ton_crystal_news>`_
-.. |FreeTonNewsico| image:: images/FreeTonNews.ico 
-
-* `Official Channel <https://t.me/ton_crystal_news>`_
+* |FreeTonNews.ico| `Official Channel <https://t.me/ton_crystal_news>`_
+.. |FreeTonNews.ico| image:: images/FreeTonNews.ico 
 * <https://t.me/toncrystal> Community Chat
+.. |toncrystalico| image:: images/toncrystal.ico 
 * <https://t.freeton_gramkitme/freeton_gramkit> TON Labs News Channel
 * <https://t.me/telegraph?do=open_link> Blog Anonyme
 * <https://t.me/FreeTON2MobileBot> Send Credit To a Mobile Phone
