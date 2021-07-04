@@ -15,29 +15,35 @@ Development Teams
 Wallets, Buy/Sell/Send Crystals
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 * Surf |br|
-  `Official Version <https://ton.surf>`_ |br|
+  `WEB Version <https://ton.surf>`_ |br|
   `More Fonctionalities <https://beta.ton.surf>`_ |br|
   `Android <https://play.google.com/store/apps/details?id=surf.ton>`_ |br|
   `IOS <https://apps.apple.com/us/app/ton-surf/id1481986831>`_ |br|
   `Test Version Android <https://play.google.com/apps/testing/surf.ton>`_ |br|
   `Test Version IOS <https://testflight.apple.com/join/VPcfXsR0>`_ |br|
   <https://web.ton.surf/> ?
-* <https://chrome.google.com/webstore/detail/extraton/hhimbkmlnofjdajamcojlcmgialocllm> Extraton Chrome Wallet-Extension 
-* <https://l1.broxus.com/freeton/wallet> Broxus Wallet 
-* <https://wallet.crypterium.com/> Cripterium 
-* <https://apps.apple.com/ru/app/crypterium-bitcoin-wallet/id1360632912> Cripterium iOS  
-* <https://play.google.com/store/apps/details?id=com.crypterium> Cripterium  Android
-* <https://koshelek.ru/> Koshelek 
-* <https://apps.apple.com/ru/app/id1524167720> Koshelek iOS
-* <https://play.google.com/store/apps/details?id=ru.koshelek> Koshelek Android 
-* <https://play.google.com/store/apps/dev?id=6836651604375768742> Changelly Pro Android
-* <https://apps.apple.com/us/app/changelly-crypto-exchange/id1435140380> Changelly Pro IOS
-* <https://play.google.com/store/apps/details?id=com.blockfolio.blockfolio> Blockfolio Android
-* <https://apps.apple.com/ru/app/blockfolio-%D0%BA%D1%83%D1%80%D1%81-%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD%D0%B0/id1095564685> Blockfolio IOS
-* <https://play.google.com/store/apps/details?id=io.getdelta.android> Delta Android
-* <https://apps.apple.com/ru/app/delta-%D1%82%D1%80%D0%B5%D0%BA%D0%B5%D1%80-%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE-%D0%BF%D0%BE%D1%80%D1%82%D1%84%D0%B5%D0%BB%D0%B5%D0%B9/id1288676542> Delta IOS 
-* <https://play.google.com/store/apps/details?id=com.hash.mytoken> MyToken Android
-* <https://apps.apple.com/cn/app/mytoken-news-%E5%BF%AB%E9%80%9F-%E5%87%86%E7%A1%AE-%E5%85%A8%E9%9D%A2/id1525213647> MyToken IOS
+* `Chrome Wallet-Extension Extraton <https://chrome.google.com/webstore/detail/extraton/hhimbkmlnofjdajamcojlcmgialocllm>`_
+* `Broxus Wallet <https://l1.broxus.com/freeton/wallet>`_ 
+* Cripterium |br|
+  `WEB <https://wallet.crypterium.com/>`_ |br|  
+  `IOS <https://apps.apple.com/ru/app/crypterium-bitcoin-wallet/id1360632912>`_ |br|  
+  `Android <https://play.google.com/store/apps/details?id=com.crypterium>`_
+* Koshelek |br|
+  `WEB <https://koshelek.ru/>`_ |br|
+  `IOS <https://apps.apple.com/ru/app/id1524167720>`_ |br|
+  `Android <https://play.google.com/store/apps/details?id=ru.koshelek>`_
+* Changelly Pro |br|
+  `Android <https://play.google.com/store/apps/dev?id=6836651604375768742>`_ |br|
+  `IOS <https://apps.apple.com/us/app/changelly-crypto-exchange/id1435140380>`_
+* Blockfolio |br|
+  `Android <https://play.google.com/store/apps/details?id=com.blockfolio.blockfolio>`_ |br|  
+  `IOS <https://apps.apple.com/ru/app/blockfolio-%D0%BA%D1%83%D1%80%D1%81-%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD%D0%B0/id1095564685>`_
+* Delta |br|
+  `Android <https://play.google.com/store/apps/details?id=io.getdelta.android>`_ |br|
+  `IOS <https://apps.apple.com/ru/app/delta-%D1%82%D1%80%D0%B5%D0%BA%D0%B5%D1%80-%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE-%D0%BF%D0%BE%D1%80%D1%82%D1%84%D0%B5%D0%BB%D0%B5%D0%B9/id1288676542>`_
+* MyToken 
+  `Android <https://play.google.com/store/apps/details?id=com.hash.mytoken>`_
+  `IOS <https://apps.apple.com/cn/app/mytoken-news-%E5%BF%AB%E9%80%9F-%E5%87%86%E7%A1%AE-%E5%85%A8%E9%9D%A2/id1525213647>`_
 
 Blockchain Browsers
 ~~~~~~~~~~~~~~~
