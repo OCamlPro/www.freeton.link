@@ -1,9 +1,9 @@
-Websites, Channels, Chats, Forums, Applications
-===============================================
+Websites, Channels, Chats, Forums
+=================================
 
 For a User
 ~~~~~~~~~~
-* <https://freeton.org/> ...., Discussions, Proposal - FOR ALL ?
+* <https://freeton.org/> ...., Discussions, Proposal - FOR EVERYONE ?
 * <https://gramkit.org/> TonLAbs News
 * <https://freeton.house/> Blog
 * <https://twitter.com/FreetonH> Free TON House Twitter
@@ -16,7 +16,6 @@ For a User
 * <https://www.instagram.com/communityton/> Community Instagram
 * <https://www.linkedin.com/in/free-ton/> Community Linkedin
 * <https://adgram.io/> Advertising Platform
-* <https://gramkit.org/> 
 * <https://www.youtube.com/c/FreeTON_official/featured> Official Youtube (TonLabs?)
 * <https://www.youtube.com/c/TONLabs/featured> TonLabs Youtube
 * <https://www.facebook.com/tonlabsio> TON Labs Facebook

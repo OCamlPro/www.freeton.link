@@ -1,9 +1,9 @@
 Software
-=================
+========
 
 Development Teams
 ~~~~~~~~~~~~~~~~~
-* .. _`TonLabs`: https://tonlabs.io/main 
+* .. _TonLabs: https://tonlabs.io/main 
 * <https://broxus.com/> Broxus
 * <https://www.ocamlpro.com/> OCamlPro
 * <https://rsquad.io/> RSquad
