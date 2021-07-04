@@ -14,7 +14,7 @@ Development Teams
 
 Wallets, Buy/Sell/Send Crystals
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-* Surf |br|
+* Surf wallet, blockchain browser, secure chat |br|
   `WEB Version <https://ton.surf>`_ |br|
   `More Fonctionalities <https://beta.ton.surf>`_ |br|
   `Android <https://play.google.com/store/apps/details?id=surf.ton>`_ |br|
@@ -47,34 +47,34 @@ Wallets, Buy/Sell/Send Crystals
 
 Blockchain Browsers
 ~~~~~~~~~~~~~~~
-* <https://help.ton.surf/en/support/home> Surf wallet + blockchain browser + secure chat, interface to TON OS and the FT Blockchain
+* `Surf wallet, blockchain browser, secure chat <https://help.ton.surf/en/support/home>`_
 
 Block Explorers
 ~~~~~~~~~~~~~~~
-* <https://ton.live/>
-* <https://github.com/tonlabs/tonos-se#ton-live-explorer> ton.live local copy 
-* <http://ton-explorer.com/>
-* <https://gitlab.ocamlpro.com/steven.de-oliveira/freeton_watcher> freeton_watcher
-* <https://net.ton.dev/graEach> GraphQL API endpoint
+* `ton.live <https://ton.live/>`_
+* `ton.live local copy <https://github.com/tonlabs/tonos-se#ton-live-explorer>`_  
+* `ton-explorer.com <http://ton-explorer.com/>`_
+* `freeton_watcher <https://gitlab.ocamlpro.com/steven.de-oliveira/freeton_watcher>`_
   
 Webapps
 ~~~~~~~
-* <https://extraton.io/> 
-* <https://push.money/>
+* `Extraton <https://extraton.io/>`_ 
+* `push.money <https://push.money/>`_
 
 Tooling
 ~~~~~~~
-* <https://ocamlpro.github.io/freeton_wallet/>
-* <https://www.npmjs.com/package/locklift>
-* <https://net.ton.dev/graphql> 
-* <https://github.com/tonlabs/tondev#testsuite4> TestSuite4 Python framework for contract testing
+* `ft <https://ocamlpro.github.io/freeton_wallet/>`_
+* `locklift <https://www.npmjs.com/package/locklift>`_
+* `GraphQL <https://net.ton.dev/graphql>`_ 
+* `GraphQL <https://net.ton.dev/graEach>`_
+* `TestSuite4 <https://github.com/tonlabs/tondev#testsuite4>`_`
 
 Documentation
 ~~~~~~~~~~~~~
-* <https://ton.org/> Test Network 
+* `ton.org Test Network <https://ton.org/>`_
 
 Github
-https://ton.surf/main
+~~~~~~~~~~~~~
 https://github.com/ton-blockchain TON code (Telegram) ?
 https://github.com/tonlabs Free TON code (TonLabs)
 
