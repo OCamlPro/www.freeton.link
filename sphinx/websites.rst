@@ -4,7 +4,7 @@ Websites, Channels, Chats, Forums
 For a User
 ~~~~~~~~~~
 * <https://freeton.org/> ...., Discussions, Proposal - FOR EVERYONE ?
-* <https://gramkit.org/> TonLAbs News
+* ` TonLAbs News <https://gramkit.org/>`_ |br|
 * <https://freeton.house/> Blog
 * <https://twitter.com/FreetonH> Free TON House Twitter
 * <https://medium.com/freeton> Blog
@@ -74,3 +74,7 @@ Other indexes
 ~~~~~~~~~~~~~
 * <https://telegra.ph/Structure-of-the-Free-TON-ecosystem-08-31>
 * <http://ton-test.rsquad.io/>
+
+.. |br| raw:: html
+
+      <br>

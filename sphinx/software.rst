@@ -5,7 +5,7 @@ Development Teams
 ~~~~~~~~~~~~~~~~~
 * `Broxus <https://broxus.com/>`_ 
 * `Cex.IO.Labs <https://cexiolabs.com/>`_
-* ExtraTON ?
+* Extraton.io team
 * `OCamlPro <https://www.ocamlpro.com/>`_
 * `Pruvendo <https://pruvendo.com/>`_
 * `Radiance <https://radianceteam.com/>`_
@@ -22,7 +22,7 @@ Wallets, Buy/Sell/Send Crystals
   `Test Version Android <https://play.google.com/apps/testing/surf.ton>`_ |br|
   `Test Version IOS <https://testflight.apple.com/join/VPcfXsR0>`_ |br|
   <https://web.ton.surf/> ?
-* `Chrome Wallet-Extension Extraton <https://chrome.google.com/webstore/detail/extraton/hhimbkmlnofjdajamcojlcmgialocllm>`_
+* `Chrome Extension Extraton <https://chrome.google.com/webstore/detail/extraton/hhimbkmlnofjdajamcojlcmgialocllm>`_
 * `Broxus Wallet <https://l1.broxus.com/freeton/wallet>`_ 
 * Cripterium |br|
   `WEB <https://wallet.crypterium.com/>`_ |br|  
@@ -41,8 +41,8 @@ Wallets, Buy/Sell/Send Crystals
 * Delta |br|
   `Android <https://play.google.com/store/apps/details?id=io.getdelta.android>`_ |br|
   `IOS <https://apps.apple.com/ru/app/delta-%D1%82%D1%80%D0%B5%D0%BA%D0%B5%D1%80-%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE-%D0%BF%D0%BE%D1%80%D1%82%D1%84%D0%B5%D0%BB%D0%B5%D0%B9/id1288676542>`_
-* MyToken 
-  `Android <https://play.google.com/store/apps/details?id=com.hash.mytoken>`_
+* MyToken |br|
+  `Android <https://play.google.com/store/apps/details?id=com.hash.mytoken>`_ |br|
   `IOS <https://apps.apple.com/cn/app/mytoken-news-%E5%BF%AB%E9%80%9F-%E5%87%86%E7%A1%AE-%E5%85%A8%E9%9D%A2/id1525213647>`_
 
 Blockchain Browsers
@@ -60,18 +60,18 @@ Webapps
 ~~~~~~~
 * `Extraton <https://extraton.io/>`_ 
 * `push.money <https://push.money/>`_
+* https://easy-vote.rsquad.io/
 
 Tooling
 ~~~~~~~
 * `ft <https://ocamlpro.github.io/freeton_wallet/>`_
 * `locklift <https://www.npmjs.com/package/locklift>`_
 * `GraphQL <https://net.ton.dev/graphql>`_ 
-* `GraphQL <https://net.ton.dev/graEach>`_
-* `TestSuite4 <https://github.com/tonlabs/tondev#testsuite4>`_`
+* `TestSuite4 <https://github.com/tonlabs/tondev#testsuite4>`_
 
 Documentation
 ~~~~~~~~~~~~~
-* `ton.org Test Network <https://ton.org/>`_
+* `ton.org <https://ton.org/>`_
 
 Github
 ~~~~~~~~~~~~~
