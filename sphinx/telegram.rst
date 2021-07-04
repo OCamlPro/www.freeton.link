@@ -13,7 +13,8 @@ For a User
 .. |telegraph.ico| image:: images/telegraph.ico 
 * |FreeTON2MobileBot.ico| `Send Credit To a Mobile Phone Bot <https://t.me/FreeTON2MobileBot>`_
 .. |FreeTON2MobileBot.ico| image:: images/FreeTON2MobileBot.ico 
-* `Free TON Shop Bot <https://t.me/FREETONSHOP_bot>`_  
+* |FREETONSHOP_bot| `Free TON Shop Bot <https://t.me/FREETONSHOP_bot>`_ 
+.. |FREETONSHOP_bot.ico| image:: images/FREETONSHOP_bot.ico 
 * `Play Poker Bot <https://ttttt.me/pokertonbot>`_ 
 * `Poker News Bot <https://t.me/pokerton>`_ 
 * `Free TON Inner Life Channel Chat <https://t.me/joinchat/UlCYzgUx8XcYqW-W>`_ 
