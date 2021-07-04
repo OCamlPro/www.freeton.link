@@ -5,7 +5,7 @@ For a User
 ~~~~~~~~~~
 * |FreeTonNews.ico| `Official Channel <https://t.me/ton_crystal_news>`_
 .. |FreeTonNews.ico| image:: images/FreeTonNews.ico 
-* <https://t.me/toncrystal> Community Chat
+* |toncrystalico| `Community Chat <https://t.me/toncrystal>`_ 
 .. |toncrystalico| image:: images/toncrystal.ico 
 * <https://t.freeton_gramkitme/freeton_gramkit> TON Labs News Channel
 * <https://t.me/telegraph?do=open_link> Blog Anonyme
