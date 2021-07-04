@@ -7,13 +7,14 @@ For a User
 .. |FreeTonNews.ico| image:: images/FreeTonNews.ico 
 * |toncrystalico| `Community Chat <https://t.me/toncrystal>`_ 
 .. |toncrystalico| image:: images/toncrystal.ico 
-* <https://t.freeton_gramkitme/freeton_gramkit> TON Labs News Channel
-* <https://t.me/telegraph?do=open_link> Blog Anonyme
-* <https://t.me/FreeTON2MobileBot> Send Credit To a Mobile Phone
-* <https://t.me/FREETONSHOP_bot> Free TON Shop 
-* <https://ttttt.me/pokertonbot> Play Poker
-* <https://t.me/pokerton> Poker News Bot
-* <https://t.me/joinchat/UlCYzgUx8XcYqW-W> Free TON Inner Life Channel
+* |gramkitico| `TON Labs News Channel <https://t.me/freeton_me/freeton_gramkitgramkit>`_
+.. |gramkitico| image:: images/gramkit.ico 
+* `Telegraph Blog Anonyme <https://t.me/telegraph?do=open_link>`_
+* `Send Credit To a Mobile Phone <https://t.me/FreeTON2MobileBot>`_
+* `Free TON Shop <https://t.me/FREETONSHOP_bot>`_  
+* `Play Poker <https://ttttt.me/pokertonbot>`_ 
+* `Poker News Bot <https://t.me/pokerton>`_ 
+* `Free TON Inner Life Channel <https://t.me/joinchat/UlCYzgUx8XcYqW-W>`_ 
 
 Buy/Sell/Send Crystals
 ~~~~~~~~~~~~~~~~~~
