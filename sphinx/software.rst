@@ -1,4 +1,4 @@
-Free TON Software
+Software
 =================
 
 Development Teams

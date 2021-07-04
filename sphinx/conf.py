@@ -174,8 +174,7 @@ latex_documents = [
 
 # -- Options for manual page output ---------------------------------------
 
-# One entry per manual page. List of tuples
-# (source start file, name, description, authors, manual section).
+# One entry per manual page. List of tuples (source start file, name, description, authors, manual section).
 man_pages = [
     (master_doc, 'freeton_link', 'freeton_link Documentation',
      [author], 1)
@@ -185,8 +184,7 @@ man_pages = [
 # -- Options for Texinfo output -------------------------------------------
 
 # Grouping the document tree into Texinfo files. List of tuples
-# (source start file, target name, title, author,
-#  dir menu entry, description, category)
+# (source start file, target name, title, author, dir menu entry, description, category)
 texinfo_documents = [
     (master_doc, 'freeton_link', 'freeton_link Documentation',
      author, 'freeton_link', 'One line description of project.',
@@ -206,8 +204,7 @@ epub_author = author
 epub_publisher = author
 epub_copyright = copyright
 
-# The unique identifier of the text. This can be a ISBN number
-# or the project homepage.
+# The unique identifier of the text. This can be a ISBN number or the project homepage.
 #
 # epub_identifier = ''
 
