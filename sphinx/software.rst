@@ -10,7 +10,7 @@ Development Teams
 * `Pruvendo <https://pruvendo.com/>`_
 * `Radiance <https://radianceteam.com/>`_
 * `RSquad <https://rsquad.io/>`_
-* `TON Labs <https://tonlabs.io/mai* Decentralized Organization `Chat <https://t.me/joinchat/TI4fIvQQmLboPKay>`_
+* `TON Labs <https://tonlabs.io>`_
 
 Wallets, Buy/Sell/Send Crystals
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

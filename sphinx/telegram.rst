@@ -56,7 +56,7 @@ Sub-governances
 * Social Media Marketing `Chat <https://t.me/freetonsmm_en>`_ 
 * Voice `Chat <https://t.me/commVoice_freeton>`_
 * Web & Design `Chat <https://t.me/web_design_freeton>`_ `Chat RU <https://t.me/web_design_subgov>`_
-* Wiki `Channel <https://t.me/freetonwiki>`_ `Chat https://t.me/freeton_wiki>`_ `Chat RU <https://t.me/freetonwiki_chat>`_
+* Wiki `Channel <https://t.me/freetonwiki>`_ `Chat <https://t.me/freeton_wiki>`_ `Chat RU <https://t.me/freetonwiki_chat>`_
 
 Local Communities, Local Sub-governances, Information in Other Languages 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
