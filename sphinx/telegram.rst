@@ -44,11 +44,11 @@ Sub-governances
 ~~~~~~~~~~~~~~~
 * Academy `Chat <https://t.me/freeton_academy>`_ 
 * Analytics & Support `Chat <https://t.me/freeton_analytics>`_
+* Decentralized Organization `Chat <https://t.me/joinchat/TI4fIvQQmLboPKay>`_
 * DeFi `Chat <https://t.me/tondefi>`_ 
 * DevEx `Chat <https://t.me/freeton_dev_exp>`_ 
 * DevOps `Chat <https://t.me/freetondevops>`_ 
 * eSports `Chat <https://t.me/freeton_esports>`_ `Tournaments Chat <https://t.me/freetonleague>`_
-* Decentralized Organization `Chat <https://t.me/joinchat/TI4fIvQQmLboPKay>`_
 * Influencers `Channel <https://t.me/freeton_influencers_channel>`_ `Chat <https://t.me/freeton_influencers>`_
 * Formal Methods `Chat <https://t.me/joinchat/rWanhNQPJ1FiMGVi>`_
 * Global Community `Channel <https://t.me/freeton_global_community_sub_en>`_ `Chat <https://t.me/global_community_sg>`_ `Chat RU <https://t.me/global_community_sg_ru>`_
