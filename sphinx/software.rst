@@ -14,7 +14,7 @@ Development Teams
 
 Wallets, Buy/Sell/Send Crystals
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-* Surf wallet, blockchain browser, secure chat `WEB <https://ton.surf>`_ - `WEB More Fonctionalities <https://beta.ton.surf>`_ - `Android <https://play.google.com/store/apps/details?id=surf.ton>`_ - `Android Test Version <https://play.google.com/apps/testing/surf.ton>`_ `IOS <https://apps.apple.com/us/app/ton-surf/id1481986831>`_ - `IOS Test Version <https://testflight.apple.com/join/VPcfXsR0>`_ - <https://web.ton.surf/> ?
+* Surf wallet, blockchain browser, secure chat `WEB <https://ton.surf>`_ - `WEB More Fonctionalities <https://beta.ton.surf>`_ - `Android <https://play.google.com/store/apps/details?id=surf.ton>`_ - `Android Test Version <https://play.google.com/apps/testing/surf.ton>`_ - `IOS <https://apps.apple.com/us/app/ton-surf/id1481986831>`_ - `IOS Test Version <https://testflight.apple.com/join/VPcfXsR0>`_ - <https://web.ton.surf/> ?
 * Chrome Extension `Extraton <https://chrome.google.com/webstore/detail/extraton/hhimbkmlnofjdajamcojlcmgialocllm>`_
 * `Broxus Wallet <https://l1.broxus.com/freeton/wallet>`_ 
 * Cripterium `WEB <https://wallet.crypterium.com/>`_ `IOS <https://apps.apple.com/ru/app/crypterium-bitcoin-wallet/id1360632912>`_ `Android <https://play.google.com/store/apps/details?id=com.crypterium>`_
