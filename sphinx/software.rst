@@ -17,8 +17,8 @@ Wallets, Buy/Sell/Send Crystals
 * Surf wallet, blockchain browser, secure chat `WEB <https://ton.surf>`_ - `WEB More Fonctionalities <https://beta.ton.surf>`_ - `Android <https://play.google.com/store/apps/details?id=surf.ton>`_ - `Android Test Version <https://play.google.com/apps/testing/surf.ton>`_ - `IOS <https://apps.apple.com/us/app/ton-surf/id1481986831>`_ - `IOS Test Version <https://testflight.apple.com/join/VPcfXsR0>`_ - <https://web.ton.surf/> ?
 * Chrome Extension `Extraton <https://chrome.google.com/webstore/detail/extraton/hhimbkmlnofjdajamcojlcmgialocllm>`_
 * `Broxus Wallet <https://l1.broxus.com/freeton/wallet>`_ 
-* Cripterium `WEB <https://wallet.crypterium.com/>`_ `IOS <https://apps.apple.com/ru/app/crypterium-bitcoin-wallet/id1360632912>`_ `Android <https://play.google.com/store/apps/details?id=com.crypterium>`_
-* Koshelek `WEB <https://koshelek.ru/>`_ `IOS <https://apps.apple.com/ru/app/id1524167720>`_ `Android <https://play.google.com/store/apps/details?id=ru.koshelek>`_
+* Cripterium `WEB <https://wallet.crypterium.com/>`_ `Android <https://play.google.com/store/apps/details?id=com.crypterium>`_ `IOS <https://apps.apple.com/ru/app/crypterium-bitcoin-wallet/id1360632912>`_
+* Koshelek `WEB <https://koshelek.ru/>`_ `Android <https://play.google.com/store/apps/details?id=ru.koshelek>`_ `IOS <https://apps.apple.com/ru/app/id1524167720>`_
 * Changelly Pro `Android <https://play.google.com/store/apps/dev?id=6836651604375768742>`_ `IOS <https://apps.apple.com/us/app/changelly-crypto-exchange/id1435140380>`_
 * Blockfolio `Android <https://play.google.com/store/apps/details?id=com.blockfolio.blockfolio>`_ `IOS <https://apps.apple.com/ru/app/blockfolio-%D0%BA%D1%83%D1%80%D1%81-%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD%D0%B0/id1095564685>`_
 * Delta `Android <https://play.google.com/store/apps/details?id=io.getdelta.android>`_ `IOS <https://apps.apple.com/ru/app/delta-%D1%82%D1%80%D0%B5%D0%BA%D0%B5%D1%80-%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE-%D0%BF%D0%BE%D1%80%D1%82%D1%84%D0%B5%D0%BB%D0%B5%D0%B9/id1288676542>`_
