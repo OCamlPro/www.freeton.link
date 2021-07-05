@@ -61,7 +61,7 @@ Sub-governances
 Local Communities, Local Sub-governances, Information in Other Languages 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 * African Community `Chat <https://t.me/tonafrica>`_
-* Arabic Community `Chat <https://t.me/freeton_arabic>` 
+* Arabic Community `Chat <https://t.me/freeton_arabic>`_
 * Asian Community `Chat <https://t.me/free_ton_asean>`_
 * Azerbaijan Community `Chat AZ <https://t.me/freeton_az>`_
 * Belarussian Community `Channel RU <https://t.me/freetonbelarus>`_ `Chat RU <https://t.me/freetonby>`_
@@ -69,7 +69,7 @@ Local Communities, Local Sub-governances, Information in Other Languages
 * Canadian Community `Chat <https://t.me/ton_canada>`_
 * Chinese Community and Sub-governance `Chat ZH <https://t.me/freeton_china>`_
 * French Community and Sub-governance `Chat <https://t.me/gramfr>`_
-* German Community `Chat GE <https://t.me/ton_de>`
+* German Community `Chat GE <https://t.me/ton_de>`_
 * Greek Community `Chat <https://t.me/freetongreekcommunity>`_
 * Indian Community `Chat ZH <https://t.me/freeton_india>`_
 * Italian Community `Chat IT <https://t.me/topennetworkitalia>`_
@@ -81,14 +81,14 @@ Local Communities, Local Sub-governances, Information in Other Languages
 * Mexican Community and Sub-governance `Chat ES <https://t.me/freeton_mexico>`_
 * Russian Community `Channel RU <https://t.me/freeton_community>`_
 * Russian Community `Chat RU <https://t.me/freetonru>`_
-* Web & Design Sub-governance `Chat RU <https://t.me/web_design_subgov>`_
-* Wiki Sub-governance `Chat RU <https://t.me/freetonwiki_chat>`_
-* Global Community Sub-governance `Chat RU <https://t.me/global_community_sg_ru>`_
 * Singaporean Community `Chat <https://t.me/freetonsg>`_ 
 * Turkish Community `Chat TR <https://t.me/tonturkiye>`_
 * Ukrainian Community `Chat RU <https://t.me/freeton_ukraine>`_
 * Vietnamese Sub-governance `Chat VN <https://t.me/freetonvn>`_
 * Global Community Sub-governance `Channel RU <https://t.me/freeton_global_community_sub_ru>`_
+* Web & Design Sub-governance `Chat RU <https://t.me/web_design_subgov>`_
+* Wiki Sub-governance `Chat RU <https://t.me/freetonwiki_chat>`_
+* Global Community Sub-governance `Chat RU <https://t.me/global_community_sg_ru>`_
 * Developers `Channel RU <https://t.me/freetondev_ru>`_ `Chat RU <https://t.me/freetondevru>`_ 
 * Debots `Chat RU <https://t.me/freetondebots>`_ 
 * Surf `Chat RU <https://t.me/betasurf>`_ 
@@ -99,7 +99,7 @@ Local Communities, Local Sub-governances, Information in Other Languages
 * Contests `Channel RU <https://t.me/toncontests_ru>`_
 * Philosophy `Chat RU <https://t.me/freetonphilosophie>`_
 * Decentralization `Popularization Chat RU <https://t.me/treeton_chat>`_
-* Prices, graphs, events `Chat RU <https://t.me/freetonanalytics>`_
+* Prices Graphs Events `Chat RU <https://t.me/freetonanalytics>`_
 * Help for New Users `Chat RU <https://t.me/freeton_global_community>`_
 * Games `Chat RU <https://t.me/freetongametournaments>`_
 * Off-top `Chat UK <https://t.me/freeton_ua>`_ `Chat RU <https://t.me/freeton_flud>`_ `Chat RU <https://t.me/freeton_talks>`_ 
