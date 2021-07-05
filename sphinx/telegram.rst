@@ -42,7 +42,7 @@ For a Validator
 
 Sub-governances 
 ~~~~~~~~~~~~~~~
-* Wiki `Channel <https://t.me/freetonwiki>`_ `<Chat https://t.me/freeton_wiki>`_ 
+* Wiki `Channel <https://t.me/freetonwiki>`_ `Chat https://t.me/freeton_wiki>`_ 
 * Academy `Chat <https://t.me/freeton_academy>`_ 
 * Analytics & Support `Chat <https://t.me/freeton_analytics>`_
 * Social media marketing `Chat <https://t.me/freetonsmm_en>`_ 
@@ -51,7 +51,7 @@ Sub-governances
 * eSports `Chat <https://t.me/freeton_esports>`_ `Tournaments Chat <https://t.me/freetonleague>`_
 * Web & Design `Chat <https://t.me/web_design_freeton>`_
 * Decentralized Organization `Chat <https://t.me/joinchat/TI4fIvQQmLboPKay>`_
-* Influencers `Channel <https://t.me/freeton_influencers_channel>`_`Chat <https://t.me/freeton_influencer s>`_
+* Influencers `Channel <https://t.me/freeton_influencers_channel>`_ `Chat <https://t.me/freeton_influencers>`_
 * Global Community `Channel <https://t.me/freeton_global_community_sub_en>`_ `Chat <https://t.me/global_community_sg>`_
 * Voice `Chat <https://t.me/commVoice_freeton>`_
 * DevOps `Chat <https://t.me/freetondevops>`_ 
@@ -94,7 +94,7 @@ Local Communities, Local Sub-governances, Information in Other Languages
 * Surf `Chat RU <https://t.me/betasurf>`_ 
 * Developement Dangerous Cases `Chat RU <https://t.me/fld_ton_dev>`_
 * Extraton `Chat RU <https://t.me/extraton>`_
-* Validators `Chat RU <https://t.me/freeton_validators_ru> ` Chat RU <https://t.me/ton_validators_ru>`_
+* Validators `Chat RU <https://t.me/freeton_validators_ru>`_ `Chat RU <https://t.me/ton_validators_ru>`_
 * Smart Contracts `Chat RU <https://t.me/freeton_smartcontracts>`_ 
 * Contests `Channel RU <https://t.me/toncontests_ru>`_
 * Philosophy `Chat RU <https://t.me/freetonphilosophie>`_
