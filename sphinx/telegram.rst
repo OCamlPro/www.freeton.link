@@ -48,10 +48,10 @@ Sub-governances
 * DeFi `Chat <https://t.me/tondefi>`_ 
 * DevEx `Chat <https://t.me/freeton_dev_exp>`_ 
 * DevOps `Chat <https://t.me/freetondevops>`_ 
-* eSports `Chat <https://t.me/freeton_esports>`_ `Tournaments Chat <https://t.me/freetonleague>`_
+* eSports `Chat <https://t.me/freeton_esports>`_ - `Tournaments Chat <https://t.me/freetonleague>`_
 * Influencers `Channel <https://t.me/freeton_influencers_channel>`_ `Chat <https://t.me/freeton_influencers>`_
 * Formal Methods `Chat <https://t.me/joinchat/rWanhNQPJ1FiMGVi>`_
-* Global Community `Channel <https://t.me/freeton_global_community_sub_en>`_ `Chat <https://t.me/global_community_sg>`_ `Chat RU <https://t.me/global_community_sg_ru>`_
+* Global Community `Channel <https://t.me/freeton_global_community_sub_en>`_ - `Chat <https://t.me/global_community_sg>`_ - `Chat RU <https://t.me/global_community_sg_ru>`_
 * NFT `Chat <https://t.me/freetonbasednft>`_
 * Social Media Marketing `Chat <https://t.me/freetonsmm_en>`_ 
 * Voice `Chat <https://t.me/commVoice_freeton>`_
