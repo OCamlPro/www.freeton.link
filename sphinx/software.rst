@@ -4,13 +4,13 @@ Software
 Development Teams
 ~~~~~~~~~~~~~~~~~
 * `Broxus <https://broxus.com/>`_ 
-* `Cex.IO.Labs <https://cexiolabs.com/>`_
-* Extraton.io team
+* `CEX.IO.LABS <https://cexiolabs.com/>`_
+* Extraton.io Team
 * `OCamlPro <https://www.ocamlpro.com/>`_
 * `Pruvendo <https://pruvendo.com/>`_
 * `Radiance <https://radianceteam.com/>`_
 * `RSquad <https://rsquad.io/>`_
-* `TonLabs <https://tonlabs.io/main>`_
+* `TON Labs <https://tonlabs.io/mai* Decentralized Organization `Chat <https://t.me/joinchat/TI4fIvQQmLboPKay>`_
 
 Wallets, Buy/Sell/Send Crystals
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
