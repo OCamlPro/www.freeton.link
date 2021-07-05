@@ -9,23 +9,23 @@ For a User
 .. |toncrystal.ico| image:: images/toncrystal.ico
 * |gramkit.ico| `TON Labs News Channel <https://t.me/freeton_me/freeton_gramkitgramkit>`_
 .. |gramkit.ico| image:: images/gramkit.ico 
-* |telegraph.ico| `Telegraph Blog Anonyme Bot <https://t.me?do=open_link/telegraph>`_
+* |telegraph.ico| Telegraph Blog Anonyme `Bot <https://t.me?do=open_link/telegraph>`_
 .. |telegraph.ico| image:: images/telegraph.ico 
-* |FreeTON2MobileBot.ico| `Send Credit To a Mobile Phone Bot <https://t.me/FreeTON2MobileBot>`_
+* |FreeTON2MobileBot.ico| Send Credit To a Mobile Phone `Bot <https://t.me/FreeTON2MobileBot>`_
 .. |FreeTON2MobileBot.ico| image:: images/FreeTON2MobileBot.ico 
-* |FREETONSHOP_bot.ico| `Free TON Shop Bot <https://t.me/FREETONSHOP_bot>`_ 
+* |FREETONSHOP_bot.ico| Free TON Shop `Bot <https://t.me/FREETONSHOP_bot>`_ 
 .. |FREETONSHOP_bot.ico| image:: images/FREETONSHOP_bot.ico 
-* `Play Poker Bot <https://ttttt.me/pokertonbot>`_ 
-* `Poker News Bot <https://t.me/pokerton>`_ 
-* `Free TON Inner Life Channel Chat <https://t.me/joinchat/UlCYzgUx8XcYqW-W>`_ 
+* Play Poker `Bot <https://ttttt.me/pokertonbot>`_ 
+* Poker News `Bot <https://t.me/pokerton>`_ 
+* Free TON Inner Life Channel `Chat <https://t.me/joinchat/UlCYzgUx8XcYqW-W>`_ 
 
 Buy/Sell/Send Crystals
 ~~~~~~~~~~~~~~~~~~
 * `Ton_p2p Chat <https://t.me/ton_p2p>`_
-* `Freeton_otc <https://t.me/freeton_otc>`_
+* `Freeton_otc Chat <https://t.me/freeton_otc>`_
 * `Tokiton Chat <https://t.me/tokiton_chat>`_
 * `Chatex Bot <https://t.me/Chatex_bot>`_
-* `Koshelek Wallet Bot <https://t.me/Koshelek_bot>`_
+* Koshelek Wallet `Bot <https://t.me/Koshelek_bot>`_
 
 For a Developer 
 ~~~~~~~~~~~~~~~
