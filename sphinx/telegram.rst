@@ -21,97 +21,85 @@ For a User
 
 Buy/Sell/Send Crystals
 ~~~~~~~~~~~~~~~~~~
-* <https://t.me/ton_p2p> Chat
-* <https://t.me/tokiton_chat> Chat
-* <https://t.me/freeton_otc> Chat
-* <https://t.me/tokiton_chat> Chat
-* <https://t.me/tokiton_chat> Chat
-* <https://t.me/Chatex_bot> Bot
-* <https://t.me/Koshelek_bot> Wallet Bot
+* `Ton_p2p Chat <https://t.me/ton_p2p>`_
+* `Freeton_otc <https://t.me/freeton_otc>`_
+* `Tokiton Chat <https://t.me/tokiton_chat>`_
+* `Chatex Bot <https://t.me/Chatex_bot>`_
+* `Koshelek Wallet Bot <https://t.me/Koshelek_bot>`_
 
 For a Developer 
 ~~~~~~~~~~~~~~~
-* <https://t.me/tonlabs> TON Labs Channel
-* <https://t.me/ton_dev> Developers Channel
-* <https://t.me/tondev_en> Developers Chat
-* <https://t.me/ton_sdk> Developers Chat
-* <https://t.me/freeton_cpp> Development C++ Nodes Chat
+* `TON Labs Channel <https://t.me/tonlabs>`_
+* `Channel <https://t.me/ton_Developers>`_ 
+* `Chat <https://t.me/tondev_en>`_
+* `Chat <https://t.me/ton_sdk>`_
+* `C++ Nodes Chat <https://t.me/freeton_cpp>`_ 
 
 For a Validator
 ~~~~~~~~~~~~~~~
-* <https://t.me/ton_validators> Validators Channel
-* <https://t.me/freetonvalidators> Validators Chat
+* `Channel <https://t.me/ton_validators>`_
+* `Chat <https://t.me/freetonvalidators>`_
 
 Sub-governances 
 ~~~~~~~~~~~~~~~
-* <https://t.me/freetonwiki> Wiki Sub-governance Channel
-* <https://t.me/freeton_wiki> Wiki Sub-governance Chat
-* <https://t.me/freeton_academy> Academy Sub-governance Chat
-* <https://t.me/freeton_analytics> Analytics & Support Sub-governance Chat
-* <https://t.me/freetonsmm_en> Social media marketing Sub-governance Chat
-* <https://t.me/freeton_dev_exp> DevEx Sub-governance Chat
-* <https://t.me/tondefi> DeFi Sub-governance Chat
-* <https://t.me/freeton_esports> eSports Sub-governance Chat
-* <https://t.me/freetonleague> eSports Sub-governance tournaments Chat
-* <https://t.me/web_design_freeton> Web & Design Sub-governance Chat
-* <https://t.me/joinchat/TI4fIvQQmLboPKay> Decentralized Sub-governance Organization Chat
-* <https://t.me/freeton_influencers_channel> Influencers Sub-governance Channel
-* <https://t.me/freeton_influencer s> Influencers Sub-governance Chat
-* <https://t.me/freeton_global_community_sub_en> Global Community Sub-governance Channel
-* <https://t.me/global_community_sg> Global Community Sub-governance Chat
-* <https://t.me/commVoice_freeton> Voice Sub-governance Chat
-* <https://t.me/freetondevops> DevOps Sub-governance Chat
-* <https://t.me/joinchat/rWanhNQPJ1FiMGVi> Formal Methods Sub-governance Chat
-* <https://t.me/freetonbasednft> NFT Sub-governance Chat
+* Wiki `Channel <https://t.me/freetonwiki>`_ `<Chat https://t.me/freeton_wiki>`_ 
+* Academy `Chat <https://t.me/freeton_academy>`_ 
+* Analytics & Support `Chat <https://t.me/freeton_analytics>`_
+* Social media marketing `Chat <https://t.me/freetonsmm_en>`_ 
+* DevEx `Chat <https://t.me/freeton_dev_exp>`_ 
+* DeFi `Chat <https://t.me/tondefi>`_ 
+* eSports `Chat <https://t.me/freeton_esports>`_ `Tournaments Chat <https://t.me/freetonleague>`_
+* Web & Design `Chat <https://t.me/web_design_freeton>`_
+* Decentralized Organization `Chat <https://t.me/joinchat/TI4fIvQQmLboPKay>`_
+* Influencers `Channel <https://t.me/freeton_influencers_channel>`_`Chat <https://t.me/freeton_influencer s>`_
+* Global Community `Channel <https://t.me/freeton_global_community_sub_en>`_ `Chat <https://t.me/global_community_sg>`_
+* Voice `Chat <https://t.me/commVoice_freeton>`_
+* DevOps `Chat <https://t.me/freetondevops>`_ 
+* Formal Methods `Chat <https://t.me/joinchat/rWanhNQPJ1FiMGVi>`_
+* NFT `Chat <https://t.me/freetonbasednft>`_
 
 Local Communities, Local Sub-governances, Information in Other Languages 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-* <https://t.me/tonafrica> African Community Chat
-* <https://t.me/freeton_arabic> Arabic Community Chat
-* <https://t.me/free_ton_asean> Asian Community Chat
-* <https://t.me/freeton_az> Azerbaijan Community Chat AZ
-* <https://t.me/freetonbelarus> Belarussian Community Channel RU
-* <https://t.me/freetonby> Belarussian Community Chat RU
-* <https://t.me/freeton_pt> Brazilian Community Chat
-* <https://t.me/ton_canada> Canadian Community Chat
-* <https://t.me/freeton_china> Chinese Community and Sub-governance Chat ZH
-* <https://t.me/gramfr> French Community and Sub-governance Chat
-* <https://t.me/ton_de> German Community Chat GE
-* <https://t.me/freetongreekcommunity> Greek Community Chat
-* <https://t.me/freeton_india> Indian Community Chat ZH
-* <https://t.me/topennetworkitalia> Italian Community Chat IT
-* <https://t.me/freetoniran> Iranian Community Chat FA
-* <https://t.me/tonkoreaorg> Korean Community and Sub-governance Chat KO
-* <https://t.me/tonkoreaorg_channel> Korean Sub-governance Channel KOR
-* <https://t.me/freeton_latvija_komuna> Latvian Community Chat
-* <https://t.me/freeton_malta> Maltese Community Chat
-* <https://t.me/ton_es> Spainish Community Chat ES
-* <https://t.me/freeton_mexico> Mexican Community and Sub-governance Chat ES
-* <https://t.me/freeton_community> Russian Community Channel RU
-* <https://t.me/freetonru> Russian Community Chat RU
-* <https://t.me/web_design_subgov> Web & Design Sub-governance Chat RU
-* <https://t.me/freetonwiki_chat> Wiki Sub-governance Chat RU
-* <https://t.me/freetonsg> Singaporean Community Chat
-* <https://t.me/tonturkiye> Turkish Community Chat TR
-* <https://t.me/freeton_ukraine> Ukrainian Community Chat RU
-* <https://t.me/freetonvn> Vietnamese Sub-governance Chat VN
-* <https://t.me/freeton_global_community_sub_ru> Global Community Sub-governance Channel RU
-* <https://t.me/global_community_sg_ru> Global Community Sub-governance Chat RU
-* <https://t.me/freetondev_ru> Developers Channel RU
-* <https://t.me/freetondevru> Developers Chat RU
-* <https://t.me/freetondebots> Debots Chat RU
-* <https://t.me/betasurf> Surf Chat RU
-* <https://t.me/fld_ton_dev> Developement Dangerous Cases Chat RU
-* <https://t.me/extraton> Extraton Chat RU
-* <https://t.me/freeton_validators_ru> Validators Chat RU
-* <https://t.me/ton_validators_ru> Validators Chat RU
-* <https://t.me/freeton_smartcontracts> Smart Contracts Chat RU
-* <https://t.me/toncontests_ru> Contests for the Community and Validators Channel RU
-* <https://t.me/freetonphilosophie> Philosophy Chat RU
-* <https://t.me/treeton_chat> Decentralization Popularization Chat RU
-* <https://t.me/freetonanalytics> Prices, graphs, events, Chat RU
-* <https://t.me/freeton_flud> Off-top Chat RU
-* <https://t.me/freeton_talks> Off-top Chat RU
-* <https://t.me/freeton_global_community> Help for New Users chat RU
-* <https://t.me/freetongametournaments> Games Chat RU
-* <https://t.me/freeton_ua> Off-top Chat UK
+* African Community `Chat <https://t.me/tonafrica>`_
+* Arabic Community `Chat <https://t.me/freeton_arabic>` 
+* Asian Community `Chat <https://t.me/free_ton_asean>`_
+* Azerbaijan Community `Chat AZ <https://t.me/freeton_az>`_
+* Belarussian Community `Channel RU <https://t.me/freetonbelarus>`_ `Chat RU <https://t.me/freetonby>`_
+* Brazilian Community `Chat <https://t.me/freeton_pt>`_ 
+* Canadian Community `Chat <https://t.me/ton_canada>`_
+* Chinese Community and Sub-governance `Chat ZH <https://t.me/freeton_china>`_
+* French Community and Sub-governance `Chat <https://t.me/gramfr>`_
+* German Community `Chat GE <https://t.me/ton_de>`
+* Greek Community `Chat <https://t.me/freetongreekcommunity>`_
+* Indian Community `Chat ZH <https://t.me/freeton_india>`_
+* Italian Community `Chat IT <https://t.me/topennetworkitalia>`_
+* Iranian Community `Chat FA <https://t.me/freetoniran>`_
+* Korean Community and Sub-governance `Channel KOR <https://t.me/tonkoreaorg_channel>`_ `Chat KO <https://t.me/tonkoreaorg>`_
+* Latvian Community `Chat <https://t.me/freeton_latvija_komuna>`_
+* Maltese Community `Chat <https://t.me/freeton_malta>`_
+* Spainish Community `Chat ES <https://t.me/ton_es>`_
+* Mexican Community and Sub-governance `Chat ES <https://t.me/freeton_mexico>`_
+* Russian Community `Channel RU <https://t.me/freeton_community>`_
+* Russian Community `Chat RU <https://t.me/freetonru>`_
+* Web & Design Sub-governance `Chat RU <https://t.me/web_design_subgov>`_
+* Wiki Sub-governance `Chat RU <https://t.me/freetonwiki_chat>`_
+* Global Community Sub-governance `Chat RU <https://t.me/global_community_sg_ru>`_
+* Singaporean Community `Chat <https://t.me/freetonsg>`_ 
+* Turkish Community `Chat TR <https://t.me/tonturkiye>`_
+* Ukrainian Community `Chat RU <https://t.me/freeton_ukraine>`_
+* Vietnamese Sub-governance `Chat VN <https://t.me/freetonvn>`_
+* Global Community Sub-governance `Channel RU <https://t.me/freeton_global_community_sub_ru>`_
+* Developers `Channel RU <https://t.me/freetondev_ru>`_ `Chat RU <https://t.me/freetondevru>`_ 
+* Debots `Chat RU <https://t.me/freetondebots>`_ 
+* Surf `Chat RU <https://t.me/betasurf>`_ 
+* Developement Dangerous Cases `Chat RU <https://t.me/fld_ton_dev>`_
+* Extraton `Chat RU <https://t.me/extraton>`_
+* Validators `Chat RU <https://t.me/freeton_validators_ru> ` Chat RU <https://t.me/ton_validators_ru>`_
+* Smart Contracts `Chat RU <https://t.me/freeton_smartcontracts>`_ 
+* Contests `Channel RU <https://t.me/toncontests_ru>`_
+* Philosophy `Chat RU <https://t.me/freetonphilosophie>`_
+* Decentralization `Popularization Chat RU <https://t.me/treeton_chat>`_
+* Prices, graphs, events `Chat RU <https://t.me/freetonanalytics>`_
+* Help for New Users `Chat RU <https://t.me/freeton_global_community>`_
+* Games `Chat RU <https://t.me/freetongametournaments>`_
+* Off-top `Chat UK <https://t.me/freeton_ua>`_ `Chat RU <https://t.me/freeton_flud>`_ `Chat RU <https://t.me/freeton_talks>`_ 
