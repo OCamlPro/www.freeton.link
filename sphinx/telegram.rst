@@ -42,21 +42,21 @@ For a Validator
 
 Sub-governances 
 ~~~~~~~~~~~~~~~
-* Wiki `Channel <https://t.me/freetonwiki>`_ `Chat https://t.me/freeton_wiki>`_ `Chat RU <https://t.me/freetonwiki_chat>`_
 * Academy `Chat <https://t.me/freeton_academy>`_ 
 * Analytics & Support `Chat <https://t.me/freeton_analytics>`_
-* Social media marketing `Chat <https://t.me/freetonsmm_en>`_ 
-* DevEx `Chat <https://t.me/freeton_dev_exp>`_ 
 * DeFi `Chat <https://t.me/tondefi>`_ 
+* DevEx `Chat <https://t.me/freeton_dev_exp>`_ 
+* DevOps `Chat <https://t.me/freetondevops>`_ 
 * eSports `Chat <https://t.me/freeton_esports>`_ `Tournaments Chat <https://t.me/freetonleague>`_
-* Web & Design `Chat <https://t.me/web_design_freeton>`_ `Chat RU <https://t.me/web_design_subgov>`_
 * Decentralized Organization `Chat <https://t.me/joinchat/TI4fIvQQmLboPKay>`_
 * Influencers `Channel <https://t.me/freeton_influencers_channel>`_ `Chat <https://t.me/freeton_influencers>`_
-* Global Community `Channel <https://t.me/freeton_global_community_sub_en>`_ `Chat <https://t.me/global_community_sg>`_ `Chat RU <https://t.me/global_community_sg_ru>`_
-* Voice `Chat <https://t.me/commVoice_freeton>`_
-* DevOps `Chat <https://t.me/freetondevops>`_ 
 * Formal Methods `Chat <https://t.me/joinchat/rWanhNQPJ1FiMGVi>`_
+* Global Community `Channel <https://t.me/freeton_global_community_sub_en>`_ `Chat <https://t.me/global_community_sg>`_ `Chat RU <https://t.me/global_community_sg_ru>`_
 * NFT `Chat <https://t.me/freetonbasednft>`_
+* Social Media Marketing `Chat <https://t.me/freetonsmm_en>`_ 
+* Voice `Chat <https://t.me/commVoice_freeton>`_
+* Web & Design `Chat <https://t.me/web_design_freeton>`_ `Chat RU <https://t.me/web_design_subgov>`_
+* Wiki `Channel <https://t.me/freetonwiki>`_ `Chat https://t.me/freeton_wiki>`_ `Chat RU <https://t.me/freetonwiki_chat>`_
 
 Local Communities, Local Sub-governances, Information in Other Languages 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
