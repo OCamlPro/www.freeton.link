@@ -13,8 +13,11 @@ Welcome to Freeton Link!
    Home <https://www.freeton.link>
    about
    software
+   user
    telegram
+   developer
    websites
+   validator
    local
    Edit on Github <https://github.com/ocamlpro/www.freeton.link>
 
