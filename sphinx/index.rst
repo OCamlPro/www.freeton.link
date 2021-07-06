@@ -15,6 +15,7 @@ Welcome to Freeton Link!
    websites
    telegram
    software
+   local
    Edit on Github <https://github.com/ocamlpro/www.freeton.link>
 
 
