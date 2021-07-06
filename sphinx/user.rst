@@ -41,7 +41,7 @@ Webapps
 * `Advertising <https://adgram.io/>`_ 
 * Shop |FREETONSHOP_bot.ico| `Telegram Bot <https://t.me/FREETONSHOP_bot>`_  
 * Send Credit To a Mobile Phone `|FreeTON2MobileBot.ico| Telegram Bot <https://t.me/FreeTON2MobileBot>`_ 
-* `Easy-vote https://easy-vote.rsquad.io/`_
+* `Easy-vote https://easy-vote.rsquad.io/`_ 
 * Blog Anonyme `Telegraph <https://telegra.ph>` - |telegraph.ico| `Telegram Bot <https://t.me?do=open_link/te>`_
 
 Games
