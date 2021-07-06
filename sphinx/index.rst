@@ -12,9 +12,9 @@ Welcome to Freeton Link!
 
    Home <https://www.freeton.link>
    about
-   websites
-   telegram
    software
+   telegram
+   websites
    local
    Edit on Github <https://github.com/ocamlpro/www.freeton.link>
 
