@@ -12,7 +12,7 @@ Welcome to Freeton Link!
 
    Home <https://www.freeton.link>
    about
-   user
+   software
    telegram
    websites
    local
