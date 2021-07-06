@@ -1,6 +1,5 @@
 For a Developer
 ===============
-* `Telegram Channel <https://t.me/ton_Developers>`_ (?)
 * `Telegram Chat <https://t.me/tondev_en>`_
 * `Telegram Chat <https://t.me/ton_sdk>`_
 * `C++ Nodes Telegram Chat <https://t.me/freeton_cpp>`_ 
@@ -8,7 +7,7 @@ For a Developer
 Contests
 ~~~~~~~~
 * `freeton.org <https://gov.freeton.org>`_
-* `Contests <https://tonseed.com/>`_
+* `tonseed.com <https://tonseed.com/>`_
 * `For Beginners <https://telegra.ph/How-to-prepare-and-submit-a-competitive-offer-in-Free-TON-08-18>`_
 
 Tooling
@@ -20,16 +19,16 @@ Tooling
 
 Code
 ~~~~
-* `TON https://github.com/ton-blockchain`_ 
-* `Free TON https://github.com/tonlabs`_
+* `TON <https://github.com/ton-blockchain>`_
+* `Free TON <https://github.com/tonlabs>`_
 
 Documentation
 ~~~~~~~~~~~~~
 * `ton.org <https://ton.org/>`_
 * `TON Labs <https://docs.ton.dev>`_
 
-In Other Languages
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Other Languages
+~~~~~~~~~~~~~~~
 * Developers `Telegram Channel RU <https://t.me/freetondev_ru>`_ `Telegram Chat RU <https://t.me/freetondevru>`_ 
 * Debots `Telegram Chat RU <https://t.me/freetondebots>`_ 
 * Surf `Telegram Chat RU <https://t.me/betasurf>`_ 
