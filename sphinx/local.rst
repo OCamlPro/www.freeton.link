@@ -15,7 +15,7 @@ Local Communities and Sub-Governances
 * Italian Community `Chat IT <https://t.me/topennetworkitalia>`_
 * Iranian Community `Chat FA <https://t.me/freetoniran>`_
 * Korean Community and Sub-Governance `Channel KOR <https://t.me/tonkoreaorg_channel>`_ - `Chat KOR <https://t.me/tonkoreaorg>`_
-* Latvian Community `Chat <https://t.me/freeton_latvija_komuna>`_ - `Twitter LV <https://twitter.com/FreetonLatvija>`_ - `LV ? <https://freetonlatvija.medium.com>`_
+* Latvian Community `Chat <https://t.me/freeton_latvija_komuna>`_ - `Twitter LV <https://twitter.com/FreetonLatvija>`_ - `Blog <https://freetonlatvija.medium.com>`_
 * Maltese Community `Chat <https://t.me/freeton_malta>`_
 * Spainish Community `Chat ES <https://t.me/ton_es>`_
 * Mexican Community and Sub-Governance `Chat ES <https://t.me/freeton_mexico>`_
