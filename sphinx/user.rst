@@ -4,7 +4,7 @@ For a User
 * Community `Telegram Chat |toncrystal.ico| <https://t.me/toncrystal>`_ - `Facebook <https://www.facebook.com/CommunityTon>`_ - `Twitter <https://twitter.com/CommunityTon>`_ - `Instagram <https://www.instagram.com/communityton/>`_ - `Linkedin <https://www.linkedin.com/in/free-ton/>`_
 * `Youtube <https://www.youtube.com/c/FreeTON_official/featured>`_
 * `Telegram Channel |FreeTonNews.ico| <https://t.me/ton_crystal_news>`_
-* `Discussions, Proposals <https://freeton.org/>\_
+* `Discussions, Proposals <https://freeton.org/>`_
 * Free TON Inner Life `Telegram Chat <https://t.me/joinchat/UlCYzgUx8XcYqW-W>`_ 
 * `Wiki <https://en.freeton.wiki/Free_TON_Wiki>`_
 
