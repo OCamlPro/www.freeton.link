@@ -1,8 +1,8 @@
 For a Developer
 ===============
-* `Telegram Chat <https://t.me/tondev_en>`_
-* `Telegram Chat <https://t.me/ton_sdk>`_
-* `C++ Nodes Telegram Chat <https://t.me/freeton_cpp>`_ 
+* Tondev `Telegram Chat <https://t.me/tondev_en>`_
+* SDK `Telegram Chat <https://t.me/ton_sdk>`_
+* C++ Nodes `Telegram Chat <https://t.me/freeton_cpp>`_ 
 
 Contests
 ~~~~~~~~
@@ -29,13 +29,9 @@ Documentation
 
 Other Languages
 ~~~~~~~~~~~~~~~
-* Developers `Telegram Channel RU <https://t.me/freetondev_ru>`_ `Telegram Chat RU <https://t.me/freetondevru>`_ 
-* Debots `Telegram Chat RU <https://t.me/freetondebots>`_ 
+* Developers `Telegram Channel RU <https://t.me/freetondev_ru>`_ - `Telegram Chat RU <https://t.me/freetondevru>`_ 
 * Surf `Telegram Chat RU <https://t.me/betasurf>`_ 
-* Developement Dangerous Cases `Telegram Chat RU <https://t.me/fld_ton_dev>`_
-* Extraton `Telegram Chat RU <https://t.me/extraton>`_
 * Smart Contracts `Telegram Chat RU <https://t.me/freeton_smartcontracts>`_ 
+* Debots `Telegram Chat RU <https://t.me/freetondebots>`_ 
 * Contests `Telegram Channel RU <https://t.me/toncontests_ru>`_
-
-.. |gramkit.ico| image:: images/gramkit.ico 
-.. |telegraph.ico| image:: images/telegraph.ico 
+* Developement Dangerous Cases `Telegram Chat RU <https://t.me/fld_ton_dev>`_

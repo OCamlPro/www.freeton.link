@@ -41,8 +41,8 @@ Webapps
 * `Advertising <https://adgram.io/>`_ 
 * Shop |FREETONSHOP_bot.ico| `Telegram Bot <https://t.me/FREETONSHOP_bot>`_  
 * Send Credit To a Mobile Phone |FreeTON2MobileBot.ico| `Telegram Bot <https://t.me/FreeTON2MobileBot>`_ 
-* `Easy-vote https://easy-vote.rsquad.io/`_ 
-* Blog Anonyme `Telegraph <https://telegra.ph>` - |telegraph.ico| `Telegram Bot <https://t.me?do=open_link/te>`_
+* `Easy-vote <https://easy-vote.rsquad.io/>`_  
+* Blog Anonyme `Telegraph <https://telegra.ph>`_ - |telegraph.ico| `Telegram Bot <https://t.me?do=open_link/te>`_
 
 Games
 ~~~~~
@@ -59,16 +59,16 @@ Blogs
 Analytics
 ~~~~~~~~~~
 * https://coinmarketcap.com/currencies/ton-crystal/ 
-* <https://www.coingecko.com/en/coins/ton-crystamarkets/l>
-* <https://coinpaprika.com/coin/ton-ton-crystal/>
-* <https://coinstats.app/en/coins/ton-crystal/>
-* <https://coincodex.com/crypto/ton-crystal/>
-* <https://www.mytokencap.com/currency/ton/821769253>
-* <https://coincheckup.com/coins/ton-crystal>
-* <https://coinmarketcal.com/ru/coin/ton-crystal>
-* <https://coinranking.com/fr/coin/VyoUfuqTuttT+toncrystal-ton>
-* <https://app.santiment.net/studio>
-* <https://www.feixiaohao.cc/currencies/ton-crystal/>
+* https://www.coingecko.com/en/coins/ton-crystamarkets/l
+* https://coinpaprika.com/coin/ton-ton-crystal/
+* https://coinstats.app/en/coins/ton-crystal/
+* https://coincodex.com/crypto/ton-crystal/
+* https://www.mytokencap.com/currency/ton/821769253
+* https://coincheckup.com/coins/ton-crystal
+* https://coinmarketcal.com/ru/coin/ton-crystal
+* https://coinranking.com/fr/coin/VyoUfuqTuttT+toncrystal-ton
+* https://app.santiment.net/studio
+* https://www.feixiaohao.cc/currencies/ton-crystal/
 
 Block Explorers
 ~~~~~~~~~~~~~~~
@@ -107,11 +107,12 @@ Development Teams
 
 Other indexes
 ~~~~~~~~~~~~~
-* `Telegra.ph <https://telegra.ph/Structure-of-the-Free-TON-ecosystem-08-31>`_
 * `RSquad <http://ton-test.rsquad.io/>`_
+* `Telegra.ph <https://telegra.ph/Structure-of-the-Free-TON-ecosystem-08-31>`_
 
 Other Languages
 ~~~~~~~~~~~~~~~
+* Extraton `Telegram Chat RU <https://t.me/extraton>`_
 * `News RU <https://telemetr.io/en/channels/1477384745-freeton_community>`_
 * `Blog RU <https://blog.freeton.org/>`_ 
 * Analytics `Telegram Chat RU <https://t.me/freetonanalytics>`_
@@ -131,3 +132,5 @@ Other Languages
 .. |FREETONSHOP_bot.ico| image:: images/FREETONSHOP_bot.ico 
 .. |FreeTonNews.ico| image:: images/FreeTonNews.ico 
 .. |toncrystal.ico| image:: images/toncrystal.ico
+.. |gramkit.ico| image:: images/gramkit.ico 
+.. |telegraph.ico| image:: images/telegraph.ico 
