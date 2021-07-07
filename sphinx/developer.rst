@@ -29,6 +29,7 @@ Documentation
 
 Other Languages
 ~~~~~~~~~~~~~~~
+You are welcome to ask your questions in English!
 * Developers `Telegram Channel RU <https://t.me/freetondev_ru>`_ - `Telegram Chat RU <https://t.me/freetondevru>`_ 
 * Surf `Telegram Chat RU <https://t.me/betasurf>`_ 
 * Smart Contracts `Telegram Chat RU <https://t.me/freeton_smartcontracts>`_ 
