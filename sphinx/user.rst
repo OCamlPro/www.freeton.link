@@ -28,13 +28,14 @@ Buy/Sell Crystals
 * https://hitbtc.com/ton-to-usdt
 * https://cex.io/ton-usdt
 * https://prizmbit.com/exchange/TON-USDT
-* https://pro.changelly.com/
+* https://pro.changelly.com/otc
 
 Webapps
 ~~~~~~~
 * `Extraton <https://extraton.io/>`_ 
 * `push.money <https://push.money/>`_
 * `Advertising <https://adgram.io/>`_ 
+* `Announces <https://t.me/freetonstore>`_
 * Shop |FREETONSHOP_bot.ico| `Telegram Bot <https://t.me/FREETONSHOP_bot>`_  
 * Send Credit To a Mobile Phone |FreeTON2MobileBot.ico| `Telegram Bot <https://t.me/FreeTON2MobileBot>`_ 
 * Blog Anonyme `Telegraph <https://telegra.ph>`_ - |telegraph.ico| `Telegram Bot <https://t.me?do=open_link/te>`_
