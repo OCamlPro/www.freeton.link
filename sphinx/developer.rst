@@ -1,5 +1,6 @@
 For a Developer
 ===============
+* `Telegram Channel <https://t.me/TON_DEV>`_
 * Tondev `Telegram Chat <https://t.me/tondev_en>`_
 * SDK `Telegram Chat <https://t.me/ton_sdk>`_
 * C++ Nodes `Telegram Chat <https://t.me/freeton_cpp>`_ 
