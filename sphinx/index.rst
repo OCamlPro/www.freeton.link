@@ -10,7 +10,7 @@ Welcome to Freeton Link!
    :maxdepth: 2
    :caption: FreeTON Link
 
-   Home <https://www.freeton.link>
+   Home <https://kostrik2.github.io/www.freeton.link>
    about
    user
    developer
