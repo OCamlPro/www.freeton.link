@@ -9,6 +9,7 @@ Contests
 * `freeton.org <https://gov.freeton.org>`_
 * `tonseed.com <https://tonseed.com/>`_
 * `For Beginners <https://telegra.ph/How-to-prepare-and-submit-a-competitive-offer-in-Free-TON-08-18>`_
+* `Jury Vote <https://easy-vote.rsquad.io/>`_  
 
 Tooling
 ~~~~~~~

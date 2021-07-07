@@ -26,12 +26,12 @@ Buy/Sell Crystals
 * `Telegram Chat <https://t.me/freeton_otc>`_
 * `Telegram Chat <https://t.me/tokiton_chat>`_
 * `Telegram Bot <https://t.me/Chatex_bot>`_
-* <https://exchange.bitcoin.com/ton-to-btc>
-* <https://kuna.io/markets/bnbrub>
-* <https://hitbtc.com/ton-to-usdt>
-* <https://cex.io/ton-usdt>
-* <https://prizmbit.com/exchange/TON-USDT>
-* <https://pro.changelly.com/>
+* https://exchange.bitcoin.com/ton-to-btc
+* https://kuna.io/markets/bnbrub
+* https://hitbtc.com/ton-to-usdt
+* https://cex.io/ton-usdt
+* https://prizmbit.com/exchange/TON-USDT
+* https://pro.changelly.com/
 
 Webapps
 ~~~~~~~
@@ -40,7 +40,6 @@ Webapps
 * `Advertising <https://adgram.io/>`_ 
 * Shop |FREETONSHOP_bot.ico| `Telegram Bot <https://t.me/FREETONSHOP_bot>`_  
 * Send Credit To a Mobile Phone |FreeTON2MobileBot.ico| `Telegram Bot <https://t.me/FreeTON2MobileBot>`_ 
-* `Easy-vote <https://easy-vote.rsquad.io/>`_  
 * Blog Anonyme `Telegraph <https://telegra.ph>`_ - |telegraph.ico| `Telegram Bot <https://t.me?do=open_link/te>`_
 
 Games
@@ -104,7 +103,7 @@ Development Teams
 * `RSquad <https://rsquad.io/>`_
 * `TON Labs <https://tonlabs.io>`_ - `Telegram Channel <https://t.me/tonlabs>`_ - `Youtube <https://www.youtube.com/c/TONLabs/featured>`_ - `Facebook <https://www.facebook.com/tonlabsio>`_ - `Twitter <https://twitter.com/tonlabs>`_ - |gramkit.ico| `News Telegram Channel <https://t.me/freeton_me/freeton_gramkitgramkit>`_ - `News <https://gramkit.org/>`_
 
-Other indexes
+Other Indexes
 ~~~~~~~~~~~~~
 * `RSquad <http://ton-test.rsquad.io/>`_
 * `Telegra.ph <https://telegra.ph/Structure-of-the-Free-TON-ecosystem-08-31>`_
