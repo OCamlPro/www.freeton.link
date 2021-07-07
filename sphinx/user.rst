@@ -111,6 +111,8 @@ Other indexes
 
 Other Languages
 ~~~~~~~~~~~~~~~
+You are welcome to ask your questions in English!
+
 * Extraton `Telegram Chat RU <https://t.me/extraton>`_
 * `News RU <https://telemetr.io/en/channels/1477384745-freeton_community>`_
 * `Blog RU <https://blog.freeton.org/>`_ 
