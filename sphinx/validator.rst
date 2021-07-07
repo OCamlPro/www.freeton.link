@@ -2,6 +2,7 @@ For a Validator
 ===============
 * `Telegram Channel <https://t.me/ton_validators>`_
 * `Telegram Chat <https://t.me/freetonvalidators>`_
+* `Depool Validators Explorer <https://depools.extraton.io/>`_
 
 Other Languages
 ~~~~~~~~~~~~~~~
