@@ -41,8 +41,8 @@ Webapps
 
 Games
 ~~~~~
-* Play Poker `Telegram Bot <https://ttttt.me/pokertonbot>`_ - `News <https://t.me/pokerton>`_ 
-* World Of Dogs `Telegram Bot https://t.me/WorldDogs_bot>`_ - `Telegram Chat <https://t.me/WorldDogs>`_
+* Play Poker `Telegram Bot <https://ttttt.me/pokertonbot>`_ 
+* World Of Dogs `Telegram Bot https://t.me/WorldDogs_bot>`_
 
 Blogs
 ~~~~~
