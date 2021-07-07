@@ -35,15 +35,14 @@ Webapps
 * `Extraton <https://extraton.io/>`_ 
 * `push.money <https://push.money/>`_
 * `Advertising <https://adgram.io/>`_ 
-* `Announces <https://t.me/freetonstore>`_
 * Shop |FREETONSHOP_bot.ico| `Telegram Bot <https://t.me/FREETONSHOP_bot>`_  
 * Send Credit To a Mobile Phone |FreeTON2MobileBot.ico| `Telegram Bot <https://t.me/FreeTON2MobileBot>`_ 
 * Blog Anonyme `Telegraph <https://telegra.ph>`_ - |telegraph.ico| `Telegram Bot <https://t.me?do=open_link/te>`_
 
 Games
 ~~~~~
-* Play Poker `Telegram Bot <https://ttttt.me/pokertonbot>`_ 
-* Poker News `Telegram Bot <https://t.me/pokerton>`_ 
+* Play Poker `Telegram Bot <https://ttttt.me/pokertonbot>`_ - `News <https://t.me/pokerton>`_ 
+* World Of Dogs `Telegram Bot https://t.me/WorldDogs_bot>`_ - `Telegram Chat <https://t.me/WorldDogs>`_
 
 Blogs
 ~~~~~
@@ -121,6 +120,7 @@ You are welcome to ask your questions in English!
 * Philosophy `Telegram Chat RU <https://t.me/freetonphilosophie>`_
 * Decentralization Popularization `Telegram Chat RU <https://t.me/treeton_chat>`_
 * `Cybersport RU <https://www.cybersport.ru/base/teams/no_org/free-ton>`_
+* `Announces RU <https://t.me/freetonstore>`_
 * Games `Chat RU <https://t.me/freetongametournaments>`_
 * Help for New Users `Telegram Chat RU <https://t.me/freeton_global_community>`_
 * Off-top `Chat UK <https://t.me/freeton_ua>`_ - `Telegram Chat RU <https://t.me/freeton_flud>`_ - `Telegram Chat RU <https://t.me/freeton_talks>`_ 
