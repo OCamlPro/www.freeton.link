@@ -45,6 +45,8 @@ Buy/Sell Crystals
 
 Earn Crystals
 ~~~~~~~~~~~~~
+Run a Validator .. doube
+Participe in Contests .. double
 `Free TON TRUST Chat RU <https://t.me/joinchat/GKhzXBByu-ShTXblIwD0AQ>`_ ?
 
 Buy/Sell NFT (Non Fungible Tokens)
@@ -118,7 +120,7 @@ You are welcome to ask your questions in English!
 * Maltese Community `Chat <https://t.me/freeton_malta>`_
 * Spainish Community `Chat ES <https://t.me/ton_es>`_
 * Mexican Community `Chat ES <https://t.me/freeton_mexico>`_ .. double
-* Russian Community `Channel RU <https://t.me/freeton_community>`_ - `Chat RU <https://t.me/freetonru>`_
+* Russian Community `Channel RU <https://t.me/freeton_community>`_
 * Singaporean Community `Chat <https://t.me/freetonsg>`_ 
 * Turkish Community `Chat TR <https://t.me/tonturkiye>`_
 * Ukrainian Community `Chat RU <https://t.me/freeton_ukraine>`_
