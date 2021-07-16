@@ -12,7 +12,7 @@ Read, Discuss
 
 Tooling
 ~~~~~~~
-* `ft <https://ocamlpro.github.io/freeton_wallet/>`_
+* |ocamlpro.ico| `ft <https://ocamlpro.github.io/freeton_wallet/>`_
 * `locklift <https://www.npmjs.com/package/locklift>`_
 * `GraphQL <https://net.ton.dev/graphql>`_ 
 * `TestSuite4 <https://github.com/tonlabs/tondev#testsuite4>`_
@@ -41,4 +41,7 @@ You are welcome to ask your questions in English!
 * Smart Contracts `Chat RU <https://t.me/freeton_smartcontracts>`_ 
 * Debots `Chat RU <https://t.me/freetondebots>`_ 
 * Contests `Channel RU <https://t.me/toncontests_ru>`_
-* Developement Dangerous Cases `Chat RU <https://t.me/fld_ton_dev>`_
+* Developement Dangerous Cases `Chat RU <https://t.me/fld_ton_dev>`
+
+
+.. |ocamlpro.ico| image:: images/ocamlpro.ico

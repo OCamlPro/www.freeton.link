@@ -8,9 +8,9 @@ Read, Watch, Discuss
 * `Youtube <https://www.youtube.com/c/FreeTON_official/featured>`_
 * |FreeTonNews.ico| `Channel <https://t.me/ton_crystal_news>`_
 * Free TON House `Blog <https://freeton.house/>`_ - `Blog <https://toncrystal.today/>`_ - `Twitter <https://twitter.com/FreetonH>`_
-* Medium Blog `Freeton <https://medium.com/freeton>`_ - `Vitalik Buterin <https://medium.com/@VitalikButerin>`_ - `OCamlPro <https://medium.com/ocamlpro-blockchain-fr>`_ - `Evertake <https://medium.com/everstake/what-is-free-ton-and-how-ton-blockchain-benefits-a-wide-range-of-industries-from-serving-81f0ddfbfd61>`_ - and others
+* Medium Blog `Freeton <https://medium.com/freeton>`_ - `Vitalik Buterin <https://medium.com/@VitalikButerin>`_ - |ocamlpro.ico| `OCamlPro <https://medium.com/ocamlpro-blockchain-fr>`_ - `Evertake <https://medium.com/everstake/what-is-free-ton-and-how-ton-blockchain-benefits-a-wide-range-of-industries-from-serving-81f0ddfbfd61>`_ - and others
 * Reddit `Blog <https://www.reddit.com/r/TONCRYSTAL/>`_
-* OCamlPro `Blog <https://medium.com/ocamlpro-blockchain-fr>`_
+* |ocamlpro.ico| OCamlPro `Blog <https://medium.com/ocamlpro-blockchain-fr>`_
 * Cointelegraph `Blog <https://cointelegraph.com/>`_
 * Pavel Durov `Channel <https://t.me/durov>`_ - `Twitter <https://twitter.com/durov>`_ - `What Was TON And Why It Is Over <https://telegra.ph/What-Was-TON-And-Why-It-Is-Over-05-12>`_
 * ɖɦ2 `Blog <https://hackmd.io/KdvOCkZPQ-O3wPq8a5SUOg?view>`_ - `Blog <https://hackmd.io/PuNAVksrRTus-QNbKrzbMQ?view>`_
@@ -61,7 +61,7 @@ Blocks Explorers
 ~~~~~~~~~~~~~~~~
 * `ton.live <https://ton.live/>`_
 * `ton-explorer.com <http://ton-explorer.com/>`_
-* `freeton_watcher <https://gitlab.ocamlpro.com/steven.de-oliveira/freeton_watcher>`_
+* |ocamlpro.ico| `freeton_watcher <https://gitlab.ocamlpro.com/steven.de-oliveira/freeton_watcher>`_
 
 Analytics
 ~~~~~~~~~
@@ -133,3 +133,4 @@ Other Indexes
 .. |FreeTonNews.ico| image:: images/FreeTonNews.ico 
 .. |toncrystal.ico| image:: images/toncrystal.ico
 .. |telegraph.ico| image:: images/telegraph.ico 
+.. |ocamlpro.ico| image:: images/ocamlpro.ico
