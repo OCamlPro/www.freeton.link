@@ -80,8 +80,8 @@ Analytics
 * https://app.santiment.net/studio
 * https://www.feixiaohao.cc/currencies/ton-crystal/
 
-Other Languages and Local Communities 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Local Communities and Different Languages 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 You are welcome to ask your questions in English!
 
 * African Community `Chat <https://t.me/tonafrica>`_
