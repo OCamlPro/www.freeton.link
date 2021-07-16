@@ -27,20 +27,21 @@ Sub-Governances
 * Academy `Chat <https://t.me/freeton_academy>`_ - `Twitter <https://twitter.com/freeton_academy>`_
 * Analytics & Support `Chat <https://t.me/freeton_analytics>`_
 * Decentralized Organization `Chat <https://t.me/joinchat/TI4fIvQQmLboPKay>`_
-* DeFi (Decentralized Finance) `Chat <https://t.me/tondefi>`_ 
-* DevEx (Developer Experience) `Chat <https://t.me/freeton_dev_exp>`_ 
+* DeFi : Decentralized Finance `Chat <https://t.me/tondefi>`_ 
+* DevEx : Developer Experience `Chat <https://t.me/freeton_dev_exp>`_ 
 * DevOps `Chat <https://t.me/freetondevops>`_ 
-* ESports `Chat <https://t.me/freeton_esports>`_ - `Tournaments Chat <https://t.me/freetonleague>`_
+* ESports `Chat <https://t.me/freeton_esports>`_ - `Tournaments Chat <https://t.me/freetonleague>`_ - `Channel RU <https://t.me/freetonesports>`\
+* Event `Chat RU <https://t.me/EventsSubgovernance_ru>`_
 * Influencers `Channel <https://t.me/freeton_influencers_channel>`_ `Chat <https://t.me/freeton_influencers>`_
 * Formal Methods `Chat <https://t.me/joinchat/rWanhNQPJ1FiMGVi>`_
 * Global Community `Channel <https://t.me/freeton_global_community_sub_en>`_ - `Chat <https://t.me/global_community_sg>`_ - `Channel RU <https://t.me/freeton_global_community_sub_ru>`_ - `Chat RU <https://t.me/global_community_sg_ru>`_
 * NFT (Non Fungible Token) `Chat <https://t.me/freetonbasednft>`_
-* Social Media Marketing `Chat <https://t.me/freetonsmm_en>`_ 
+* SMM (Social Media Marketing) `Chat <https://t.me/freetonsmm_en>`_ - `Chat RU <https://t.me/freetonsmm>`_ - `Blog <https://blog.freeton.org>`_ - `YouTube <https://bit.ly/36gYO4Y>`_ - `Twitter <https://bit.ly/30iiTEn>`_ - `Facebook <https://bit.ly/347zb43>`_ - `Reddit <https://bit.ly/3cJV1yn>`_ - `SMM Contests <https://t.me/smm_contests>`_
 * Voice `Chat <https://t.me/commVoice_freeton>`_
 * Web & Design `Chat <https://t.me/web_design_freeton>`_ - `Chat RU <https://t.me/web_design_subgov>`_
 * Wiki `Channel <https://t.me/freetonwiki>`_ - `Chat <https://t.me/freeton_wiki>`_ - `Chat RU <https://t.me/freetonwiki_chat>`_
-* Chinese Sub-Governance `Chat ZH <https://t.me/freeton_china>`_
-* French Sub-Governance `Chat <https://t.me/gramfr>`_
+* Chinese Sub-Governancgramfre `Chat ZH <https://t.me/freeton_china>`_
+* French Sub-Governance `Chat <https://t.me/>`_
 * Korean Sub-Governance `Channel KOR <https://t.me/tonkoreaorg_channel>`_ - `Chat KOR <https://t.me/tonkoreaorg>`_
 * Mexican Sub-Governance `Chat ES <https://t.me/freeton_mexico>`_
 * Vietnamese Sub-Governance `Chat VN <https://t.me/freetonvn>`_

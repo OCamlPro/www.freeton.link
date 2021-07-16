@@ -5,10 +5,11 @@ Read, Watch, Discuss
 ~~~~~~~~~~~~~~~~~~~~
 * Community `WEB <https://freeton.org/>`_ - `Chat |toncrystal.ico| <https://t.me/toncrystal>`_ - `Facebook <https://www.facebook.com/CommunityTon>`_ - `Twitter <https://twitter.com/CommunityTon>`_ - `Instagram <https://www.instagram.com/communityton/>`_ - `Linkedin <https://www.linkedin.com/in/free-ton/>`_
 * `News <https://ton-news.com/>`_
+* News `Channel <https://t.me/TON_Journal_TM>`_
 * `Youtube <https://www.youtube.com/c/FreeTON_official/featured>`_
 * |FreeTonNews.ico| `Channel <https://t.me/ton_crystal_news>`_
 * Cointelegraph `Blog <https://cointelegraph.com/>`_
-* Free TON House `Blog <https://freeton.house/>`_ - `Blog <https://toncrystal.today/>`_ - `Twitter <https://twitter.com/FreetonH>`_
+* Free TON House `Blog <https://freeton.house/>`_ - `Blog <https://toncrystal.today/>`_ - `Twitter <https://twitter.com/FreetonH>`_ - `Channel RU <https://t.me/fth_ru>`_
 * Medium Blog `Freeton <https://medium.com/freeton>`_ - `Vitalik Buterin <https://medium.com/@VitalikButerin>`_ - |ocamlpro.ico| `OCamlPro <https://medium.com/ocamlpro-blockchain-fr>`_ - `Evertake <https://medium.com/everstake/what-is-free-ton-and-how-ton-blockchain-benefits-a-wide-range-of-industries-from-serving-81f0ddfbfd61>`_ - and others
 * |ocamlpro.ico| OCamlPro `Blog <https://medium.com/ocamlpro-blockchain-fr>`_
 * Reddit `Blog <https://www.reddit.com/r/TONCRYSTAL/>`_
@@ -98,18 +99,19 @@ You are welcome to ask your questions in English!
 * Belarussian Community `Channel RU <https://t.me/freetonbelarus>`_ - `Chat RU <https://t.me/freetonby>`_
 * Brazilian Community `Chat <https://t.me/freeton_pt>`_ 
 * Canadian Community `Chat <https://t.me/ton_canada>`_
-* Chinese Community `Chat ZH <https://t.me/freeton_china>`_
-* French Community `Chat <https://t.me/gramfr>`_
+* Chinese Community `Chat ZH <https://t.me/freeton_china>`_ .. double
+* Ecuador Community `Chat <https://t.me/ton_ecuador>`_
+* French Community `Chat <https://t.me/gramfr>`_ .. double
 * German Community `Chat GE <https://t.me/ton_de>`_
 * Greek Community `Chat <https://t.me/freetongreekcommunity>`_
 * Indian Community `Chat ZH <https://t.me/freeton_india>`_
 * Italian Community `Chat IT <https://t.me/topennetworkitalia>`_
 * Iranian Community `Chat FA <https://t.me/freetoniran>`_
-* Korean Community `Channel KOR <https://t.me/tonkoreaorg_channel>`_ - `Chat KOR <https://t.me/tonkoreaorg>`_
+* Korean Community `Channel KOR <https://t.me/tonkoreaorg_channel>`_ - `Chat KOR <https://t.me/tonkoreaorg>`_ .. double
 * Latvian Community `Chat <https://t.me/freeton_latvija_komuna>`_ - `Twitter LV <https://twitter.com/FreetonLatvija>`_ - `Blog <https://freetonlatvija.medium.com>`_
 * Maltese Community `Chat <https://t.me/freeton_malta>`_
 * Spainish Community `Chat ES <https://t.me/ton_es>`_
-* Mexican Community `Chat ES <https://t.me/freeton_mexico>`_
+* Mexican Community `Chat ES <https://t.me/freeton_mexico>`_ .. double
 * Russian Community `Channel RU <https://t.me/freeton_community>`_ - `Chat RU <https://t.me/freetonru>`_
 * Singaporean Community `Chat <https://t.me/freetonsg>`_ 
 * Turkish Community `Chat TR <https://t.me/tonturkiye>`_
@@ -123,13 +125,13 @@ You are welcome to ask your questions in English!
 * `Announces RU <https://t.me/freetonstore>`_
 * Games `Chat RU <https://t.me/freetongametournaments>`_
 * Help for New Users `Chat RU <https://t.me/freeton_global_community>`_
-* Off-top `Chat UK <https://t.me/freeton_ua>`_ - `Chat RU <https://t.me/freeton_flud>`_ - `Chat RU <https://t.me/freeton_talks>`_ 
+* Off-top `Chat UK <https://t.me/freeton_ua>`_ - `Chat RU <https://t.me/freeton_flud>`_ - `Chat RU <https://t.me/freeton_talks>`_ - `Chat RU <https://t.me/FreeTonEC>`_ - `Chat RU <https://t.me/ft_flud>`_ - `Voice Chat RU <https://t.me/EventsSubgovernance_ru>`_
 
 Other Indexes
 ~~~~~~~~~~~~~
 * `RSquad <http://ton-test.rsquad.io/>`_
 * `Telegra.ph <https://telegra.ph/Structure-of-the-Free-TON-ecosystem-08-08-31>`_
-
+* `Telegram Search <https://www.tg-me.com/telegram-group/free%20ton>`_
 
 .. |br| raw:: html
 
