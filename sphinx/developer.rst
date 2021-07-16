@@ -4,12 +4,12 @@ For a Developer
 Read, Discuss
 ~~~~~~~~~~~~~
 * `Channel <https://t.me/TON_DEV>`_
-* `Chat <https://t.me/freeton_dev_exp>`_ .. double
+* `Chat <https://t.me/freeton_dev_exp>`_
 * Tondev `Chat <https://t.me/tondev_en>`_
 * SDK, tondev, ton os, tonos se `Chat <https://t.me/ton_sdk>`_ 
 * C++ Nodes `Chat <https://t.me/freeton_cpp>`_ 
 * `Stackoverflow <https://stackoverflow.com/search?q=free+ton>`_
-* TON Seed : Quick Start Platform `WEB <https://tonseed.com/>`_ - `Forum <https://forum.freeton.org/c/ton-seed-thread/164>`_ - `Channel <https://t.me/tonseednew>`_ - `Channel RU <https://t.me/tonseednewsru>`_ - `Chat RU <https://t.me/tonseed>`_
+* TON Seed : Quick Start Platform `WEB <https://tonseed.com/>`_ - `Forum <https://forum.freeton.org/c/ton-seed-thread/164>`_ - `Channel <https://t.me/tonseednew>`_ - `Channel RU <https://t.me/tonseednewsru>`_ - `Chat RU<https://t.me/tonseed>`_
 * `Feedback <https://docs.google.com/forms/d/e/1FAIpQLSfMbxQFCswkKjRYprvFx3FnuGLM3PlOaBXmpoZKLgBYOQ-ZPQ/viewform>`_
 
 Tooling

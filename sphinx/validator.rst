@@ -8,7 +8,7 @@ Read, Discuss
 
 Tooling
 ~~~~~~~~
-* `Depool Validators Explorer <https://depools.extraton.io/>`_ .. double
+* `Depool Validators Explorer <https://depools.extraton.io/>`_
 
 Different Languages
 ~~~~~~~~~~~~~~~~~~~

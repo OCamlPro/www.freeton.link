@@ -69,9 +69,9 @@ Blocks Explorers
 
 Earn Crystals
 ~~~~~~~~~~~~~
-* `Bacics of Contests <https://telegra.ph/How-to-prepare-and-submit-a-competitive-offer-in-Free-TON-08-18>`_ ..double
-* `Run your Validator <https://docs.ton.dev/86757ecb2/p/708260-run-validator>`_ ..double
-* `DePool <https://en.freeton.wiki/DePool>`_ ..double
+* `Bacics of Contests <https://telegra.ph/How-to-prepare-and-submit-a-competitive-offer-in-Free-TON-08-18>`_
+* `Run your Validator <https://docs.ton.dev/86757ecb2/p/708260-run-validator>`_
+* `DePool <https://en.freeton.wiki/DePool>`_
 * `Free TON TRUST Chat RU <https://t.me/joinchat/GKhzXBByu-ShTXblIwD0AQ>`_ ?
 
 Buy/Sell NFT (Non Fungible Tokens)
@@ -83,7 +83,7 @@ Buy/Sell NFT (Non Fungible Tokens)
 
 Applications
 ~~~~~~~~~~~~
-* `Extraton <https://extraton.io/>`_ - `Chat RU <https://t.me/extraton>`_ ..double
+* `Extraton <https://extraton.io/>`_ - `Chat RU <https://t.me/extraton>`_
 * Staking Service Platform `Everstake <https://everstake.one/freeton>`_
 * `push.money <https://push.money/>`_
 * `Advertising <https://adgram.io/>`_ 
@@ -108,19 +108,19 @@ You are welcome to ask your questions in English!
 * Belarussian Community `Channel RU <https://t.me/freetonbelarus>`_ - `Chat RU <https://t.me/freetonby>`_
 * Brazilian Community `Chat <https://t.me/freeton_pt>`_ 
 * Canadian Community `Chat <https://t.me/ton_canada>`_
-* Chinese Community `Chat ZH <https://t.me/freeton_china>`_ ..double
+* Chinese Community `Chat ZH <https://t.me/freeton_china>`_
 * Ecuador Community `Chat <https://t.me/ton_ecuador>`_
-* French Community `Chat <https://t.me/gramfr>`_ ..double
+* French Community `Chat <https://t.me/gramfr>`_
 * German Community `Chat GE <https://t.me/ton_de>`_
 * Greek Community `Chat <https://t.me/freetongreekcommunity>`_
 * Indian Community `Chat ZH <https://t.me/freeton_india>`_
 * Italian Community `Chat IT <https://t.me/topennetworkitalia>`_
 * Iranian Community `Chat FA <https://t.me/freetoniran>`_
-* Korean Community `Channel KOR <https://t.me/tonkoreaorg_channel>`_ - `Chat KOR <https://t.me/tonkoreaorg>`_ ..double
+* Korean Community `Channel KOR <https://t.me/tonkoreaorg_channel>`_ - `Chat KOR <https://t.me/tonkoreaorg>`_
 * Latvian Community `Chat <https://t.me/freeton_latvija_komuna>`_ - `Twitter LV <https://twitter.com/FreetonLatvija>`_ - `Blog <https://freetonlatvija.medium.com>`_
 * Maltese Community `Chat <https://t.me/freeton_malta>`_
 * Spainish Community `Chat ES <https://t.me/ton_es>`_
-* Mexican Community `Chat ES <https://t.me/freeton_mexico>`_ ..double
+* Mexican Community `Chat ES <https://t.me/freeton_mexico>`_
 * Russian Community `Channel RU <https://t.me/freeton_community>`_
 * Singaporean Community `Chat <https://t.me/freetonsg>`_ 
 * Turkish Community `Chat TR <https://t.me/tonturkiye>`_
