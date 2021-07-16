@@ -10,9 +10,10 @@ Read, Watch, Discuss
 * Free TON House `Blog <https://freeton.house/>`_ - `Blog <https://toncrystal.today/>`_ - `Twitter <https://twitter.com/FreetonH>`_
 * Medium Blog `Freeton <https://medium.com/freeton>`_ - `Vitalik Buterin https://medium.com/@VitalikButerin` - `OCamlPro <https://medium.com/ocamlpro-blockchain-fr>`_ - `Evertake <https://medium.com/everstake/what-is-free-ton-and-how-ton-blockchain-benefits-a-wide-range-of-industries-from-serving-81f0ddfbfd61>`_ - and others
 * Reddit `Blog <https://www.reddit.com/r/TONCRYSTAL/>`_
-* `OCamlPro Blog <https://medium.com/ocamlpro-blockchain-fr>`_
-* Cointelegraph Blog `<https://cointelegraph.com/>`_
-* ɖɦ2 `Blog <https://hackmd.io/KdvOCkZPQ-O3wPq8a5SUOg?view>`_ -Blog `https://hackmd.io/PuNAVksrRTus-QNbKrzbMQ?view `_
+* OCamlPro `Blog <https://medium.com/ocamlpro-blockchain-fr>`_
+* Cointelegraph `Blog <https://cointelegraph.com/>`_
+* Pavel Durov `Tg Channel <https://t.me/durov>`_ - `Twitter <https://twitter.com/durov>`_ - `What Was TON And Why It Is Over <https://telegra.ph/What-Was-TON-And-Why-It-Is-Over-05-12>`_
+* ɖɦ2 `Blog <https://hackmd.io/KdvOCkZPQ-O3wPq8a5SUOg?view>`_ - `Blog <https://hackmd.io/PuNAVksrRTus-QNbKrzbMQ?view>`_
 * Community Inner Life `Tg Chat <https://t.me/joinchat/UlCYzgUx8XcYqW-W>`_ - `Tg Channel RU <https://t.me/movetheopennetwork>`_ - `Tg Chat RU <https://t.me/movetheopennetwork>`_
 * `Wiki <https://en.freeton.wiki/Free_TON_Wiki>`_
 
