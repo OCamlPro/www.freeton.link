@@ -42,6 +42,13 @@ Buy/Sell Crystals
 * https://cex.io/ton-usdt
 * https://pro.changelly.com/otc
 
+Buy/Sell NFT (Non Fungible Tokens)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mintable ?
+OpenSea ?
+Rarible ?
+Waifus
+
 Web applications
 ~~~~~~~~~~~~~~~~
 * `Extraton <https://extraton.io/>`_ - `Chat RU <https://t.me/extraton>`_ .. double

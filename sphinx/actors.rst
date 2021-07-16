@@ -34,7 +34,7 @@ Sub-Governances
 * Influencers `Channel <https://t.me/freeton_influencers_channel>`_ `Chat <https://t.me/freeton_influencers>`_
 * Formal Methods `Chat <https://t.me/joinchat/rWanhNQPJ1FiMGVi>`_
 * Global Community `Channel <https://t.me/freeton_global_community_sub_en>`_ - `Chat <https://t.me/global_community_sg>`_ - `Channel RU <https://t.me/freeton_global_community_sub_ru>`_ - `Chat RU <https://t.me/global_community_sg_ru>`_
-* NFT `Chat <https://t.me/freetonbasednft>`_
+* NFT (Non Fungible Token) `Chat <https://t.me/freetonbasednft>`_
 * Social Media Marketing `Chat <https://t.me/freetonsmm_en>`_ 
 * Voice `Chat <https://t.me/commVoice_freeton>`_
 * Web & Design `Chat <https://t.me/web_design_freeton>`_ - `Chat RU <https://t.me/web_design_subgov>`_
