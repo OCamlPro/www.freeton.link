@@ -53,8 +53,14 @@ Games
 * Play Poker `Telegram Bot <https://ttttt.me/pokertonbot>`_ 
 * World Of Dogs `Telegram Bot https://t.me/WorldDogs_bot>`_
 
+Blocks Explorers
+~~~~~~~~~~~~~~~~
+* `ton.live <https://ton.live/>`_
+* `ton-explorer.com <http://ton-explorer.com/>`_
+* `freeton_watcher <https://gitlab.ocamlpro.com/steven.de-oliveira/freeton_watcher>`_
+
 Analytics
-~~~~~~~~~~
+~~~~~~~~~
 * Blockfolio `Android <https://play.google.com/store/apps/details?id=com.blockfolio.blockfolio>`_ - `iOS <https://apps.apple.com/ru/app/blockfolio-%D0%BA%D1%83%D1%80%D1%81-%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD%D0%B0/id1095564685>`_
 * Delta `Android <https://play.google.com/store/apps/details?id=io.getdelta.android>`_ - `iOS <https://apps.apple.com/ru/app/delta-%D1%82%D1%80%D0%B5%D0%BA%D0%B5%D1%80-%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE-%D0%BF%D0%BE%D1%80%D1%82%D1%84%D0%B5%D0%BB%D0%B5%D0%B9/id1288676542>`_
 * Mytokencap `Android <https://play.google.com/store/apps/details?id=com.hash.mytoken>`_ - `iOS <https://apps.apple.com/cn/app/mytoken-news-%E5%BF%AB%E9%80%9F-%E5%87%86%E7%A1%AE-%E5%85%A8%E9%9D%A2/id1525213647>`_
@@ -69,56 +75,6 @@ Analytics
 * https://coinranking.com/fr/coin/VyoUfuqTuttT+toncrystal-ton
 * https://app.santiment.net/studio
 * https://www.feixiaohao.cc/currencies/ton-crystal/
-
-Block Explorers
-~~~~~~~~~~~~~~~
-* `ton.live <https://ton.live/>`_
-* `ton-explorer.com <http://ton-explorer.com/>`_
-* `freeton_watcher <https://gitlab.ocamlpro.com/steven.de-oliveira/freeton_watcher>`_
-
-Sub-Governances 
-~~~~~~~~~~~~~~~
-* Academy `Telegram Chat <https://t.me/freeton_academy>`_ - `Twitter <https://twitter.com/freeton_academy>`_
-* Analytics & Support `Telegram Chat <https://t.me/freeton_analytics>`_
-* Decentralized Organization `Telegram Chat <https://t.me/joinchat/TI4fIvQQmLboPKay>`_
-* DeFi `Telegram Chat <https://t.me/tondefi>`_ 
-* DevEx (Developer Experience) `Telegram Chat <https://t.me/freeton_dev_exp>`_ 
-* DevOps `Telegram Chat <https://t.me/freetondevops>`_ 
-* ESports `Telegram Chat <https://t.me/freeton_esports>`_ - `Tournaments Telegram Chat <https://t.me/freetonleague>`_
-* Influencers `Telegram Channel <https://t.me/freeton_influencers_channel>`_ `Telegram Chat <https://t.me/freeton_influencers>`_
-* Formal Methods `Telegram Chat <https://t.me/joinchat/rWanhNQPJ1FiMGVi>`_
-* Global Community `Telegram Channel <https://t.me/freeton_global_community_sub_en>`_ - `Telegram Chat <https://t.me/global_community_sg>`_ - `Telegram Channel RU <https://t.me/freeton_global_community_sub_ru>`_ - `Telegram Chat RU <https://t.me/global_community_sg_ru>`_
-* NFT `Telegram Chat <https://t.me/freetonbasednft>`_
-* Social Media Marketing `Telegram Chat <https://t.me/freetonsmm_en>`_ 
-* Voice `Telegram Chat <https://t.me/commVoice_freeton>`_
-* Web & Design `Telegram Chat <https://t.me/web_design_freeton>`_ - `Telegram Chat RU <https://t.me/web_design_subgov>`_
-* Wiki `Telegram Channel <https://t.me/freetonwiki>`_ - `Telegram Chat <https://t.me/freeton_wiki>`_ - `Telegram Chat RU <https://t.me/freetonwiki_chat>`_
-
-Development Teams
-~~~~~~~~~~~~~~~~~
-* `Broxus <https://broxus.com/>`_ 
-* `CEX.IO.LABS <https://cexiolabs.com/>`_
-* Extraton.io Team
-* `INTONNATION <https://github.com/INTONNATION>`_
-* `itgoldio <https://github.com/itgoldio/>`_
-* `nil.foundation <https://nil.foundation/>`_
-* `OCamlPro <https://www.ocamlpro.com/>`_ - `Blog <https://medium.com/ocamlpro-blockchain-fr>`_ - `Twitter <https://twitter.com/ocamlpro>`_
-* `Pruvendo <https://pruvendo.com/>`_
-* `Radiance <https://radianceteam.com/>`_
-* `RSquad <https://rsquad.io/>`_
-* `TON Labs <https://tonlabs.io>`_ - `GitHub <https://github.com/tonlabs/>`_ - `Telegram Channel <https://t.me/tonlabs>`_ - `Youtube <https://www.youtube.com/c/TONLabs/featured>`_ - `Facebook <https://www.facebook.com/tonlabsio>`_ - `Twitter <https://twitter.com/tonlabs>`_ - |gramkit.ico| `News Telegram Channel <https://t.me/freeton_me/freeton_gramkitgramkit>`_ - `News <https://gramkit.org/>`_
-* `ton-actions <https://github.com/ton-actions>`_ - `Telegram Chat <https://t.me/ton_actions_chat>`_
-* `ton-blockchain <https://github.com/ton-blockchain>`_
-
-Partners
-~~~~~~~~
-* `WorldChess <https://worldchess.com/>`_
-* `OVHcloud <https://startup.ovhcloud.com/fr/>`_
-
-Other Indexes
-~~~~~~~~~~~~~
-* `RSquad <http://ton-test.rsquad.io/>`_
-* `Telegra.ph <https://telegra.ph/Structure-of-the-Free-TON-ecosystem-08-08-31>`_
 
 Other Languages
 ~~~~~~~~~~~~~~~
@@ -138,6 +94,11 @@ You are welcome to ask your questions in English!
 * Games `Chat RU <https://t.me/freetongametournaments>`_
 * Help for New Users `Telegram Chat RU <https://t.me/freeton_global_community>`_
 * Off-top `Chat UK <https://t.me/freeton_ua>`_ - `Telegram Chat RU <https://t.me/freeton_flud>`_ - `Telegram Chat RU <https://t.me/freeton_talks>`_ 
+
+Other Indexes
+~~~~~~~~~~~~~
+* `RSquad <http://ton-test.rsquad.io/>`_
+* `Telegra.ph <https://telegra.ph/Structure-of-the-Free-TON-ecosystem-08-08-31>`_
 
 
 .. |br| raw:: html

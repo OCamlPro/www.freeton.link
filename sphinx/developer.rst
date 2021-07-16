@@ -28,7 +28,7 @@ Documentation
 ~~~~~~~~~~~~~
 * `ton.org <https://ton.org/>`_
 * `TON Labs <https://docs.ton.dev>`_
-* `To publish a smart-contract <https://habr.com/ru/post/494528/>`_
+* `To publish a Smart-contract <https://habr.com/ru/post/494528/>`_
 
 Other Languages
 ~~~~~~~~~~~~~~~
