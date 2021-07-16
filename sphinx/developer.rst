@@ -3,7 +3,6 @@ For a Developer
 
 Read, Discuss
 ~~~~~~~~~~~~~
-
 * `Tg Channel <https://t.me/TON_DEV>`_
 * Tondev `Tg Chat <https://t.me/tondev_en>`_
 * SDK, tondev, ton os, tonos se `Tg Chat <https://t.me/ton_sdk>`_ https://t.me/ton_sdk
@@ -16,18 +15,19 @@ Tooling
 * `locklift <https://www.npmjs.com/package/locklift>`_
 * `GraphQL <https://net.ton.dev/graphql>`_ 
 * `TestSuite4 <https://github.com/tonlabs/tondev#testsuite4>`_
+* `TON OS SE Docker Image <https://hub.docker.com/r/tonlabs/local-node>`_
 
 Contests
 ~~~~~~~~
 * `freeton.org <https://gov.freeton.org>`_
 * `tonseed.com <https://tonseed.com/>`_
 * `Jury Vote <https://easy-vote.rsquad.io/>`_  
-* `For Beginners <https://telegra.ph/How-to-prepare-and-submit-a-competitive-offer-in-Free-TON-08-18>`_
+* `Bacics of Contests <https://telegra.ph/How-to-prepare-and-submit-a-competitive-offer-in-Free-TON-08-18>`_
 
 Documentation
 ~~~~~~~~~~~~~
-* `ton.org <https://ton.org/>`_
 * `TON Labs <https://docs.ton.dev>`_
+* `ton.org <https://ton.org/>`_
 * `To publish a Smart-contract <https://habr.com/ru/post/494528/>`_
 
 Other Languages
