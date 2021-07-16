@@ -40,7 +40,7 @@ Buy/Sell Crystals
 
 Web applications
 ~~~~~~~~~~~~~~~~
-* `Extraton <https://extraton.io/>`_
+* `Extraton <https://extraton.io/>`_ - `Telegram Chat RU <https://t.me/extraton>`_
 * Staking Service Platform `Everstake <https://everstake.one/freeton>`_
 * `push.money <https://push.money/>`_
 * `Advertising <https://adgram.io/>`_ 
@@ -80,7 +80,6 @@ Other Languages
 ~~~~~~~~~~~~~~~
 You are welcome to ask your questions in English!
 
-* Extraton `Telegram Chat RU <https://t.me/extraton>`_
 * `News RU <https://telemetr.io/en/channels/1477384745-freeton_community>`_
 * News `Telegram Channel RU <https://t.me/TON_Journal_TM>`_
 * News `Telegram Channel RU <https://t.me/oFreeTON`_
