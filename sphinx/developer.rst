@@ -41,7 +41,7 @@ You are welcome to ask your questions in English!
 * Smart Contracts `Chat RU <https://t.me/freeton_smartcontracts>`_ 
 * Debots `Chat RU <https://t.me/freetondebots>`_ 
 * Contests `Channel RU <https://t.me/toncontests_ru>`_
-* Developement Dangerous Cases `Chat RU <https://t.me/fld_ton_dev>`
+* Dangerous Cases `Chat RU <https://t.me/fld_ton_dev>`_
 
 
 .. |ocamlpro.ico| image:: images/ocamlpro.ico
