@@ -22,7 +22,6 @@ Hold and Send Crystals
 ~~~~~~~~~~~~~~~~~~~~~~
 * Surf Wallet + Blockchain Browser + Secure Chat `WEB <https://ton.surf>`_ - `WEB More Fonctionalities <https://beta.ton.surf>`_ - `Android <https://play.google.com/store/apps/details?id=surf.ton>`_ - `Android Test Version <https://play.google.com/apps/testing/surf.ton>`_ - `iOS <https://apps.apple.com/us/app/ton-surf/id1481986831>`_ - `iOS Test Version <https://testflight.apple.com/join/VPcfXsR0>`_ - <https://web.ton.surf/>?
 * Extraton `Chrome Extension <https://chrome.google.com/webstore/detail/extraton/hhimbkmlnofjdajamcojlcmgialocllm>`_ - `Chat RU <https://t.me/extraton>`_
-* Extraton Wallet `WEB <https://vouch.extraton.io/>`_
 * Extraton Multisend `WEB <https://multisend.extraton.io/>`_
 * `Broxus Wallet <https://l1.broxus.com/freeton/wallet>`_ 
 * Changelly `Android <https://play.google.com/store/apps/dev?id=6836651604375768742>`_ - `iOS <https://apps.apple.com/us/app/changelly-crypto-exchange/id1435140380>`_
@@ -31,6 +30,7 @@ Hold and Send Crystals
 * `Freewallet <https://freewallet.org>`_
 * `Link a wallet to as Google account <https://app.tor.us/>`_
 * `Connect Ethereum and Free TON Wallets <https://tonbridge.io/>`_
+* Extraton Wallet `WEB <https://vouch.extraton.io/>`_
 
 Buy and Sell Crystals
 ~~~~~~~~~~~~~~~~~~~~~
