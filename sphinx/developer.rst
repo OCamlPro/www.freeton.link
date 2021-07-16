@@ -8,6 +8,7 @@ Read, Discuss
 * SDK, tondev, ton os, tonos se `Tg Chat <https://t.me/ton_sdk>`_ https://t.me/ton_sdk
 * C++ Nodes `Tg Chat <https://t.me/freeton_cpp>`_ 
 * Stackoverflow `https://stackoverflow.com/search?q=free+ton`_
+* `Feedback <https://docs.google.com/forms/d/e/1FAIpQLSfMbxQFCswkKjRYprvFx3FnuGLM3PlOaBXmpoZKLgBYOQ-ZPQ/viewform>`_
 
 Tooling
 ~~~~~~~

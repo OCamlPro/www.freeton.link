@@ -3,6 +3,7 @@ Actors
 
 Development Teams
 ~~~~~~~~~~~~~~~~~
+* `ArsenMkrt <https://github.com/ArsenMkrt>`_
 * `Broxus <https://broxus.com/>`_ 
 * `CEX.IO.LABS <https://cexiolabs.com/>`_
 * Extraton.io Team

@@ -3,8 +3,10 @@
 * `Rapport Sénat 2018 FR <https://www.senat.fr/rap/r17-584/r17-584_mono.html>`_
 https://app.tor.us/v1.12.0/wallet/home ETH wallet?
 https://hackernoon.com/blockchain-impacts-on-notarial-professions-a58245030a3f Blockchain: Impacts on Notarial Professions
-* `Basics of TON <https://www.notion.so/freeton-org-412645eccd8643b489baffbcd0316f94>`_ Ekaterina old FAQ
-
+https://www.notion.so/freeton-org-412645eccd8643b489baffbcd0316f94 Ekaterina old FAQ
+https://www.notion.so/67abebf2e26a4518a2eda8c8c8f7627c 
+https://www.notion.so/fb269eb14f204db7b19bd218dc07f21d 
+// Это на старом сдк, в семплах вроде есть это на новом сдк
 
 Blockchain Browsers
 ~~~~~~~~~~~~~~~~~~~
