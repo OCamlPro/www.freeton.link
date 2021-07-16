@@ -35,11 +35,11 @@ Sub-Governances
 * Voice `Tg Chat <https://t.me/commVoice_freeton>`_
 * Web & Design `Tg Chat <https://t.me/web_design_freeton>`_ - `Tg Chat RU <https://t.me/web_design_subgov>`_
 * Wiki `Tg Channel <https://t.me/freetonwiki>`_ - `Tg Chat <https://t.me/freeton_wiki>`_ - `Tg Chat RU <https://t.me/freetonwiki_chat>`_
-* Chinese Sub-Governance `Chat ZH <https://t.me/freeton_china>`_
-* French Sub-Governance `Chat <https://t.me/gramfr>`_
-* Korean Sub-Governance `Channel KOR <https://t.me/tonkoreaorg_channel>`_ - `Chat KOR <https://t.me/tonkoreaorg>`_
-* Mexican Sub-Governance `Chat ES <https://t.me/freeton_mexico>`_
-* Vietnamese Sub-Governance `Chat VN <https://t.me/freetonvn>`_
+* Chinese Sub-Governance `Tg Chat ZH <https://t.me/freeton_china>`_
+* French Sub-Governance `Tg Chat <https://t.me/gramfr>`_
+* Korean Sub-Governance `Tg Channel KOR <https://t.me/tonkoreaorg_channel>`_ - `Tg Chat KOR <https://t.me/tonkoreaorg>`_
+* Mexican Sub-Governance `Tg Chat ES <https://t.me/freeton_mexico>`_
+* Vietnamese Sub-Governance `CTg hat VN <https://t.me/freetonvn>`_
 
 Partners
 ~~~~~~~~
