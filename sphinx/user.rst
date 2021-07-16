@@ -24,8 +24,8 @@ Hold and Send Crystals
 * Extraton `Chrome Extension <https://chrome.google.com/webstore/detail/extraton/hhimbkmlnofjdajamcojlcmgialocllm>`_ - `Chat RU <https://t.me/extraton>`_
 * Extraton Wallet `WEB <https://vouch.extraton.io/>`_
 * Extraton Multisend `WEB <https://multisend.extraton.io/>`_
-* `Broxus Wallet <https://l1.broxus.com/freeton/wallet>`_ 
-* Changelly `Android <https://play.google.com/store/apps/dev?id=6836651604375768742>`_ - `iOS <https://apps.apple.com/us/app/changelly-crypto-exchange/id1435140380>`_
+* `Broxus Wallet <https://l1.broxus.com/freeton/wallet>`_ 
+* Changelly `Android <https://play.google.com/store/apps/dev?id=6836651604375768742>`_ - `iOS <https://apps.apple.com/us/app/changelly-crypto-exchange/id1435140380>`_
 * Cripterium `WEB <https://wallet.crypterium.com/>`_ - `Android <https://play.google.com/store/apps/details?id=com.crypterium>`_ - `iOS <https://apps.apple.com/ru/app/crypterium-bitcoin-wallet/id1360632912>`_
 * Koshelek `WEB <https://koshelek.ru/>`_ - `Android <https://play.google.com/store/apps/details?id=ru.koshelek>`_ - `iOS <https://apps.apple.com/ru/app/id1524167720>`_ -  `Bot <https://t.me/Koshelek_bot>`_
 * `Freewallet <https://freewallet.org>`_
