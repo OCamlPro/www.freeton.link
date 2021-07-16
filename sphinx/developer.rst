@@ -4,10 +4,10 @@ For a Developer
 Read, Discuss
 ~~~~~~~~~~~~~
 
-* `Telegram Channel <https://t.me/TON_DEV>`_
-* Tondev `Telegram Chat <https://t.me/tondev_en>`_
-* SDK `Telegram Chat <https://t.me/ton_sdk>`_
-* C++ Nodes `Telegram Chat <https://t.me/freeton_cpp>`_ 
+* `Tg Channel <https://t.me/TON_DEV>`_
+* Tondev `Tg Chat <https://t.me/tondev_en>`_
+* SDK, tondev, ton os, tonos se `Tg Chat <https://t.me/ton_sdk>`_ https://t.me/ton_sdk
+* C++ Nodes `Tg Chat <https://t.me/freeton_cpp>`_ 
 * Stackoverflow `https://stackoverflow.com/search?q=free+ton`_
 
 Tooling
@@ -34,9 +34,9 @@ Other Languages
 ~~~~~~~~~~~~~~~
 You are welcome to ask your questions in English!
 
-* Developers `Telegram Channel RU <https://t.me/freetondev_ru>`_ - `Telegram Chat RU <https://t.me/freetondevru>`_ 
-* Surf `Telegram Chat RU <https://t.me/betasurf>`_ 
-* Smart Contracts `Telegram Chat RU <https://t.me/freeton_smartcontracts>`_ 
-* Debots `Telegram Chat RU <https://t.me/freetondebots>`_ 
-* Contests `Telegram Channel RU <https://t.me/toncontests_ru>`_
-* Developement Dangerous Cases `Telegram Chat RU <https://t.me/fld_ton_dev>`_
+* Developers `Tg Channel RU <https://t.me/freetondev_ru>`_ - `Tg Chat RU <https://t.me/freetondevru>`_ 
+* Surf `Tg Chat RU <https://t.me/betasurf>`_ 
+* Smart Contracts `Tg Chat RU <https://t.me/freeton_smartcontracts>`_ 
+* Debots `Tg Chat RU <https://t.me/freetondebots>`_ 
+* Contests `Tg Channel RU <https://t.me/toncontests_ru>`_
+* Developement Dangerous Cases `Tg Chat RU <https://t.me/fld_ton_dev>`_

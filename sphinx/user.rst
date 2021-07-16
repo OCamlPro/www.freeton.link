@@ -3,14 +3,17 @@ For a User
 
 Read, Watch, Discuss 
 ~~~~~~~~~~~~~~~~~~~~
-* `Community site <https://freeton.org/>`_ - |toncrystal.ico| `Telegram Chat <https://t.me/toncrystal>`_ - `Facebook <https://www.facebook.com/CommunityTon>`_ - `Twitter <https://twitter.com/CommunityTon>`_ - `Instagram <https://www.instagram.com/communityton/>`_ - `Linkedin <https://www.linkedin.com/in/free-ton/>`_
+* `Community site <https://freeton.org/>`_ - |toncrystal.ico| `Tg Chat <https://t.me/toncrystal>`_ - `Facebook <https://www.facebook.com/CommunityTon>`_ - `Twitter <https://twitter.com/CommunityTon>`_ - `Instagram <https://www.instagram.com/communityton/>`_ - `Linkedin <https://www.linkedin.com/in/free-ton/>`_
+* `News <https://ton-news.com/>`_
 * `Youtube <https://www.youtube.com/c/FreeTON_official/featured>`_
-* |FreeTonNews.ico| `Telegram Channel <https://t.me/ton_crystal_news>`_
+* |FreeTonNews.ico| `Tg Channel <https://t.me/ton_crystal_news>`_
 * Free TON House `Blog <https://freeton.house/>`_ - `Blog <https://toncrystal.today/>`_ - `Twitter <https://twitter.com/FreetonH>`_
 * Medium Blog `Freeton <https://medium.com/freeton>`_ - `Vitalik Buterin https://medium.com/@VitalikButerin` - `OCamlPro <https://medium.com/ocamlpro-blockchain-fr>`_ - `Evertake <https://medium.com/everstake/what-is-free-ton-and-how-ton-blockchain-benefits-a-wide-range-of-industries-from-serving-81f0ddfbfd61>`_ - and others
 * Reddit `Blog <https://www.reddit.com/r/TONCRYSTAL/>`_
-* `News <https://ton-news.com/>`_
-* Community Inner Life `Telegram Chat <https://t.me/joinchat/UlCYzgUx8XcYqW-W>`_ - `Telegram Channel RU <https://t.me/movetheopennetwork>`_ - `Telegram Chat RU <https://t.me/movetheopennetwork>`_
+* `OCamlPro Blog <https://medium.com/ocamlpro-blockchain-fr>`_
+* Cointelegraph Blog `<https://cointelegraph.com/>`_
+* ɖɦ2 `Blog <https://hackmd.io/KdvOCkZPQ-O3wPq8a5SUOg?view>`_ -Blog `https://hackmd.io/PuNAVksrRTus-QNbKrzbMQ?view `_
+* Community Inner Life `Tg Chat <https://t.me/joinchat/UlCYzgUx8XcYqW-W>`_ - `Tg Channel RU <https://t.me/movetheopennetwork>`_ - `Tg Chat RU <https://t.me/movetheopennetwork>`_
 * `Wiki <https://en.freeton.wiki/Free_TON_Wiki>`_
 
 Keep Crystals 
@@ -20,17 +23,17 @@ Keep Crystals
 * `Broxus Wallet <https://l1.broxus.com/freeton/wallet>`_ 
 * Changelly `Android <https://play.google.com/store/apps/dev?id=6836651604375768742>`_ - `iOS <https://apps.apple.com/us/app/changelly-crypto-exchange/id1435140380>`_
 * Cripterium `WEB <https://wallet.crypterium.com/>`_ - `Android <https://play.google.com/store/apps/details?id=com.crypterium>`_ - `iOS <https://apps.apple.com/ru/app/crypterium-bitcoin-wallet/id1360632912>`_
-* Koshelek `WEB <https://koshelek.ru/>`_ - `Android <https://play.google.com/store/apps/details?id=ru.koshelek>`_ - `iOS <https://apps.apple.com/ru/app/id1524167720>`_ -  `Telegram Bot <https://t.me/Koshelek_bot>`_
+* Koshelek `WEB <https://koshelek.ru/>`_ - `Android <https://play.google.com/store/apps/details?id=ru.koshelek>`_ - `iOS <https://apps.apple.com/ru/app/id1524167720>`_ -  `Tg Bot <https://t.me/Koshelek_bot>`_
 * `Freewallet <https://freewallet.org>`_
 * `Link a wallet to the Google account <https://app.tor.us/>`_
 * `Connect Ethereum and Free TON Wallets <https://tonbridge.io/>`_
 
 Buy/Sell Crystals
 ~~~~~~~~~~~~~~~~~
-* `ton_p2p Telegram Chat <https://t.me/ton_p2p>`_
-* `freeton_otc Telegram Chat <https://t.me/freeton_otc>`_
-* `tokiton_chat Telegram Chat <https://t.me/tokiton_chat>`_
-* Exchange Chatex `Telegram Bot <https://t.me/Chatex_bot>`_
+* `ton_p2p Tg Chat <https://t.me/ton_p2p>`_
+* `freeton_otc Tg Chat <https://t.me/freeton_otc>`_
+* `tokiton_chat Tg Chat <https://t.me/tokiton_chat>`_
+* Exchange Chatex `Tg Bot <https://t.me/Chatex_bot>`_
 * Exchange `Prizmbit <https://prizmbit.com/exchange/TON-USDT>`_
 * https://exchange.bitcoin.com/ton-to-btc
 * https://kuna.io/markets/bnbrub
@@ -40,18 +43,18 @@ Buy/Sell Crystals
 
 Web applications
 ~~~~~~~~~~~~~~~~
-* `Extraton <https://extraton.io/>`_ - `Telegram Chat RU <https://t.me/extraton>`_
+* `Extraton <https://extraton.io/>`_ - `Tg Chat RU <https://t.me/extraton>`_
 * Staking Service Platform `Everstake <https://everstake.one/freeton>`_
 * `push.money <https://push.money/>`_
 * `Advertising <https://adgram.io/>`_ 
-* Shop |FREETONSHOP_bot.ico| `Telegram Bot <https://t.me/FREETONSHOP_bot>`_  
-* Send Credit To a Mobile Phone |FreeTON2MobileBot.ico| `Telegram Bot <https://t.me/FreeTON2MobileBot>`_ 
-* Blog Anonyme `Telegraph <https://telegra.ph>`_ - |telegraph.ico| `Telegram Bot <https://t.me?do=open_link/te>`_
+* Shop |FREETONSHOP_bot.ico| `Tg Bot <https://t.me/FREETONSHOP_bot>`_  
+* Send Credit To a Mobile Phone |FreeTON2MobileBot.ico| `Tg Bot <https://t.me/FreeTON2MobileBot>`_ 
+* Blog Anonyme `Telegraph <https://telegra.ph>`_ - |telegraph.ico| `Tg Bot <https://t.me?do=open_link/te>`_
 
 Games
 ~~~~~
-* Play Poker `Telegram Bot <https://ttttt.me/pokertonbot>`_ 
-* World Of Dogs `Telegram Bot https://t.me/WorldDogs_bot>`_
+* Play Poker `Tg Bot <https://ttttt.me/pokertonbot>`_ 
+* World Of Dogs `Tg Bot https://t.me/WorldDogs_bot>`_
 
 Blocks Explorers
 ~~~~~~~~~~~~~~~~
@@ -81,18 +84,18 @@ Other Languages
 You are welcome to ask your questions in English!
 
 * `News RU <https://telemetr.io/en/channels/1477384745-freeton_community>`_
-* News `Telegram Channel RU <https://t.me/TON_Journal_TM>`_
-* News `Telegram Channel RU <https://t.me/oFreeTON`_
+* News `Tg Channel RU <https://t.me/TON_Journal_TM>`_
+* News `Tg Channel RU <https://t.me/oFreeTON`_
 * Blogs RU `free
  <https://blog.freeton.org/>`_ - `forbes.ru <https://www.forbes.ru/search?search_api_views_fulltext=free+ton>`_ - `vc.ru <https://vc.ru/search/v2/all?query=free%20ton>`_ - `forklog.com <https://forklog.com/?s=free+ton>`_ - `beincrypto.ru <https://beincrypto.ru/?s=free+ton>`_
-* Analytics `Telegram Chat RU <https://t.me/freetonanalytics>`_
-* Philosophy `Telegram Chat RU <https://t.me/freetonphilosophie>`_
-* Decentralization Popularization `Telegram Chat RU <https://t.me/treeton_chat>`_
+* Analytics `Tg Chat RU <https://t.me/freetonanalytics>`_
+* Philosophy `Tg Chat RU <https://t.me/freetonphilosophie>`_
+* Decentralization Popularization `Tg Chat RU <https://t.me/treeton_chat>`_
 * `Cybersport RU <https://www.cybersport.ru/base/teams/no_org/free-ton>`_
 * `Announces RU <https://t.me/freetonstore>`_
 * Games `Chat RU <https://t.me/freetongametournaments>`_
-* Help for New Users `Telegram Chat RU <https://t.me/freeton_global_community>`_
-* Off-top `Chat UK <https://t.me/freeton_ua>`_ - `Telegram Chat RU <https://t.me/freeton_flud>`_ - `Telegram Chat RU <https://t.me/freeton_talks>`_ 
+* Help for New Users `Tg Chat RU <https://t.me/freeton_global_community>`_
+* Off-top `Chat UK <https://t.me/freeton_ua>`_ - `Tg Chat RU <https://t.me/freeton_flud>`_ - `Tg Chat RU <https://t.me/freeton_talks>`_ 
 
 Other Indexes
 ~~~~~~~~~~~~~
