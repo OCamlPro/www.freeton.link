@@ -17,7 +17,7 @@ Development Teams
 * `Pruvendo <https://pruvendo.com/>`_
 * `Radiance <https://radianceteam.com/>`_
 * `RSquad <https://rsquad.io/>`_
-* `TON Labs <https://tonlabs.io>`_ - `GitHub <https://github.com/tonlabs/>`_ - `Channel <https://t.me/tonlabs>`_ - `Youtube <https://www.youtube.com/c/TONLabs/featured>`_ - `Facebook <https://www.facebook.com/tonlabsio>`_ - `Twitter <https://twitter.com/tonlabs>`_ - |gramkit.ico| `News Channel <https://t.me/freeton_me/freeton_gramkitgramkit>`_ - `News <https://gramkit.org/>`_
+* `TON Labs <https://tonlabs.io>`_- `News <https://gramkit.org/>`_ - `GitHub <https://github.com/tonlabs/>`_ - `Channel <https://t.me/tonlabs>`_ - `Youtube <https://www.youtube.com/c/TONLabs/featured>`_ - `Facebook <https://www.facebook.com/tonlabsio>`_ - `Twitter <https://twitter.com/tonlabs>`_ - |gramkit.ico| `News Channel <https://t.me/freeton_me/freeton_gramkitgramkit>`_ 
 * ton-actions `GitHub <https://github.com/ton-actions>`_ - `Chat <https://t.me/ton_actions_chat>`_
 * ton-blockchain `GitHub <https://github.com/ton-blockchain>`_
 * Tonium-io `GitHub <https://github.com/Tonium-io>`_
