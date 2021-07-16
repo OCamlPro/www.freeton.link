@@ -22,6 +22,7 @@ Keep Crystals
 * Cripterium `WEB <https://wallet.crypterium.com/>`_ - `Android <https://play.google.com/store/apps/details?id=com.crypterium>`_ - `iOS <https://apps.apple.com/ru/app/crypterium-bitcoin-wallet/id1360632912>`_
 * Koshelek `WEB <https://koshelek.ru/>`_ - `Android <https://play.google.com/store/apps/details?id=ru.koshelek>`_ - `iOS <https://apps.apple.com/ru/app/id1524167720>`_ -  `Telegram Bot <https://t.me/Koshelek_bot>`_
 * `Freewallet <https://freewallet.org>`_
+* `Link a wallet to the Google account <https://app.tor.us/>`_
 * `Connect Ethereum and Free TON Wallets <https://tonbridge.io/>`_
 
 Buy/Sell Crystals
@@ -98,12 +99,16 @@ Development Teams
 * `Broxus <https://broxus.com/>`_ 
 * `CEX.IO.LABS <https://cexiolabs.com/>`_
 * Extraton.io Team
+* `INTONNATION <https://github.com/INTONNATION>`_
+* `itgoldio <https://github.com/itgoldio/>`_
 * `nil.foundation <https://nil.foundation/>`_
 * `OCamlPro <https://www.ocamlpro.com/>`_ - `Blog <https://medium.com/ocamlpro-blockchain-fr>`_ - `Twitter <https://twitter.com/ocamlpro>`_
 * `Pruvendo <https://pruvendo.com/>`_
 * `Radiance <https://radianceteam.com/>`_
 * `RSquad <https://rsquad.io/>`_
-* `TON Labs <https://tonlabs.io>`_ - `Telegram Channel <https://t.me/tonlabs>`_ - `Youtube <https://www.youtube.com/c/TONLabs/featured>`_ - `Facebook <https://www.facebook.com/tonlabsio>`_ - `Twitter <https://twitter.com/tonlabs>`_ - |gramkit.ico| `News Telegram Channel <https://t.me/freeton_me/freeton_gramkitgramkit>`_ - `News <https://gramkit.org/>`_
+* `TON Labs <https://tonlabs.io>`_ - `GitHub <https://github.com/tonlabs/>`_ - `Telegram Channel <https://t.me/tonlabs>`_ - `Youtube <https://www.youtube.com/c/TONLabs/featured>`_ - `Facebook <https://www.facebook.com/tonlabsio>`_ - `Twitter <https://twitter.com/tonlabs>`_ - |gramkit.ico| `News Telegram Channel <https://t.me/freeton_me/freeton_gramkitgramkit>`_ - `News <https://gramkit.org/>`_
+* `ton-actions <https://github.com/ton-actions>`_ - `Telegram Chat <https://t.me/ton_actions_chat>`_
+* `ton-blockchain <https://github.com/ton-blockchain>`_
 
 Partners
 ~~~~~~~~

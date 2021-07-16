@@ -24,12 +24,6 @@ Contests
 * `Jury Vote <https://easy-vote.rsquad.io/>`_  
 * `For Beginners <https://telegra.ph/How-to-prepare-and-submit-a-competitive-offer-in-Free-TON-08-18>`_
 
-Code
-~~~~
-* `TON <https://github.com/ton-blockchain>`_
-* `Free TON <https://github.com/tonlabs>`_
-* `TON Labs <https://github.com/tonlabs/>`_
-
 Documentation
 ~~~~~~~~~~~~~
 * `ton.org <https://ton.org/>`_
