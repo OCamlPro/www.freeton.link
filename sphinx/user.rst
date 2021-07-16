@@ -134,3 +134,4 @@ Other Indexes
 .. |toncrystal.ico| image:: images/toncrystal.ico
 .. |gramkit.ico| image:: images/gramkit.ico 
 .. |telegraph.ico| image:: images/telegraph.ico 
+.. |ocamlpro.ico| image:: images/ocamlpro.ico

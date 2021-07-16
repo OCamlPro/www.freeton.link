@@ -46,3 +46,6 @@ Partners
 ~~~~~~~~
 * `WorldChess <https://worldchess.com/>`_
 * `OVHcloud <https://startup.ovhcloud.com/fr/>`_
+
+
+.. |ocamlpro.ico| image:: images/ocamlpro.ico
