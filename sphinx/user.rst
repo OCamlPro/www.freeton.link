@@ -71,7 +71,7 @@ Earn Crystals
 ~~~~~~~~~~~~~
 * `Bacics of Contests <https://telegra.ph/How-to-prepare-and-submit-a-competitive-offer-in-Free-TON-08-18>`_ ..double
 * `Run your Validator <https://docs.ton.dev/86757ecb2/p/708260-run-validator>`_ ..double
-* `Participe in Stake <>`_
+* `DePool <https://en.freeton.wiki/DePool>`_ ..double
 * `Free TON TRUST Chat RU <https://t.me/joinchat/GKhzXBByu-ShTXblIwD0AQ>`_ ?
 
 Buy/Sell NFT (Non Fungible Tokens)
