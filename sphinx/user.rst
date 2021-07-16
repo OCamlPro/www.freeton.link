@@ -26,7 +26,7 @@ Keep Crystals
 * Cripterium `WEB <https://wallet.crypterium.com/>`_ - `Android <https://play.google.com/store/apps/details?id=com.crypterium>`_ - `iOS <https://apps.apple.com/ru/app/crypterium-bitcoin-wallet/id1360632912>`_
 * Koshelek `WEB <https://koshelek.ru/>`_ - `Android <https://play.google.com/store/apps/details?id=ru.koshelek>`_ - `iOS <https://apps.apple.com/ru/app/id1524167720>`_ -  `Bot <https://t.me/Koshelek_bot>`_
 * `Freewallet <https://freewallet.org>`_
-* `Link a wallet to the Google account <https://app.tor.us/>`_
+* `Link a wallet to as Google account <https://app.tor.us/>`_
 * `Connect Ethereum and Free TON Wallets <https://tonbridge.io/>`_
 
 Buy/Sell Crystals
@@ -49,13 +49,13 @@ Web applications
 * `push.money <https://push.money/>`_
 * `Advertising <https://adgram.io/>`_ 
 * Shop |FREETONSHOP_bot.ico| `Bot <https://t.me/FREETONSHOP_bot>`_  
-* Send Credit To a Mobile Phone |FreeTON2MobileBot.ico| `Bot <https://t.me/FreeTON2MobileBot>`_ 
+* Pay Mobile Phone |FreeTON2MobileBot.ico| `Bot <https://t.me/FreeTON2MobileBot>`_ 
 * Blog Anonyme `Telegraph <https://telegra.ph>`_ - |telegraph.ico| `Bot <https://t.me?do=open_link/te>`_
 
 Games
 ~~~~~
 * Play Poker `Bot <https://ttttt.me/pokertonbot>`_ 
-* World Of Dogs `Bot https://t.me/WorldDogs_bot>`_
+* World Of Dogs `Bot <https://t.me/WorldDogs_bot>`_
 
 Blocks Explorers
 ~~~~~~~~~~~~~~~~
