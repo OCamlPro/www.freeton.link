@@ -43,6 +43,10 @@ Buy/Sell Crystals
 * https://cex.io/ton-usdt
 * https://pro.changelly.com/otc
 
+Earn Crystals
+~~~~~~~~~~~~~
+`Free TON TRUST Chat RU <https://t.me/joinchat/GKhzXBByu-ShTXblIwD0AQ>`_ ?
+
 Buy/Sell NFT (Non Fungible Tokens)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Mintable ?
@@ -64,12 +68,14 @@ Games
 ~~~~~
 * Play Poker `Bot <https://ttttt.me/pokertonbot>`_ 
 * World Of Dogs `Bot <https://t.me/WorldDogs_bot>`_
+* `Twicy <https://t.me/freeton_twicy>`_
 
 Blocks Explorers
 ~~~~~~~~~~~~~~~~
 * `ton.live <https://ton.live/>`_
 * `ton-explorer.com <http://ton-explorer.com/>`_
 * |ocamlpro.ico| `freeton_watcher <https://gitlab.ocamlpro.com/steven.de-oliveira/freeton_watcher>`_
+* Transactions Notification `Bot <https://t.me/freeton_Productions>`_ @FreeTonNotifyBot
 
 Analytics
 ~~~~~~~~~
@@ -123,9 +129,11 @@ You are welcome to ask your questions in English!
 * Decentralization Popularization `Chat RU <https://t.me/treeton_chat>`_
 * `Cybersport RU <https://www.cybersport.ru/base/teams/no_org/free-ton>`_
 * `Announces RU <https://t.me/freetonstore>`_
+* Productions `Channel RU <https://t.me/freeton_Productions>`_ ?
 * Games `Chat RU <https://t.me/freetongametournaments>`_
-* Help for New Users `Chat RU <https://t.me/freeton_global_community>`_
-* Off-top `Chat UK <https://t.me/freeton_ua>`_ - `Chat RU <https://t.me/freeton_flud>`_ - `Chat RU <https://t.me/freeton_talks>`_ - `Chat RU <https://t.me/FreeTonEC>`_ - `Chat RU <https://t.me/ft_flud>`_ - `Voice Chat RU <https://t.me/EventsSubgovernance_ru>`_
+* New Users `Chat RU <https://t.me/freeton_global_community>`_
+* Claims `Chat RU <https://t.me/FreeTONclaims>`_
+* Off-top `Chat UK <https://t.me/freeton_ua>`_ - `Chat RU <https://t.me/freeton_flud>`_ - `Chat RU <https://t.me/freeton_talks>`_ - `Chat RU <https://t.me/FreeTonEC>`_ - `Chat RU <https://t.me/ft_flud>`_ 
 
 Other Indexes
 ~~~~~~~~~~~~~
