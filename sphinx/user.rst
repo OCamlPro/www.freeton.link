@@ -7,14 +7,14 @@ Read, Watch, Discuss
 * `News <https://ton-news.com/>`_
 * `Youtube <https://www.youtube.com/c/FreeTON_official/featured>`_
 * |FreeTonNews.ico| `Channel <https://t.me/ton_crystal_news>`_
+* Cointelegraph `Blog <https://cointelegraph.com/>`_
 * Free TON House `Blog <https://freeton.house/>`_ - `Blog <https://toncrystal.today/>`_ - `Twitter <https://twitter.com/FreetonH>`_
 * Medium Blog `Freeton <https://medium.com/freeton>`_ - `Vitalik Buterin <https://medium.com/@VitalikButerin>`_ - |ocamlpro.ico| `OCamlPro <https://medium.com/ocamlpro-blockchain-fr>`_ - `Evertake <https://medium.com/everstake/what-is-free-ton-and-how-ton-blockchain-benefits-a-wide-range-of-industries-from-serving-81f0ddfbfd61>`_ - and others
-* Reddit `Blog <https://www.reddit.com/r/TONCRYSTAL/>`_
 * |ocamlpro.ico| OCamlPro `Blog <https://medium.com/ocamlpro-blockchain-fr>`_
-* Cointelegraph `Blog <https://cointelegraph.com/>`_
+* Reddit `Blog <https://www.reddit.com/r/TONCRYSTAL/>`_
+* Community Inner Life `Chat <https://t.me/joinchat/UlCYzgUx8XcYqW-W>`_ - `Channel RU <https://t.me/movetheopennetwork>`_ - `Chat RU <https://t.me/movetheopennetwork>`_
 * Pavel Durov `Channel <https://t.me/durov>`_ - `Twitter <https://twitter.com/durov>`_ - `What Was TON And Why It Is Over <https://telegra.ph/What-Was-TON-And-Why-It-Is-Over-05-12>`_
 * ɖɦ2 `Blog <https://hackmd.io/KdvOCkZPQ-O3wPq8a5SUOg?view>`_ - `Blog <https://hackmd.io/PuNAVksrRTus-QNbKrzbMQ?view>`_
-* Community Inner Life `Chat <https://t.me/joinchat/UlCYzgUx8XcYqW-W>`_ - `Channel RU <https://t.me/movetheopennetwork>`_ - `Chat RU <https://t.me/movetheopennetwork>`_
 * `Wiki <https://en.freeton.wiki/Free_TON_Wiki>`_
 
 Keep Crystals 
