@@ -6,8 +6,8 @@ Read, Discuss
 * `Channel <https://t.me/ton_validators>`_
 * `Chat <https://t.me/freetonvalidators>`_
 
-Tolling
-~~~~~~~
+Toolling
+~~~~~~~~
 * `Depool Validators Explorer <https://depools.extraton.io/>`_
 
 Different Languages

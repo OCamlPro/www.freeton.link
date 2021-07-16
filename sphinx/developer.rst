@@ -29,7 +29,7 @@ Documentation
 ~~~~~~~~~~~~~
 * `TON Labs <https://docs.ton.dev>`_
 * `ton.org <https://ton.org/>`_
-* `Publish a Smart-contract <https://habr.com/ru/post/494528/>`_
+* `Publish a Smart-Contract <https://habr.com/ru/post/494528/>`_
 * `TON OS SDK <https://tonlabs.github.io/ton-client-js/>`_
 
 Different Languages
