@@ -32,8 +32,8 @@ Documentation
 * `Publish a Smart-contract <https://habr.com/ru/post/494528/>`_
 * `TON OS SDK <https://tonlabs.github.io/ton-client-js/>`_
 
-Other Languages
-~~~~~~~~~~~~~~~
+Different Languages
+~~~~~~~~~~~~~~~~~~~
 You are welcome to ask your questions in English!
 
 * Developers `Channel RU <https://t.me/freetondev_ru>`_ - `Chat RU <https://t.me/freetondevru>`_ 

@@ -10,8 +10,8 @@ Tolling
 ~~~~~~~
 * `Depool Validators Explorer <https://depools.extraton.io/>`_
 
-Other Languages
-~~~~~~~~~~~~~~~
+Different Languages
+~~~~~~~~~~~~~~~~~~~
 You are welcome to ask your questions in English!
 
 * `Chat RU <https://t.me/freeton_validators_ru>`_
