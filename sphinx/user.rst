@@ -81,8 +81,8 @@ Buy/Sell NFT (Non Fungible Tokens)
 * Rarible ?
 * Waifus
 
-Web applications
-~~~~~~~~~~~~~~~~
+Applications
+~~~~~~~~~~~~
 * `Extraton <https://extraton.io/>`_ - `Chat RU <https://t.me/extraton>`_ ..double
 * Staking Service Platform `Everstake <https://everstake.one/freeton>`_
 * `push.money <https://push.money/>`_
