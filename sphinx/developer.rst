@@ -4,6 +4,7 @@ For a Developer
 Read, Discuss
 ~~~~~~~~~~~~~
 * `Channel <https://t.me/TON_DEV>`_
+* `Chat <https://t.me/freeton_dev_exp>`_ .. double
 * Tondev `Chat <https://t.me/tondev_en>`_
 * SDK, tondev, ton os, tonos se `Chat <https://t.me/ton_sdk>`_ 
 * C++ Nodes `Chat <https://t.me/freeton_cpp>`_ 
