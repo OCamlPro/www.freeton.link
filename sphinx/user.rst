@@ -76,8 +76,8 @@ The price of Crystals
 * https://app.santiment.net/studio
 * https://www.feixiaohao.cc/currencies/ton-crystal/
 
-Buy/Sell Non Fungible Tokens
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Buy and Sell Non Fungible Tokens
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 * Mintable ?
 * OpenSea ?
 * Rarible ?
@@ -93,8 +93,8 @@ Games
 * World Of Dogs `Bot <https://t.me/WorldDogs_bot>`_
 * Twicy `Chat RU <https://t.me/freeton_twicy>`_
 
-Watch Blockchain
-~~~~~~~~~~~~~~~~
+Watch Blockchain Operations
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 * `ton.live <https://ton.live/>`_
 * `ton-explorer.com <http://ton-explorer.com/>`_
 * |ocamlpro.ico| `freeton_watcher <https://gitlab.ocamlpro.com/steven.de-oliveira/freeton_watcher>`_
