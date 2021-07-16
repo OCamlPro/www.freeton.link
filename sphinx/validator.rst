@@ -1,7 +1,12 @@
 For a Validator
 ===============
+Read, Discuss
+~~~~~~~~~~~~~
 * `Telegram Channel <https://t.me/ton_validators>`_
 * `Telegram Chat <https://t.me/freetonvalidators>`_
+
+Tolling
+~~~~~~~
 * `Depool Validators Explorer <https://depools.extraton.io/>`_
 
 Other Languages
