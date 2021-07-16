@@ -15,7 +15,7 @@ Welcome to Freeton Link!
    user
    developer
    validator
-   local
+   actors
    Edit on Github <https://github.com/ocamlpro/www.freeton.link>
 
 

@@ -3,8 +3,8 @@ For a Validator
 
 Read, Discuss
 ~~~~~~~~~~~~~
-* `Tg Channel <https://t.me/ton_validators>`_
-* `Tg Chat <https://t.me/freetonvalidators>`_
+* `Channel <https://t.me/ton_validators>`_
+* `Chat <https://t.me/freetonvalidators>`_
 
 Tolling
 ~~~~~~~
@@ -14,5 +14,5 @@ Other Languages
 ~~~~~~~~~~~~~~~
 You are welcome to ask your questions in English!
 
-* `Tg Chat RU <https://t.me/freeton_validators_ru>`_
-* `Tg Chat RU <https://t.me/ton_validators_ru>`_
+* `Chat RU <https://t.me/freeton_validators_ru>`_
+* `Chat RU <https://t.me/ton_validators_ru>`_
