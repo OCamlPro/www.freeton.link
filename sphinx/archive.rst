@@ -9,9 +9,11 @@ https://www.notion.so/fb269eb14f204db7b19bd218dc07f21d
 // Это на старом сдк, в семплах вроде есть это на новом сдк
 // * `freetonik <https://github.com/freetonik/freetonik.github.io>`_ .. кажется не про фритон
 https://auction.cryptonumiz.org/
-`WEB <https://debiton.org/>`_ `Chat RU <https://t.me/debiton>`_ .. inactive 
-Russian Community `Chat RU <https://t.me/freetonru>`_ .. inactive
+`WEB <https://debiton.org/>`_ `Chat RU <https://t.me/debiton>`_ // inactive 
+Russian Community `Chat RU <https://t.me/freetonru>`_ // inactive
 Free Ton Idea Bot RU @FreeTonIdeaBot ?
+* `push.money <https://push.money/>`_ // inactive
+Publishing platform for creators https://teletype.in/ ? 
 
 Blockchain Browsers
 ~~~~~~~~~~~~~~~~~~~

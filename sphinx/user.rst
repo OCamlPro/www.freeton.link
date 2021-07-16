@@ -1,8 +1,8 @@
 For a User
 ==========
 
-Read, Watch, Discuss 
-~~~~~~~~~~~~~~~~~~~~
+Read, Watch and Discuss 
+~~~~~~~~~~~~~~~~~~~~~~~
 * Community `WEB <https://freeton.org/>`_ - |toncrystal.ico| `Chat <https://t.me/toncrystal>`_ - `Facebook <https://www.facebook.com/CommunityTon>`_ - `Twitter <https://twitter.com/CommunityTon>`_ - `Instagram <https://www.instagram.com/communityton/>`_ - `Linkedin <https://www.linkedin.com/in/free-ton/>`_
 * `News <https://ton-news.com/>`_
 * News `Channel <https://t.me/TON_Journal_TM>`_
@@ -18,10 +18,12 @@ Read, Watch, Discuss
 * ɖɦ2 `Blog <https://hackmd.io/KdvOCkZPQ-O3wPq8a5SUOg?view>`_ - `Blog <https://hackmd.io/PuNAVksrRTus-QNbKrzbMQ?view>`_
 * `Wiki <https://en.freeton.wiki/Free_TON_Wiki>`_
 
-Keep Crystals 
-~~~~~~~~~~~~~
+Hold and Send Crystals 
+~~~~~~~~~~~~~~~~~~~~~~
 * Surf Wallet + Blockchain Browser + Secure Chat `WEB <https://ton.surf>`_ - `WEB More Fonctionalities <https://beta.ton.surf>`_ - `Android <https://play.google.com/store/apps/details?id=surf.ton>`_ - `Android Test Version <https://play.google.com/apps/testing/surf.ton>`_ - `iOS <https://apps.apple.com/us/app/ton-surf/id1481986831>`_ - `iOS Test Version <https://testflight.apple.com/join/VPcfXsR0>`_ - <https://web.ton.surf/>?
-* Chrome Extension `Extraton <https://chrome.google.com/webstore/detail/extraton/hhimbkmlnofjdajamcojlcmgialocllm>`_
+* Extraton `Chrome Extension <https://chrome.google.com/webstore/detail/extraton/hhimbkmlnofjdajamcojlcmgialocllm>`_ - `Chat RU <https://t.me/extraton>`_
+* Extraton Wallet `WEB <https://vouch.extraton.io/>`_
+* Extraton Multisend `WEB <https://multisend.extraton.io/>`_
 * `Broxus Wallet <https://l1.broxus.com/freeton/wallet>`_ 
 * Changelly `Android <https://play.google.com/store/apps/dev?id=6836651604375768742>`_ - `iOS <https://apps.apple.com/us/app/changelly-crypto-exchange/id1435140380>`_
 * Cripterium `WEB <https://wallet.crypterium.com/>`_ - `Android <https://play.google.com/store/apps/details?id=com.crypterium>`_ - `iOS <https://apps.apple.com/ru/app/crypterium-bitcoin-wallet/id1360632912>`_
@@ -30,8 +32,8 @@ Keep Crystals
 * `Link a wallet to as Google account <https://app.tor.us/>`_
 * `Connect Ethereum and Free TON Wallets <https://tonbridge.io/>`_
 
-Buy/Sell Crystals
-~~~~~~~~~~~~~~~~~
+Buy and Sell Crystals
+~~~~~~~~~~~~~~~~~~~~~
 * `ton_p2p Chat <https://t.me/ton_p2p>`_
 * `freeton_otc Chat <https://t.me/freeton_otc>`_
 * `tokiton_chat Chat <https://t.me/tokiton_chat>`_
@@ -43,8 +45,22 @@ Buy/Sell Crystals
 * https://cex.io/ton-usdt
 * https://pro.changelly.com/otc
 
+Earn Crystals
+~~~~~~~~~~~~~
+* `Contests <https://gov.freeton.org/main>`_ - `Bacics of Contests <https://telegra.ph/How-to-prepare-and-submit-a-competitive-offer-in-Free-TON-08-18>`_
+* Participate in Validation (=staking? =depool?) `What it is <https://freeton.com/en/staking/>`_ - `Extraton <https://depools.extraton.io/>`_ - `koshelek https://depools.koshelek.ru/?utm_source=freeton.com&utm_medium=organic&utm_campaign=ecosystem#/>`_ - `p2p <https://p2p.org/>`_ - `Everstake <https://everstake.one/freeton>`_ - `cex.io <https://earn.cex.io/staking>`_
+* Run your own Validator `How <https://docs.ton.dev/86757ecb2/p/708260-run-validator>`_
+* AdGram : Advertising `WEB <https://adgram.io/>`_ - `News Channel <https://t.me/adgram_news>`_ - `Chat <https://t.me/adgram_chat_eng>`_ - `Chat RU <https://t.me/adgram_chat_ru>`_
+* `Free TON TRUST Chat RU <https://t.me/joinchat/GKhzXBByu-ShTXblIwD0AQ>`_ ?
+
+Pay with Crystals
+~~~~~~~~~~~~~~~~~
+* Shop |FREETONSHOP_bot.ico| `Bot <https://t.me/FREETONSHOP_bot>`_  
+* Pay Mobile Phone |FreeTON2MobileBot.ico| `Bot <https://t.me/FreeTON2MobileBot>`_ 
+* Cloud infrastructure service `<https://serverspace.io/?utm_source=freeton.com&utm_medium=organic&utm_campaign=ecosystem>`_
+
 The price of Crystals
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~
 * Blockfolio `Android <https://play.google.com/store/apps/details?id=com.blockfolio.blockfolio>`_ - `iOS <https://apps.apple.com/ru/app/blockfolio-%D0%BA%D1%83%D1%80%D1%81-%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD%D0%B0/id1095564685>`_
 * Delta `Android <https://play.google.com/store/apps/details?id=io.getdelta.android>`_ - `iOS <https://apps.apple.com/ru/app/delta-%D1%82%D1%80%D0%B5%D0%BA%D0%B5%D1%80-%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE-%D0%BF%D0%BE%D1%80%D1%82%D1%84%D0%B5%D0%BB%D0%B5%D0%B9/id1288676542>`_
 * Mytokencap `Android <https://play.google.com/store/apps/details?id=com.hash.mytoken>`_ - `iOS <https://apps.apple.com/cn/app/mytoken-news-%E5%BF%AB%E9%80%9F-%E5%87%86%E7%A1%AE-%E5%85%A8%E9%9D%A2/id1525213647>`_
@@ -60,35 +76,15 @@ The price of Crystals
 * https://app.santiment.net/studio
 * https://www.feixiaohao.cc/currencies/ton-crystal/
 
-Blocks Explorers
-~~~~~~~~~~~~~~~~
-* `ton.live <https://ton.live/>`_
-* `ton-explorer.com <http://ton-explorer.com/>`_
-* |ocamlpro.ico| `freeton_watcher <https://gitlab.ocamlpro.com/steven.de-oliveira/freeton_watcher>`_
-* Transactions Notification `Bot <https://t.me/freeton_Productions>`_ @FreeTonNotifyBot
-
-Earn Crystals
-~~~~~~~~~~~~~
-* `Bacics of Contests <https://telegra.ph/How-to-prepare-and-submit-a-competitive-offer-in-Free-TON-08-18>`_
-* `Run your Validator <https://docs.ton.dev/86757ecb2/p/708260-run-validator>`_
-* `DePool <https://en.freeton.wiki/DePool>`_
-* `Free TON TRUST Chat RU <https://t.me/joinchat/GKhzXBByu-ShTXblIwD0AQ>`_ ?
-
-Buy/Sell NFT (Non Fungible Tokens)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Buy/Sell Non Fungible Tokens
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 * Mintable ?
 * OpenSea ?
 * Rarible ?
 * Waifus
 
-Applications
-~~~~~~~~~~~~
-* `Extraton <https://extraton.io/>`_ - `Chat RU <https://t.me/extraton>`_
-* Staking Service Platform `Everstake <https://everstake.one/freeton>`_
-* `push.money <https://push.money/>`_
-* `Advertising <https://adgram.io/>`_ 
-* Shop |FREETONSHOP_bot.ico| `Bot <https://t.me/FREETONSHOP_bot>`_  
-* Pay Mobile Phone |FreeTON2MobileBot.ico| `Bot <https://t.me/FreeTON2MobileBot>`_ 
+Different Applications
+~~~~~~~~~~~~~~~~~~~~~~
 * Blog Anonyme `Telegraph <https://telegra.ph>`_ - |telegraph.ico| `Bot <https://t.me?do=open_link/te>`_
 
 Games
@@ -96,6 +92,13 @@ Games
 * Play Poker `Bot <https://ttttt.me/pokertonbot>`_ 
 * World Of Dogs `Bot <https://t.me/WorldDogs_bot>`_
 * Twicy `Chat RU <https://t.me/freeton_twicy>`_
+
+Watch Blockchain
+~~~~~~~~~~~~~~~~
+* `ton.live <https://ton.live/>`_
+* `ton-explorer.com <http://ton-explorer.com/>`_
+* |ocamlpro.ico| `freeton_watcher <https://gitlab.ocamlpro.com/steven.de-oliveira/freeton_watcher>`_
+* Transactions Notification `Bot <https://t.me/freeton_Productions>`_ @FreeTonNotifyBot
 
 Local Communities and Different Languages 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -140,6 +143,7 @@ You are welcome to ask your questions in English!
 
 Other Indexes
 ~~~~~~~~~~~~~
+* `freeton.com <https://freeton.com/en/>`_
 * `RSquad <http://ton-test.rsquad.io/>`_
 * `Telegra.ph <https://telegra.ph/Structure-of-the-Free-TON-ecosystem-08-08-31>`_
 * `Telegram Search <https://www.tg-me.com/telegram-group/free%20ton>`_
