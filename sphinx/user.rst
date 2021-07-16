@@ -3,7 +3,7 @@ For a User
 
 Read, Watch, Discuss 
 ~~~~~~~~~~~~~~~~~~~~
-* Community `WEB <https://freeton.org/>`_ - `Chat |toncrystal.ico| <https://t.me/toncrystal>`_ - `Facebook <https://www.facebook.com/CommunityTon>`_ - `Twitter <https://twitter.com/CommunityTon>`_ - `Instagram <https://www.instagram.com/communityton/>`_ - `Linkedin <https://www.linkedin.com/in/free-ton/>`_
+* Community `WEB <https://freeton.org/>`_ - |toncrystal.ico| `Chat <https://t.me/toncrystal>`_ - `Facebook <https://www.facebook.com/CommunityTon>`_ - `Twitter <https://twitter.com/CommunityTon>`_ - `Instagram <https://www.instagram.com/communityton/>`_ - `Linkedin <https://www.linkedin.com/in/free-ton/>`_
 * `News <https://ton-news.com/>`_
 * News `Channel <https://t.me/TON_Journal_TM>`_
 * `Youtube <https://www.youtube.com/c/FreeTON_official/featured>`_
