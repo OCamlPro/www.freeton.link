@@ -13,7 +13,7 @@ Development Teams
 * nil.foundation `GitHub <https://nil.foundation/>`_
 * `Mercuryo <https://mercuryo.io/>`_ - `Blog RU <https://habr.com/ru/company/mercuryo/blog/>`_
 * move-ton `GitHub <https://github.com/move-ton>`_
-* |ocamlpro.ico| `OCamlPro <https://www.ocamlpro.com/>`_ - `GitHub <https://github.com/OCamlPro>`_- `Blog <https://medium.com/ocamlpro-blockchain-fr>`_ - `Twitter <https://twitter.com/ocamlpro>`_
+* |ocamlpro.ico| `OCamlPro <https://www.ocamlpro.com/>`_ - `GitHub <https://github.com/OCamlPro>`_ - `Blog <https://medium.com/ocamlpro-blockchain-fr>`_ - `Twitter <https://twitter.com/ocamlpro>`_
 * `Pruvendo <https://pruvendo.com/>`_
 * `Radiance <https://radianceteam.com/>`_
 * `RSquad <https://rsquad.io/>`_
