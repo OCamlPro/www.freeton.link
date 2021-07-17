@@ -15,6 +15,7 @@ Free Ton Idea Bot RU @FreeTonIdeaBot ?
 * `push.money <https://push.money/>`_ // inactive
 Publishing platform for creators https://teletype.in/ ? 
 * `Free TON TRUST Chat RU <https://t.me/joinchat/GKhzXBByu-ShTXblIwD0AQ>`_ inactiv
+https://exbase.io/ru/#wallet
 
 Blockchain Browsers
 ~~~~~~~~~~~~~~~~~~~
