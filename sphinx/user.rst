@@ -51,7 +51,6 @@ Earn Crystals
 * Participate in Validation (=staking? =depool?) `What it is <https://freeton.com/en/staking/>`_ - `Extraton <https://depools.extraton.io/>`_ - `koshelek https://depools.koshelek.ru/?utm_source=freeton.com&utm_medium=organic&utm_campaign=ecosystem#/>`_ - `p2p <https://p2p.org/>`_ - `Everstake <https://everstake.one/freeton>`_ - `cex.io <https://earn.cex.io/staking>`_
 * Run your own Validator `How <https://docs.ton.dev/86757ecb2/p/708260-run-validator>`_
 * AdGram : Advertising `WEB <https://adgram.io/>`_ - `News Channel <https://t.me/adgram_news>`_ - `Chat <https://t.me/adgram_chat_eng>`_ - `Chat RU <https://t.me/adgram_chat_ru>`_
-* `Free TON TRUST Chat RU <https://t.me/joinchat/GKhzXBByu-ShTXblIwD0AQ>`_ ?
 
 Pay with Crystals
 ~~~~~~~~~~~~~~~~~

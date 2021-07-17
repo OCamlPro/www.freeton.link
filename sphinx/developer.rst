@@ -14,11 +14,11 @@ Read, Discuss
 
 Tooling
 ~~~~~~~
-* |ocamlpro.ico| `ft <https://ocamlpro.github.io/freeton_wallet/>`_
-* `locklift <https://www.npmjs.com/package/locklift>`_
+* Multi-Account Multi-Network Terminal Wallet |ocamlpro.ico| `ft <https://ocamlpro.github.io/freeton_wallet/>`_ - `Article <https://medium.com/ocamlpro/debugging-free-ton-smart-contracts-with-the-ft-multi-account-wallet-e0e0adbe9cec>`_
 * `GraphQL <https://net.ton.dev/graphql>`_ 
-* `TestSuite4 <https://github.com/tonlabs/tondev#testsuite4>`_
+* TVM for Testing `TestSuite4 <https://github.com/tonlabs/tondev#testsuite4>`_
 * `TON OS SE Docker Image <https://hub.docker.com/r/tonlabs/local-node>`_
+* `locklift <https://www.npmjs.com/package/locklift>`_
 
 Contests
 ~~~~~~~~
@@ -29,7 +29,7 @@ Contests
 
 Documentation
 ~~~~~~~~~~~~~
-* `TON Labs <https://docs.ton.dev>`_
+* `Principal Documentation <https://docs.ton.dev>`_
 * `TON OS SDK <https://tonlabs.github.io/ton-client-js/>`_
 * `ton.org <https://ton.org/>`_
 * `Publish a Smart-Contract <https://habr.com/ru/post/494528/>`_

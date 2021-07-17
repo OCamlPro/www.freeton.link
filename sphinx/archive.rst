@@ -14,6 +14,7 @@ Russian Community `Chat RU <https://t.me/freetonru>`_ // inactive
 Free Ton Idea Bot RU @FreeTonIdeaBot ?
 * `push.money <https://push.money/>`_ // inactive
 Publishing platform for creators https://teletype.in/ ? 
+* `Free TON TRUST Chat RU <https://t.me/joinchat/GKhzXBByu-ShTXblIwD0AQ>`_ inactiv
 
 Blockchain Browsers
 ~~~~~~~~~~~~~~~~~~~
