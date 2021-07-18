@@ -143,10 +143,10 @@ You are welcome to ask your questions in English!
 
 Other Indexes
 ~~~~~~~~~~~~~
+* `Telegra.ph <https://telegra.ph/Structure-of-the-Free-TON-ecosystem-08-08-31>`_
 * `freeton.com <https://freeton.com/en/>`_
 * `RSquad <http://ton-test.rsquad.io/>`_
-* `Telegra.ph <https://telegra.ph/Structure-of-the-Free-TON-ecosystem-08-08-31>`_
-* `Telegram Search <https://www.tg-me.com/telegram-group/free%20ton>`_
+* `Telegram Channels and groups <https://www.tg-me.com/telegram-group/free%20ton>`_
 * `RU <https://cryptotalk.org/forum/82-free-ton/>`_
 .. * `TON Labs <https://docs.ton.dev/86757ecb2/p/04a4ba->`_
 .. |br| raw:: html

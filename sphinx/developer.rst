@@ -6,7 +6,7 @@ Read, Discuss
 * `Channel <https://t.me/TON_DEV>`_
 * `Chat <https://t.me/freeton_dev_exp>`_
 * Tondev `Chat <https://t.me/tondev_en>`_
-* SDK, tondev, ton os, tonos se `Chat <https://t.me/ton_sdk>`_ 
+* SDK, tondev, ton os `Chat <https://t.me/ton_sdk>`_ 
 * C++ Nodes `Chat <https://t.me/freeton_cpp>`_ 
 * `Stackoverflow <https://stackoverflow.com/search?q=free+ton>`_
 * TON Seed : Quick Start Platform `WEB <https://tonseed.com/>`_ - `Forum <https://forum.freeton.org/c/ton-seed-thread/164>`_ - `Channel <https://t.me/tonseednew>`_ - `Channel RU <https://t.me/tonseednewsru>`_ - `Chat RU <https://t.me/tonseed>`_
@@ -39,10 +39,10 @@ Different Languages
 You are welcome to ask your questions in English!
 
 * Developers `Channel RU <https://t.me/freetondev_ru>`_ - `Chat RU <https://t.me/freetondevru>`_ 
-* Surf `Chat RU <https://t.me/betasurf>`_ 
+* Contests `Channel RU <https://t.me/toncontests_ru>`_
 * Smart Contracts `Chat RU <https://t.me/freeton_smartcontracts>`_ 
 * Debots `Chat RU <https://t.me/freetondebots>`_ 
-* Contests `Channel RU <https://t.me/toncontests_ru>`_
+* Surf `Chat RU <https://t.me/betasurf>`_ 
 * Dangerous Cases `Chat RU <https://t.me/fld_ton_dev>`_
 
 
