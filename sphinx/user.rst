@@ -24,7 +24,7 @@ Hold and Send Crystals
 * Cripterium `WEB <https://wallet.crypterium.com/>`_ - `Android <https://play.google.com/store/apps/details?id=com.crypterium>`_ - `iOS <https://apps.apple.com/ru/app/crypterium-bitcoin-wallet/id1360632912>`_
 * Koshelek `WEB <https://koshelek.ru/>`_ - `Android <https://play.google.com/store/apps/details?id=ru.koshelek>`_ - `iOS <https://apps.apple.com/ru/app/id1524167720>`_ -  `Bot <https://t.me/Koshelek_bot>`_
 * `Freewallet <https://freewallet.org>`_
-* `Link a wallet to as Google account <https://app.tor.us/>`_
+* `Link a wallet to a Google account <https://app.tor.us/>`_
 * `Connect Ethereum and Free TON Wallets <https://tonbridge.io/>`_
 * Changelly `Android <https://play.google.com/store/apps/dev?id=6836651604375768742>`_ - `iOS <https://apps.apple.com/us/app/changelly-crypto-exchange/id1435140380>`_
 * Broxus Wallet `WEB <https://l1.broxus.com/freeton/wallet>`_
