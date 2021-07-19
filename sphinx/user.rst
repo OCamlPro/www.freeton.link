@@ -26,8 +26,9 @@ Hold and Send Crystals
 * `Freewallet <https://freewallet.org>`_
 * `Link a wallet to a Google account <https://app.tor.us/>`_
 * `Connect Ethereum and Free TON Wallets <https://tonbridge.io/>`_
-* Changelly `Android <https://play.google.com/store/apps/dev?id=6836651604375768742>`_ - `iOS <https://apps.apple.com/us/app/changelly-crypto-exchange/id1435140380>`_
 * Broxus Wallet `WEB <https://l1.broxus.com/freeton/wallet>`_
+
+* Changelly `Android <https://play.google.com/store/apps/dev?id=6836651604375768742>`_ - `iOS <https://apps.apple.com/us/app/changelly-crypto-exchange/id1435140380>`_
 * Extraton `WEB <https://multisend.extraton.io/>`_ - `WEB <https://vouch.extraton.io/>`_ - `Chrome Extension <https://chrome.google.com/webstore/detail/extraton/hhimbkmlnofjdajamcojlcmgialocllm>`_ - `Chat RU <https://t.me/extraton>`_ 
 
 Buy and Sell Crystals
@@ -130,7 +131,7 @@ You are welcome to ask your questions in English!
 * Blogs RU `freeton.org <https://blog.freeton.org/>`_ - `forbes.ru <https://www.forbes.ru/search?search_api_views_fulltext=free+ton>`_ - `vc.ru <https://vc.ru/search/v2/all?query=free%20ton>`_ - `forklog.com <https://forklog.com/?s=free+ton>`_ - `beincrypto.ru <https://beincrypto.ru/?s=free+ton>`_
 * `Basics of Free TON UK <freeton.net.ua https://www.freeton.net.ua/>`_
 * Analytics `Chat RU <https://t.me/freetonanalytics>`_
-* Philosophy `Chat RU <https://t.me/freetonphilosophie>`_
+* P hilosophy `Chat RU <https://t.me/freetonphilosophie>`_
 * Decentralization Popularization `Chat RU <https://t.me/treeton_chat>`_
 * `Cybersport RU <https://www.cybersport.ru/base/teams/no_org/free-ton>`_
 * `Announces RU <https://t.me/freetonstore>`_
