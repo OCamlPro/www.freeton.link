@@ -21,9 +21,9 @@ Read, Watch and Discuss
 Hold and Send Crystals 
 ~~~~~~~~~~~~~~~~~~~~~~
 * Surf Wallet + Blockchain Browser + Secure Chat `WEB <https://ton.surf>`_ - `WEB More Fonctionalities <https://beta.ton.surf>`_ - `Android <https://play.google.com/store/apps/details?id=surf.ton>`_ - `Android Test Version <https://play.google.com/apps/testing/surf.ton>`_ - `iOS <https://apps.apple.com/us/app/ton-surf/id1481986831>`_ - `iOS Test Version <https://testflight.apple.com/join/VPcfXsR0>`_ - <https://web.ton.surf/>?
-* Extraton `WEB <https://multisend.extraton.io>`_
+* Extraton `WEB <https://multisend.extraton.io>`_ - <https://vouch.extraton.io> - <https://chrome.google.com/webstore/detail/extraton/hhimbkmlnofjdajamcojlcmgialocllm>
 * `Broxus Wallet <https://l1.broxus.com/freeton/wallet>`_
-* https://play.google.com/store/apps/dev?id=6836651604375768742
+* Changelly <https://play.google.com/store/apps/dev?id=6836651604375768742> - <https://apps.apple.com/us/app/changelly-crypto-exchange/id1435140380>
 * Cripterium `WEB <https://wallet.crypterium.com/>`_ - `Android <https://play.google.com/store/apps/details?id=com.crypterium>`_ - `iOS <https://apps.apple.com/ru/app/crypterium-bitcoin-wallet/id1360632912>`_
 * `Freewallet <https://freewallet.org>`_
 * Koshelek `WEB <https://koshelek.ru/>`_ - `Android <https://play.google.com/store/apps/details?id=ru.koshelek>`_ - `iOS <https://apps.apple.com/ru/app/id1524167720>`_ -  `Bot <https://t.me/Koshelek_bot>`_
@@ -31,7 +31,7 @@ Hold and Send Crystals
 * `Link a wallet to a Google account <https://app.tor.us/>`_
 
 * Changelly `Android <https://play.google.com/store/apps/dev?id=6836651604375768742>`_ - `iOS <https://apps.apple.com/us/app/changelly-crypto-exchange/id1435140380>`_
-* Extraton `WEB <>`_ - `WEB <https://vouch.extraton.io>`_ - `Chrome Extension <https://chrome.google.com/webstore/detail/extraton/hhimbkmlnofjdajamcojlcmgialocllm>`_ - `Chat RU <https://t.me/extraton>`_ 
+.. * Extraton `WEB <>`_ - `Chrome Extension <>`_ - `Chat RU <https://t.me/extraton>`_ 
 
 Buy and Sell Crystals
 ~~~~~~~~~~~~~~~~~~~~~
