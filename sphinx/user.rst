@@ -26,10 +26,9 @@ Hold and Send Crystals
 * `Freewallet <https://freewallet.org>`_
 * `Link a wallet to as Google account <https://app.tor.us/>`_
 * `Connect Ethereum and Free TON Wallets <https://tonbridge.io/>`_
-* Broxus Wallet `WEB <https://l1.broxus.com/freeton/wallet>`_ 
-* Extraton `WEB <https://multisend.extraton.io/>`_ - `WEB <https://vouch.extraton.io/>`_ - `Chrome Extension <https://chrome.google.com/webstore/detail/extraton/hhimbkmlnofjdajamcojlcmgialocllm>`_ - `Chat RU <https://t.me/extraton>`_ 
 * Changelly `Android <https://play.google.com/store/apps/dev?id=6836651604375768742>`_ - `iOS <https://apps.apple.com/us/app/changelly-crypto-exchange/id1435140380>`_
-
+* Broxus Wallet `WEB <https://l1.broxus.com/freeton/wallet>`_
+* Extraton `WEB <https://multisend.extraton.io/>`_ - `WEB <https://vouch.extraton.io/>`_ - `Chrome Extension <https://chrome.google.com/webstore/detail/extraton/hhimbkmlnofjdajamcojlcmgialocllm>`_ - `Chat RU <https://t.me/extraton>`_ 
 
 Buy and Sell Crystals
 ~~~~~~~~~~~~~~~~~~~~~
