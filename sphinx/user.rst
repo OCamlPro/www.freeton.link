@@ -128,7 +128,7 @@ You are welcome to ask your questions in English!
 * Ukrainian Community `Chat RU <https://t.me/freeton_ukraine>`_
 * News RU `telemetr.io <https://telemetr.io/en/channels/1477384745-freeton_community>`_- `Channel <https://t.me/TON_Journal_TM>`_ - `Channel <https://t.me/oFreeTON>`_
 * Blogs RU `freeton.org <https://blog.freeton.org/>`_ - `forbes.ru <https://www.forbes.ru/search?search_api_views_fulltext=free+ton>`_ - `vc.ru <https://vc.ru/search/v2/all?query=free%20ton>`_ - `forklog.com <https://forklog.com/?s=free+ton>`_ - `beincrypto.ru <https://beincrypto.ru/?s=free+ton>`_
-* Basics of Free TON UK `<freeton.net.ua https://www.freeton.net.ua/>`_
+* `Basics of Free TON UK <freeton.net.ua https://www.freeton.net.ua/>`_
 * Analytics `Chat RU <https://t.me/freetonanalytics>`_
 * Philosophy `Chat RU <https://t.me/freetonphilosophie>`_
 * Decentralization Popularization `Chat RU <https://t.me/treeton_chat>`_
