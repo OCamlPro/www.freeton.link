@@ -50,15 +50,12 @@ Earn Crystals
 * Run your own Validator (if you have a lot of tokens and some technical abilities) `How <https://docs.ton.dev/86757ecb2/p/708260-run-validator>`_
 * Win the Contests (if you have good technical abilities) `<https://gov.freeton.org/main>`_ - `Bacics of Contests <https://telegra.ph/How-to-prepare-and-submit-a-competitive-offer-in-Free-TON-08-18>`_
 
-Make your Crystals work
-~~~~~~~~~~~~~~~~~~~~~~
-* AdGram : Advertising `WEB <https://adgram.io/>`_ - `News Channel <https://t.me/adgram_news>`_ - `Chat <https://t.me/adgram_chat_eng>`_ - `Chat RU <https://t.me/adgram_chat_ru>`_
-
-Spend Crystals
-~~~~~~~~~~~~~~
+Pay with Crystals
+~~~~~~~~~~~~~~~~~
 * Shop |FREETONSHOP_bot.ico| `Bot <https://t.me/FREETONSHOP_bot>`_  
 * Pay Mobile Phone |FreeTON2MobileBot.ico| `Bot <https://t.me/FreeTON2MobileBot>`_ 
 * Cloud infrastructure service `<https://serverspace.io/?utm_source=freeton.com&utm_medium=organic&utm_campaign=ecosystem>`_
+* AdGram : Advertising `WEB <https://adgram.io/>`_ - `News Channel <https://t.me/adgram_news>`_ - `Chat <https://t.me/adgram_chat_eng>`_ - `Chat RU <https://t.me/adgram_chat_ru>`_
 
 The price of Crystals
 ~~~~~~~~~~~~~~~~~~~~~
@@ -83,10 +80,6 @@ Buy and Sell Non Fungible Tokens
 * OpenSea ?
 * Rarible ?
 * Waifus
-
-Different Applications
-~~~~~~~~~~~~~~~~~~~~~~
-* Blog Anonyme `Telegraph <https://telegra.ph>`_ - |telegraph.ico| `Bot <https://t.me?do=open_link/te>`_
 
 Games
 ~~~~~

@@ -16,6 +16,7 @@ Free Ton Idea Bot RU @FreeTonIdeaBot ?
 Publishing platform for creators https://teletype.in/ ? 
 * `Free TON TRUST Chat RU <https://t.me/joinchat/GKhzXBByu-ShTXblIwD0AQ>`_ inactiv
 https://exbase.io/ru/#wallet
+not in blockchain `Telegraph <https://telegra.ph>`_ - |telegraph.ico| `Bot <https://t.me?do=open_link/te>`_
 
 Blockchain Browsers
 ~~~~~~~~~~~~~~~~~~~
