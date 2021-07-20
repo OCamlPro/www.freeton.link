@@ -11,7 +11,7 @@ Read, Watch and Discuss
 * Cointelegraph `Blog <https://cointelegraph.com/>`_
 * Free TON House `Blog <https://freeton.house/>`_ - `Blog <https://toncrystal.today/>`_ - `Twitter <https://twitter.com/FreetonH>`_ - `Channel RU <https://t.me/fth_ru>`_
 * Medium Blog `Freeton <https://medium.com/freeton>`_ - `Vitalik Buterin <https://medium.com/@VitalikButerin>`_ - |ocamlpro.ico| `OCamlPro <https://medium.com/ocamlpro-blockchain-fr>`_ - `Evertake <https://medium.com/everstake/what-is-free-ton-and-how-ton-blockchain-benefits-a-wide-range-of-industries-from-serving-81f0ddfbfd61>`_ - and others
-* |ocamlpro.ico| OCamlPro `Blog <https://medium.com/ocamlpro-blockchain-fr>`_
+* |ocamlpro.ico| OCamlPro `Blog <https://medium.com/ocamlpro-blockchain-fr>`_ - `Blog FR <https://forum.freeton.org/t/articles-de-blog-en-francais-sur-freeton/11233>`_
 * Reddit `Blog <https://www.reddit.com/r/TONCRYSTAL/>`_
 * Community Inner Life `Chat <https://t.me/joinchat/UlCYzgUx8XcYqW-W>`_ - `Channel RU <https://t.me/movetheopennetwork>`_ - `Chat RU <https://t.me/movetheopennetwork>`_
 * Pavel Durov `Channel <https://t.me/durov>`_ - `Twitter <https://twitter.com/durov>`_ - `What Was TON And Why It Is Over <https://telegra.ph/What-Was-TON-And-Why-It-Is-Over-05-12>`_
@@ -130,7 +130,7 @@ You are welcome to ask your questions in English!
 * Blogs RU `freeton.org <https://blog.freeton.org/>`_ - `forbes.ru <https://www.forbes.ru/search?search_api_views_fulltext=free+ton>`_ - `vc.ru <https://vc.ru/search/v2/all?query=free%20ton>`_ - `forklog.com <https://forklog.com/?s=free+ton>`_ - `beincrypto.ru <https://beincrypto.ru/?s=free+ton>`_
 * `Basics of Free TON UK <freeton.net.ua https://www.freeton.net.ua/>`_
 * Analytics `Chat RU <https://t.me/freetonanalytics>`_
-* P hilosophy `Chat RU <https://t.me/freetonphilosophie>`_
+* Philosophy `Chat RU <https://t.me/freetonphilosophie>`_
 * Decentralization Popularization `Chat RU <https://t.me/treeton_chat>`_
 * `Cybersport RU <https://www.cybersport.ru/base/teams/no_org/free-ton>`_
 * `Announces RU <https://t.me/freetonstore>`_
