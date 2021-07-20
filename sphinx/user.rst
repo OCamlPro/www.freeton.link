@@ -28,7 +28,7 @@ Hold and Send Crystals
 * `Freewallet <https://freewallet.org>`_
 * Koshelek `WEB <https://koshelek.ru/>`_ - `Android <https://play.google.com/store/apps/details?id=ru.koshelek>`_ - `iOS <https://apps.apple.com/ru/app/id1524167720>`_ -  `Bot <https://t.me/Koshelek_bot>`_
 * `Connect Ethereum and Free TON Wallets <https://tonbridge.io/>`_
-* `Link a wallet to a Google account <https://app.tor.us/>`_
+* `Link a Wallet to a Google Account <https://app.tor.us/>`_
 
 Buy and Sell Crystals
 ~~~~~~~~~~~~~~~~~~~~~
@@ -115,15 +115,15 @@ You are welcome to ask your questions in English!
 * German Community `Chat GE <https://t.me/ton_de>`_
 * Greek Community `Chat <https://t.me/freetongreekcommunity>`_
 * Indian Community `Chat ZH <https://t.me/freeton_india>`_
-* Italian Community `Chat IT <https://t.me/topennetworkitalia>`_
 * Iranian Community `Chat FA <https://t.me/freetoniran>`_
+* Italian Community `Chat IT <https://t.me/topennetworkitalia>`_
 * Korean Community `Channel KOR <https://t.me/tonkoreaorg_channel>`_ - `Chat KOR <https://t.me/tonkoreaorg>`_
 * Latvian Community `Chat <https://t.me/freeton_latvija_komuna>`_ - `Twitter LV <https://twitter.com/FreetonLatvija>`_ - `Blog <https://freetonlatvija.medium.com>`_
 * Maltese Community `Chat <https://t.me/freeton_malta>`_
-* Spainish Community `Chat ES <https://t.me/ton_es>`_
 * Mexican Community `Chat ES <https://t.me/freeton_mexico>`_
 * Russian Community `Channel RU <https://t.me/freeton_community>`_
 * Singaporean Community `Chat <https://t.me/freetonsg>`_ 
+* Spainish Community `Chat ES <https://t.me/ton_es>`_
 * Turkish Community `Chat TR <https://t.me/tonturkiye>`_
 * Ukrainian Community `Chat RU <https://t.me/freeton_ukraine>`_
 * News RU `telemetr.io <https://telemetr.io/en/channels/1477384745-freeton_community>`_- `Channel <https://t.me/TON_Journal_TM>`_ - `Channel <https://t.me/oFreeTON>`_
@@ -146,7 +146,7 @@ Other Indexes
 * `freeton.com <https://freeton.com/en/>`_
 * `RSquad <http://ton-test.rsquad.io/>`_
 * `Telegram Channels and groups <https://www.tg-me.com/telegram-group/free%20ton>`_
-* `RU <https://cryptotalk.org/forum/82-free-ton/>`_
+* `cryptotalk.org RU <https://cryptotalk.org/forum/82-free-ton/>`_
 .. * `TON Labs <https://docs.ton.dev/86757ecb2/p/04a4ba->`_
 .. |br| raw:: html
 
