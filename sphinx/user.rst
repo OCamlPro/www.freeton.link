@@ -13,7 +13,7 @@ Read, Watch and Discuss
 * Medium Blog `Freeton <https://medium.com/freeton>`_ - `Vitalik Buterin <https://medium.com/@VitalikButerin>`_ - |ocamlpro.ico| `OCamlPro <https://medium.com/ocamlpro-blockchain-fr>`_ - `Evertake <https://medium.com/everstake/what-is-free-ton-and-how-ton-blockchain-benefits-a-wide-range-of-industries-from-serving-81f0ddfbfd61>`_ - and others
 * |ocamlpro.ico| OCamlPro `Blog <https://medium.com/ocamlpro-blockchain-fr>`_ - `Blog FR <https://forum.freeton.org/t/articles-de-blog-en-francais-sur-freeton/11233>`_
 * Reddit `Blog <https://www.reddit.com/r/TONCRYSTAL/>`_
-* Community Inner Life `Chat <https://t.me/joinchat/UlCYzgUx8XcYqW-W>`_ - `Channel RU <https://t.me/movetheopennetwork>`_ - `Chat RU <https://t.me/movetheopennetwork>`_
+* Community Inner Life `Chat <https://t.me/joinchat/UlCYzgUx8XcYqW-W>`_ - `Channel RU <https://t.me/movetheopennetwork>`_
 * Pavel Durov `Channel <https://t.me/durov>`_ - `Twitter <https://twitter.com/durov>`_ - `What Was TON And Why It Is Over <https://telegra.ph/What-Was-TON-And-Why-It-Is-Over-05-12>`_
 * ɖɦ2 `Blog <https://hackmd.io/KdvOCkZPQ-O3wPq8a5SUOg?view>`_ - `Blog <https://hackmd.io/PuNAVksrRTus-QNbKrzbMQ?view>`_
 * `Wiki <https://en.freeton.wiki/Free_TON_Wiki>`_
@@ -46,9 +46,12 @@ Buy and Sell Crystals
 Earn Crystals
 ~~~~~~~~~~~~~
 * Surf : Wallet + Blockchain Browser + Secure Chat `WEB <https://ton.surf>`_ - `WEB More Fonctionalities <https://beta.ton.surf>`_ - `Android <https://play.google.com/store/apps/details?id=surf.ton>`_ - `Android Test Version <https://play.google.com/apps/testing/surf.ton>`_ - `iOS <https://apps.apple.com/us/app/ton-surf/id1481986831>`_ - `iOS Test Version <https://testflight.apple.com/join/VPcfXsR0>`_ - <? https://web.ton.surf/> - `How to stake at Surf <https://www.freeton.net.ua/en/kak-sdelat-stejking-v-surf-ton/>`_
-* Participate in Validation (DePool) `What it is <https://freeton.com/en/staking/>`_ - `Extraton <https://depools.extraton.io/>`_ - `koshelek <https://depools.koshelek.ru/?utm_source=freeton.com&utm_medium=organic&utm_campaign=ecosystem#/>`_ - `p2p <https://p2p.org/>`_ - `Everstake <https://everstake.one/freeton>`_ - `cex.io <https://earn.cex.io/staking>`_
-* Run your own Validator `How <https://docs.ton.dev/86757ecb2/p/708260-run-validator>`_
-* `Contests <https://gov.freeton.org/main>`_ - `Bacics of Contests <https://telegra.ph/How-to-prepare-and-submit-a-competitive-offer-in-Free-TON-08-18>`_
+* Participate in Validation (if you have some tokens) `What it is <https://freeton.com/en/staking/>`_ - `Extraton <https://depools.extraton.io/>`_ - `koshelek <https://depools.koshelek.ru/?utm_source=freeton.com&utm_medium=organic&utm_campaign=ecosystem#/>`_ - `p2p <https://p2p.org/>`_ - `Everstake <https://everstake.one/freeton>`_ - `cex.io <https://earn.cex.io/staking>`_
+* Run your own Validator (if you have a lot of tokens and some technical abilities) `How <https://docs.ton.dev/86757ecb2/p/708260-run-validator>`_
+* Win the Contests (if you have good technical abilities) `<https://gov.freeton.org/main>`_ - `Bacics of Contests <https://telegra.ph/How-to-prepare-and-submit-a-competitive-offer-in-Free-TON-08-18>`_
+
+Make your Crystals work
+~~~~~~~~~~~~~~~~~~~~~~
 * AdGram : Advertising `WEB <https://adgram.io/>`_ - `News Channel <https://t.me/adgram_news>`_ - `Chat <https://t.me/adgram_chat_eng>`_ - `Chat RU <https://t.me/adgram_chat_ru>`_
 
 Spend Crystals
