@@ -48,9 +48,9 @@ Buy and Sell Crystals
 Earn Crystals
 ~~~~~~~~~~~~~
 * Surf : Wallet + Blockchain Browser + Secure Chat `WEB <https://ton.surf>`_ - `WEB More Fonctionalities <https://beta.ton.surf>`_ - `Android <https://play.google.com/store/apps/details?id=surf.ton>`_ - `Android Test Version <https://play.google.com/apps/testing/surf.ton>`_ - `iOS <https://apps.apple.com/us/app/ton-surf/id1481986831>`_ - `iOS Test Version <https://testflight.apple.com/join/VPcfXsR0>`_ - <? https://web.ton.surf/> - `How to stake at Surf <https://www.freeton.net.ua/en/kak-sdelat-stejking-v-surf-ton/>`_
-* Participate in Validation, if you have some tokens `What it is <https://freeton.com/en/staking/>`_ - `Extraton <https://depools.extraton.io/>`_ - `koshelek <https://depools.koshelek.ru/?utm_source=freeton.com&utm_medium=organic&utm_campaign=ecosystem#/>`_ - `p2p <https://p2p.org/>`_ - `Everstake <https://everstake.one/freeton>`_ - `cex.io <https://earn.cex.io/staking>`_
-* Run your own Validator, if you have a lot of tokens and some technical abilities `How <https://docs.ton.dev/86757ecb2/p/708260-run-validator>`_
-* Win Contests, if you have good technical abilities `<https://gov.freeton.org/main>`_ - `Bacics of Contests <https://telegra.ph/How-to-prepare-and-submit-a-competitive-offer-in-Free-TON-08-18>`_
+* Participate in `Validation <https://freeton.com/en/staking/>`_, if you have some tokens `Extraton <https://depools.extraton.io/>`_ - `koshelek <https://depools.koshelek.ru/?utm_source=freeton.com&utm_medium=organic&utm_campaign=ecosystem#/>`_ - `p2p <https://p2p.org/>`_ - `Everstake <https://everstake.one/freeton>`_ - `cex.io <https://earn.cex.io/staking>`_
+* `Run your own Validator <https://docs.ton.dev/86757ecb2/p/708260-run-validator>`_, if you have a lot of tokens and some technical abilities 
+* Win `Contests <https://gov.freeton.org/main>`_, if you have good technical abilities  - `Bacics of Contests <https://telegra.ph/How-to-prepare-and-submit-a-competitive-offer-in-Free-TON-08-18>`_
 
 Pay with Crystals
 ~~~~~~~~~~~~~~~~~
