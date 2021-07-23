@@ -35,7 +35,7 @@ Buy and Sell Crystals
 * `ton_p2p Chat <https://t.me/ton_p2p>`_
 * `freeton_otc Chat <https://t.me/freeton_otc>`_
 * `tokiton_chat Chat <https://t.me/tokiton_chat>`_
-* Exchange Chatex `Bot <https://t.me/Chatex_bot>`_
+* Chatex : Exchange `Bot <https://t.me/Chatex_bot>`_
 * Exchange `Prizmbit <https://prizmbit.com/exchange/TON-USDT>`_
 * https://exchange.bitcoin.com/ton-to-btc
 * https://kuna.io/markets/bnbrub
@@ -54,7 +54,7 @@ Pay with Crystals
 ~~~~~~~~~~~~~~~~~
 * Shop |FREETONSHOP_bot.ico| `Bot <https://t.me/FREETONSHOP_bot>`_  
 * Pay Mobile Phone |FreeTON2MobileBot.ico| `Bot <https://t.me/FreeTON2MobileBot>`_ 
-* Cloud infrastructure service `<https://serverspace.io/?utm_source=freeton.com&utm_medium=organic&utm_campaign=ecosystem>`_
+* `Cloud service <https://serverspace.io/?utm_source=freeton.com&utm_medium=organic&utm_campaign=ecosystem>`_
 * AdGram : Advertising `WEB <https://adgram.io/>`_ - `News Channel <https://t.me/adgram_news>`_ - `Chat <https://t.me/adgram_chat_eng>`_ - `Chat RU <https://t.me/adgram_chat_ru>`_
 
 The price of Crystals
@@ -84,7 +84,7 @@ Buy and Sell Non Fungible Tokens
 Games
 ~~~~~
 * Play Poker `Bot <https://ttttt.me/pokertonbot>`_ 
-* World Of Dogs `Bot <https://t.me/WorldDogs_bot>`_
+* World of Dogs `Bot <https://t.me/WorldDogs_bot>`_
 * Twicy `Chat RU <https://t.me/freeton_twicy>`_
 
 Watch Blockchain Operations
@@ -92,7 +92,16 @@ Watch Blockchain Operations
 * `ton.live <https://ton.live/>`_
 * `ton-explorer.com <http://ton-explorer.com/>`_
 * |ocamlpro.ico| `freeton_watcher <https://gitlab.ocamlpro.com/steven.de-oliveira/freeton_watcher>`_
-* Transactions Notification `Bot <https://t.me/freeton_Productions>`_ @FreeTonNotifyBot
+* Transactions Notification - Join @FreeTonNotifyBot Bot  - `Channel <https://t.me/freeton_productions>`_ - `Chat RU <https://t.me/freeton_productions_chat>`_ 
+
+Other Indexes
+~~~~~~~~~~~~~
+* `Telegra.ph <https://telegra.ph/Structure-of-the-Free-TON-ecosystem-08-08-31>`_
+* `freeton.com <https://freeton.com/en/>`_
+* `RSquad <http://ton-test.rsquad.io/>`_
+* `Telegram Channels and groups <https://www.tg-me.com/telegram-group/free%20ton>`_
+* `cryptotalk.org RU <https://cryptotalk.org/forum/82-free-ton/>`_
+.. * `TON Labs <https://docs.ton.dev/86757ecb2/p/04a4ba->`_
 
 Local Communities and Different Languages 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -129,21 +138,13 @@ You are welcome to ask your questions in English!
 * Philosophy `Chat RU <https://t.me/freetonphilosophie>`_
 * Decentralization Popularization `Chat RU <https://t.me/treeton_chat>`_
 * `Cybersport RU <https://www.cybersport.ru/base/teams/no_org/free-ton>`_
-* `Announces RU <https://t.me/freetonstore>`_
+* Announces `Chat RU <https://t.me/freetonstore>`_
 * Productions `Channel RU <https://t.me/freeton_Productions>`_ ?
-* Games `Chat RU <https://t.me/freetongametournaments>`_
 * New Users `Chat RU <https://t.me/freeton_global_community>`_
+* Games `Chat RU <https://t.me/freetongametournaments>`_
 * Claims `Chat RU <https://t.me/FreeTONclaims>`_
 * Off-top `Chat UK <https://t.me/freeton_ua>`_ - `Chat RU <https://t.me/freeton_flud>`_ - `Chat RU <https://t.me/freeton_talks>`_ - `Chat RU <https://t.me/FreeTonEC>`_ - `Chat RU <https://t.me/ft_flud>`_ 
 
-Other Indexes
-~~~~~~~~~~~~~
-* `Telegra.ph <https://telegra.ph/Structure-of-the-Free-TON-ecosystem-08-08-31>`_
-* `freeton.com <https://freeton.com/en/>`_
-* `RSquad <http://ton-test.rsquad.io/>`_
-* `Telegram Channels and groups <https://www.tg-me.com/telegram-group/free%20ton>`_
-* `cryptotalk.org RU <https://cryptotalk.org/forum/82-free-ton/>`_
-.. * `TON Labs <https://docs.ton.dev/86757ecb2/p/04a4ba->`_
 .. |br| raw:: html
 
       <br>
