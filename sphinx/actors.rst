@@ -37,8 +37,8 @@ Sub-Governances
 * Academy `Chat <https://t.me/freeton_academy>`_ - `Twitter <https://twitter.com/freeton_academy>`_
 * Analytics & Support `Chat <https://t.me/freeton_analytics>`_
 * Decentralized Organization `Chat <https://t.me/joinchat/TI4fIvQQmLboPKay>`_
-* DeFi : Decentralized Finance `Chat <https://t.me/tondefi>`_ 
-* DevEx : Developer Experience `Chat <https://t.me/freeton_dev_exp>`_ 
+* DeFi (Decentralized Finance) `Chat <https://t.me/tondefi>`_ 
+* DevEx (Developer Experience) `Chat <https://t.me/freeton_dev_exp>`_ 
 * DevOps `Chat <https://t.me/freetondevops>`_ 
 * ESports `Chat <https://t.me/freeton_esports>`_ - `Tournaments Chat <https://t.me/freetonleague>`_ - `Channel RU <https://t.me/freetonesports>`_
 * Events `Chat <https://t.me/EventsSubgovernance>`_ - `Chat RU <https://t.me/EventsSubgovernance_ru>`_ - `Voice Chat RU <https://t.me/EventsSubgovernance_ru>`_

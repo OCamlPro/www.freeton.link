@@ -3,18 +3,18 @@ For a User
 
 Understand Free TON 
 ~~~~~~~~~~~~~~~~~~~
-* freeton.org `WEB EN FR IT RU <https://freeton.org/>`_ - |toncrystal.ico| `Chat <https://t.me/toncrystal>`_
-* freeton.ee `WEB EN EST RU <http://freeton.ee/eng>`_
+* freeton.org `WEB (EN FR IT RU) <https://freeton.org/>`_ - |toncrystal.ico| `Chat <https://t.me/toncrystal>`_
+* freeton.ee `WEB (EN EST RU) <http://freeton.ee/eng>`_
 * Free TON House `WEB <https://freeton.house/>`_ - `Channel RU <https://t.me/fth_ru>`_
 * News `WEB <https://ton-news.com/>`_ - `Channel <https://t.me/TON_Journal_TM>`_ - |FreeTonNews.ico| `Channel <https://t.me/ton_crystal_news>`_
-* Blogs `Freeton <https://medium.com/freeton>`_ - |ocamlpro.ico| `OCamlPro <https://medium.com/ocamlpro-blockchain-fr>`_ - |ocamlpro.ico| `OCamlPro Blog FR <https://forum.freeton.org/t/articles-de-blog-en-francais-sur-freeton/11233>`_ - `Reddit <https://www.reddit.com/r/TONCRYSTAL/>`_ -  `Cointelegraph <https://cointelegraph.com/>`_ - `Free TON House <https://toncrystal.today/>`_ 
+* Blogs `Freeton <https://medium.com/freeton>`_ - |ocamlpro.ico| `OCamlPro <https://medium.com/ocamlpro-blockchain-fr>`_ - |ocamlpro.ico| `OCamlPro FR <https://forum.freeton.org/t/articles-de-blog-en-francais-sur-freeton/11233>`_ - `Reddit <https://www.reddit.com/r/TONCRYSTAL/>`_ -  `Cointelegraph <https://cointelegraph.com/>`_ - `Free TON House <https://toncrystal.today/>`_ 
 * `Youtube <https://www.youtube.com/c/FreeTON_official/featured>`_
 * `Wikipedia <https://en.freeton.wiki/Free_TON_Wiki>`_
 
 Hold and Send Crystals 
 ~~~~~~~~~~~~~~~~~~~~~~ 
 
-* Surf Wallet + Blockchain Browser + Secure Chat `WEB EN ES FR GE IT JPN KOR POR RU TUR ZHO <https://ton.surf>`_ - `WEB More Fonctionalities <https://beta.ton.surf>`_ - `Android <https://play.google.com/store/apps/details?id=surf.ton>`_ - `Android Test Version <https://play.google.com/apps/testing/surf.ton>`_ - `iOS <https://apps.apple.com/us/app/ton-surf/id1481986831>`_ - `iOS Test Version <https://testflight.apple.com/join/VPcfXsR0>`_ - <https://web.ton.surf/>?
+* Surf Wallet + Blockchain Browser + Secure Chat `WEB (EN ES FR GE IT JPN KOR POR RU TUR ZHO) <https://ton.surf>`_ - `WEB ? <https://web.ton.surf>`_ - `WEB More Fonctionalities <https://beta.ton.surf>`_ - `Android <https://play.google.com/store/apps/details?id=surf.ton>`_ - `Android Test Version <https://play.google.com/apps/testing/surf.ton>`_ - `iOS <https://apps.apple.com/us/app/ton-surf/id1481986831>`_ - `iOS Test Version <https://testflight.apple.com/join/VPcfXsR0>`_
 * Extraton `WEB <https://multisend.extraton.io>`_ - `WEB <https://vouch.extraton.io>`_ - `Chrome Extention <https://chrome.google.com/webstore/detail/extraton/hhimbkmlnofjdajamcojlcmgialocllm>`_ - `Chat RU <https://t.me/extraton>`_ 
 * `Broxus Wallet <https://l1.broxus.com/freeton/wallet>`_
 * Changelly `Android <https://play.google.com/store/apps/dev?id=6836651604375768742>`_ - `iOS <https://apps.apple.com/us/app/changelly-crypto-exchange/id1435140380>`_
@@ -57,7 +57,7 @@ The price of Crystals
 Earn Crystals
 ~~~~~~~~~~~~~
 * Surf : Wallet + Blockchain Browser + Secure Chat `WEB <https://ton.surf>`_ - <WEB? https://web.ton.surf/>`_ - `WEB More Fonctionalities <https://beta.ton.surf>`_ - `Android <https://play.google.com/store/apps/details?id=surf.ton>`_ - `Android Test Version <https://play.google.com/apps/testing/surf.ton>`_ - `iOS <https://apps.apple.com/us/app/ton-surf/id1481986831>`_ - `iOS Test Version <https://testflight.apple.com/join/VPcfXsR0>`_ - `How to stake at Surf <https://www.freeton.net.ua/en/kak-sdelat-stejking-v-surf-ton/>`_
-* Participate in `Validation <https://freeton.com/en/staking/>`_, if you have some tokens - `Extraton <https://depools.extraton.io/>`_ - `koshelek <https://depools.koshelek.ru/?utm_source=freeton.com&utm_medium=organic&utm_campaign=ecosystem#/>`_ - `p2p <https://p2p.org/>`_ - `Everstake <https://everstake.one/freeton>`_ - `cex.io <https://earn.cex.io/staking>`_
+* Participate in `Validation <https://freeton.com/en/staking/>`_, if you have some tokens : `Extraton <https://depools.extraton.io/>`_ - `koshelek <https://depools.koshelek.ru/?utm_source=freeton.com&utm_medium=organic&utm_campaign=ecosystem#/>`_ - `p2p <https://p2p.org/>`_ - `Everstake <https://everstake.one/freeton>`_ - `cex.io <https://earn.cex.io/staking>`_
 * `Run your own Validator <https://docs.ton.dev/86757ecb2/p/708260-run-validator>`_, if you have a lot of tokens and some technical abilities 
 * Win `Contests <https://gov.freeton.org/main>`_, if you have good technical abilities  - `Bacics of Contests <https://telegra.ph/How-to-prepare-and-submit-a-competitive-offer-in-Free-TON-08-18>`_
 
@@ -65,7 +65,7 @@ Pay with Crystals
 ~~~~~~~~~~~~~~~~~
 * Shop |FREETONSHOP_bot.ico| `Bot <https://t.me/FREETONSHOP_bot>`_  
 * Pay Mobile Phone |FreeTON2MobileBot.ico| `Bot <https://t.me/FreeTON2MobileBot>`_ 
-* `Cloud service <https://serverspace.io/?utm_source=freeton.com&utm_medium=organic&utm_campaign=ecosystem>`_
+* `Cloud Service <https://serverspace.io/?utm_source=freeton.com&utm_medium=organic&utm_campaign=ecosystem>`_
 * AdGram Advertising `WEB <https://adgram.io/>`_ - `News Channel <https://t.me/adgram_news>`_ - `Chat <https://t.me/adgram_chat_eng>`_ - `Chat RU <https://t.me/adgram_chat_ru>`_
 
 Buy and Sell Non Fungible Tokens
@@ -86,15 +86,16 @@ Watch Blockchain Operations
 * `ton.live <https://ton.live/>`_
 * `ton-explorer.com <http://ton-explorer.com/>`_
 * |ocamlpro.ico| `freeton_watcher <https://gitlab.ocamlpro.com/steven.de-oliveira/freeton_watcher>`_
-* Transactions Notification - Join @FreeTonNotifyBot Bot  - `Channel <https://t.me/freeton_productions>`_ - `Chat RU <https://t.me/freeton_productions_chat>`_ 
+* Transactions Notification - Join Telegram Bot @FreeTonNotifyBot - `Channel <https://t.me/freeton_productions>`_ - `Chat RU <https://t.me/freeton_productions_chat>`_ 
 
 Other Indexes
 ~~~~~~~~~~~~~
-* `Telegra.ph <https://telegra.ph/Structure-of-the-Free-TON-ecosystem-08-08-31>`_
-* `freeton.com <https://freeton.com/en/>`_
-* `RSquad <http://ton-test.rsquad.io/>`_
-* `Telegram Channels and Groups <https://www.tg-me.com/telegram-group/free%20ton>`_
 * `cryptotalk.org RU <https://cryptotalk.org/forum/82-free-ton/>`_
+* `freeton.com <https://freeton.com/en/>`_
+* `GramKit <https://gramkit.org/en>`_
+* `RSquad <http://ton-test.rsquad.io/>`_
+* `Telegra.ph <https://telegra.ph/Structure-of-the-Free-TON-ecosystem-08-08-31>`_
+* `Telegram Channels and Groups <https://www.tg-me.com/telegram-group/free%20ton>`_
 .. * `TON Labs <https://docs.ton.dev/86757ecb2/p/04a4ba->`_
 
 Local Communities and Different Languages 
