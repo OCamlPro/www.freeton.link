@@ -20,8 +20,9 @@ Read, Watch and Discuss
 * `Wiki <https://en.freeton.wiki/Free_TON_Wiki>`_
 
 Hold and Send Crystals 
-~~~~~~~~~~~~~~~~~~~~~~
-* Surf Wallet + Blockchain Browser + Secure Chat `WEB <https://ton.surf>`_ - `WEB More Fonctionalities <https://beta.ton.surf>`_ - `Android <https://play.google.com/store/apps/details?id=surf.ton>`_ - `Android Test Version <https://play.google.com/apps/testing/surf.ton>`_ - `iOS <https://apps.apple.com/us/app/ton-surf/id1481986831>`_ - `iOS Test Version <https://testflight.apple.com/join/VPcfXsR0>`_ - <https://web.ton.surf/>?
+~~~~~~~~~~~~~~~~~~~~~~ 
+
+* Surf Wallet + Blockchain Browser + Secure Chat `WEB EN ES FR GE IT JPN KOR POR RU TUR ZHO <https://ton.surf>`_ - `WEB More Fonctionalities <https://beta.ton.surf>`_ - `Android <https://play.google.com/store/apps/details?id=surf.ton>`_ - `Android Test Version <https://play.google.com/apps/testing/surf.ton>`_ - `iOS <https://apps.apple.com/us/app/ton-surf/id1481986831>`_ - `iOS Test Version <https://testflight.apple.com/join/VPcfXsR0>`_ - <https://web.ton.surf/>?
 * Extraton `WEB <https://multisend.extraton.io>`_ - `WEB <https://vouch.extraton.io>`_ - `Chrome Extention <https://chrome.google.com/webstore/detail/extraton/hhimbkmlnofjdajamcojlcmgialocllm>`_ - `Chat RU <https://t.me/extraton>`_ 
 * `Broxus Wallet <https://l1.broxus.com/freeton/wallet>`_
 * Changelly `Android <https://play.google.com/store/apps/dev?id=6836651604375768742>`_ - `iOS <https://apps.apple.com/us/app/changelly-crypto-exchange/id1435140380>`_
@@ -100,7 +101,7 @@ Other Indexes
 * `Telegra.ph <https://telegra.ph/Structure-of-the-Free-TON-ecosystem-08-08-31>`_
 * `freeton.com <https://freeton.com/en/>`_
 * `RSquad <http://ton-test.rsquad.io/>`_
-* `Telegram Channels and groups <https://www.tg-me.com/telegram-group/free%20ton>`_
+* `Telegram Channels and Groups <https://www.tg-me.com/telegram-group/free%20ton>`_
 * `cryptotalk.org RU <https://cryptotalk.org/forum/82-free-ton/>`_
 .. * `TON Labs <https://docs.ton.dev/86757ecb2/p/04a4ba->`_
 
@@ -115,13 +116,13 @@ You are welcome to ask your questions in English!
 * Belarussian Community `Channel RU <https://t.me/freetonbelarus>`_ - `Chat RU <https://t.me/freetonby>`_
 * Brazilian Community `Chat <https://t.me/freeton_pt>`_ 
 * Canadian Community `Chat <https://t.me/ton_canada>`_
-* Chinese Community `Chat ZH <https://t.me/freeton_china>`_
+* Chinese Community `Chat ZHO <https://t.me/freeton_china>`_
 * Ecuador Community `Chat <https://t.me/ton_ecuador>`_
 * Estonian Community `WEB EN EST RU <http://freeton.ee/eng>`_
 * French Community `Chat <https://t.me/gramfr>`_
 * German Community `Chat GE <https://t.me/ton_de>`_
 * Greek Community `Chat <https://t.me/freetongreekcommunity>`_
-* Indian Community `Chat ZH <https://t.me/freeton_india>`_
+* Indian Community `Chat ZHO <https://t.me/freeton_india>`_
 * Iranian Community `Chat FA <https://t.me/freetoniran>`_
 * Italian Community `Chat IT <https://t.me/topennetworkitalia>`_
 * Korean Community `Channel KOR <https://t.me/tonkoreaorg_channel>`_ - `Chat KOR <https://t.me/tonkoreaorg>`_
