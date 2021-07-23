@@ -6,7 +6,6 @@ Read, Watch and Discuss
 * Community `WEB EN FR IT RU <https://freeton.org/>`_ - |toncrystal.ico| `Chat <https://t.me/toncrystal>`_ - `Facebook <https://www.facebook.com/CommunityTon>`_ - `Twitter <https://twitter.com/CommunityTon>`_ - `Instagram <https://www.instagram.com/communityton/>`_ - `Linkedin <https://www.linkedin.com/in/free-ton/>`_
 * `News <https://ton-news.com/>`_
 * News `Channel <https://t.me/TON_Journal_TM>`_
-* `<http://freeton.ee/eng>`_
 * `Youtube <https://www.youtube.com/c/FreeTON_official/featured>`_
 * |FreeTonNews.ico| `Channel <https://t.me/ton_crystal_news>`_
 * Cointelegraph `Blog <https://cointelegraph.com/>`_
