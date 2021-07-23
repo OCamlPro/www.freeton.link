@@ -37,7 +37,7 @@ Buy and Sell Crystals
 * `ton_p2p Chat <https://t.me/ton_p2p>`_
 * `freeton_otc Chat <https://t.me/freeton_otc>`_
 * `tokiton_chat Chat <https://t.me/tokiton_chat>`_
-* Chatex : Exchange `Bot <https://t.me/Chatex_bot>`_
+* Chatex Exchange `Bot <https://t.me/Chatex_bot>`_
 * Exchange `Prizmbit <https://prizmbit.com/exchange/TON-USDT>`_
 * https://exchange.bitcoin.com/ton-to-btc
 * https://kuna.io/markets/bnbrub
@@ -47,8 +47,8 @@ Buy and Sell Crystals
 
 Earn Crystals
 ~~~~~~~~~~~~~
-* Surf : Wallet + Blockchain Browser + Secure Chat `WEB <https://ton.surf>`_ - `WEB More Fonctionalities <https://beta.ton.surf>`_ - `Android <https://play.google.com/store/apps/details?id=surf.ton>`_ - `Android Test Version <https://play.google.com/apps/testing/surf.ton>`_ - `iOS <https://apps.apple.com/us/app/ton-surf/id1481986831>`_ - `iOS Test Version <https://testflight.apple.com/join/VPcfXsR0>`_ - <? https://web.ton.surf/> - `How to stake at Surf <https://www.freeton.net.ua/en/kak-sdelat-stejking-v-surf-ton/>`_
-* Participate in `Validation <https://freeton.com/en/staking/>`_, if you have some tokens `Extraton <https://depools.extraton.io/>`_ - `koshelek <https://depools.koshelek.ru/?utm_source=freeton.com&utm_medium=organic&utm_campaign=ecosystem#/>`_ - `p2p <https://p2p.org/>`_ - `Everstake <https://everstake.one/freeton>`_ - `cex.io <https://earn.cex.io/staking>`_
+* Surf : Wallet + Blockchain Browser + Secure Chat `WEB <https://ton.surf>`_ - <WEB? https://web.ton.surf/>`_ - `WEB More Fonctionalities <https://beta.ton.surf>`_ - `Android <https://play.google.com/store/apps/details?id=surf.ton>`_ - `Android Test Version <https://play.google.com/apps/testing/surf.ton>`_ - `iOS <https://apps.apple.com/us/app/ton-surf/id1481986831>`_ - `iOS Test Version <https://testflight.apple.com/join/VPcfXsR0>`_ - `How to stake at Surf <https://www.freeton.net.ua/en/kak-sdelat-stejking-v-surf-ton/>`_
+* Participate in `Validation <https://freeton.com/en/staking/>`_, if you have some tokens - `Extraton <https://depools.extraton.io/>`_ - `koshelek <https://depools.koshelek.ru/?utm_source=freeton.com&utm_medium=organic&utm_campaign=ecosystem#/>`_ - `p2p <https://p2p.org/>`_ - `Everstake <https://everstake.one/freeton>`_ - `cex.io <https://earn.cex.io/staking>`_
 * `Run your own Validator <https://docs.ton.dev/86757ecb2/p/708260-run-validator>`_, if you have a lot of tokens and some technical abilities 
 * Win `Contests <https://gov.freeton.org/main>`_, if you have good technical abilities  - `Bacics of Contests <https://telegra.ph/How-to-prepare-and-submit-a-competitive-offer-in-Free-TON-08-18>`_
 
@@ -57,7 +57,7 @@ Pay with Crystals
 * Shop |FREETONSHOP_bot.ico| `Bot <https://t.me/FREETONSHOP_bot>`_  
 * Pay Mobile Phone |FreeTON2MobileBot.ico| `Bot <https://t.me/FreeTON2MobileBot>`_ 
 * `Cloud service <https://serverspace.io/?utm_source=freeton.com&utm_medium=organic&utm_campaign=ecosystem>`_
-* AdGram : Advertising `WEB <https://adgram.io/>`_ - `News Channel <https://t.me/adgram_news>`_ - `Chat <https://t.me/adgram_chat_eng>`_ - `Chat RU <https://t.me/adgram_chat_ru>`_
+* AdGram Advertising `WEB <https://adgram.io/>`_ - `News Channel <https://t.me/adgram_news>`_ - `Chat <https://t.me/adgram_chat_eng>`_ - `Chat RU <https://t.me/adgram_chat_ru>`_
 
 The price of Crystals
 ~~~~~~~~~~~~~~~~~~~~~
