@@ -48,9 +48,15 @@ Sub-Governances
 
 Partners
 ~~~~~~~~
-* `WorldChess <https://worldchess.com/>`_
+* Bitscale Capital 
+* BR Staking
+* Chorus One
+* Dokia Capital
+* Everstake
+* Kuna
 * `OVHcloud <https://startup.ovhcloud.com/fr/>`_
-
+* P2P.org
+* `WorldChess <https://worldchess.com/>`_
 
 .. |ocamlpro.ico| image:: images/ocamlpro.ico
 .. |gramkit.ico| image:: images/gramkit.ico 

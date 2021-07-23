@@ -6,6 +6,7 @@ Read, Watch and Discuss
 * Community `WEB EN FR IT RU <https://freeton.org/>`_ - |toncrystal.ico| `Chat <https://t.me/toncrystal>`_ - `Facebook <https://www.facebook.com/CommunityTon>`_ - `Twitter <https://twitter.com/CommunityTon>`_ - `Instagram <https://www.instagram.com/communityton/>`_ - `Linkedin <https://www.linkedin.com/in/free-ton/>`_
 * `News <https://ton-news.com/>`_
 * News `Channel <https://t.me/TON_Journal_TM>`_
+* `<http://freeton.ee/eng>`_
 * `Youtube <https://www.youtube.com/c/FreeTON_official/featured>`_
 * |FreeTonNews.ico| `Channel <https://t.me/ton_crystal_news>`_
 * Cointelegraph `Blog <https://cointelegraph.com/>`_
@@ -116,6 +117,7 @@ You are welcome to ask your questions in English!
 * Canadian Community `Chat <https://t.me/ton_canada>`_
 * Chinese Community `Chat ZH <https://t.me/freeton_china>`_
 * Ecuador Community `Chat <https://t.me/ton_ecuador>`_
+* Estonian Community `WEB EN EST RU <http://freeton.ee/eng>`_
 * French Community `Chat <https://t.me/gramfr>`_
 * German Community `Chat GE <https://t.me/ton_de>`_
 * Greek Community `Chat <https://t.me/freetongreekcommunity>`_
