@@ -1,6 +1,16 @@
 Actors
 ======
 
+The Idea developpers
+~~~~~~~~~~~~~~~~~~~~
+* Pavel Durov `Channel <https://t.me/durov>`_ - `Twitter <https://twitter.com/durov>`_ - `What Was TON And Why It Is Over <https://telegra.ph/What-Was-TON-And-Why-It-Is-Over-05-12>`_
+* Vitalik Buterin `Blog <https://medium.com/@VitalikButerin>`_
+
+Community Active Members
+~~~~~~~~~~~~~~~~~~~~~~~~
+* ɖɦ2 `Blog <https://hackmd.io/KdvOCkZPQ-O3wPq8a5SUOg?view>`_ - `Blog <https://hackmd.io/PuNAVksrRTus-QNbKrzbMQ?view>`_
+* Community Inner Life `Chat <https://t.me/joinchat/UlCYzgUx8XcYqW-W>`_ - `Channel RU <https://t.me/movetheopennetwork>`_
+
 Development Teams
 ~~~~~~~~~~~~~~~~~
 * ArsenMkrt `GitHub <https://github.com/ArsenMkrt>`_
@@ -52,7 +62,7 @@ Partners
 * BR Staking
 * Chorus One
 * Dokia Capital
-* Everstake
+* Everstake `Blog <https://medium.com/everstake/what-is-free-ton-and-how-ton-blockchain-benefits-a-wide-range-of-industries-from-serving-81f0ddfbfd61>`_
 * Kuna
 * `OVHcloud <https://startup.ovhcloud.com/fr/>`_
 * P2P.org

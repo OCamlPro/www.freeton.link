@@ -1,22 +1,15 @@
 For a User
 ==========
 
-Read, Watch and Discuss 
-~~~~~~~~~~~~~~~~~~~~~~~
-* Community `WEB EN FR IT RU <https://freeton.org/>`_ - |toncrystal.ico| `Chat <https://t.me/toncrystal>`_ - `Facebook <https://www.facebook.com/CommunityTon>`_ - `Twitter <https://twitter.com/CommunityTon>`_ - `Instagram <https://www.instagram.com/communityton/>`_ - `Linkedin <https://www.linkedin.com/in/free-ton/>`_
-* `News <https://ton-news.com/>`_
-* News `Channel <https://t.me/TON_Journal_TM>`_
-* `Youtube <https://www.youtube.com/c/FreeTON_official/featured>`_
-* |FreeTonNews.ico| `Channel <https://t.me/ton_crystal_news>`_
-* Cointelegraph `Blog <https://cointelegraph.com/>`_
+Understand Free TON 
+~~~~~~~~~~~~~~~~~~~
+* freeton.org `WEB EN FR IT RU <https://freeton.org/>`_ - |toncrystal.ico| `Chat <https://t.me/toncrystal>`_ - `Facebook <https://www.facebook.com/CommunityTon>`_ - `Twitter <https://twitter.com/CommunityTon>`_ - `Instagram <https://www.instagram.com/communityton/>`_ - `Linkedin <https://www.linkedin.com/in/free-ton/>`_
+* freeton.ee `WEB EN EST RU <http://freeton.ee/eng>`_
 * Free TON House `Blog <https://freeton.house/>`_ - `Blog <https://toncrystal.today/>`_ - `Twitter <https://twitter.com/FreetonH>`_ - `Channel RU <https://t.me/fth_ru>`_
-* Medium Blog `Freeton <https://medium.com/freeton>`_ - `Vitalik Buterin <https://medium.com/@VitalikButerin>`_ - |ocamlpro.ico| `OCamlPro <https://medium.com/ocamlpro-blockchain-fr>`_ - `Evertake <https://medium.com/everstake/what-is-free-ton-and-how-ton-blockchain-benefits-a-wide-range-of-industries-from-serving-81f0ddfbfd61>`_ - and others
-* |ocamlpro.ico| OCamlPro `Blog <https://medium.com/ocamlpro-blockchain-fr>`_ - `Blog FR <https://forum.freeton.org/t/articles-de-blog-en-francais-sur-freeton/11233>`_
-* Reddit `Blog <https://www.reddit.com/r/TONCRYSTAL/>`_
-* Community Inner Life `Chat <https://t.me/joinchat/UlCYzgUx8XcYqW-W>`_ - `Channel RU <https://t.me/movetheopennetwork>`_
-* Pavel Durov `Channel <https://t.me/durov>`_ - `Twitter <https://twitter.com/durov>`_ - `What Was TON And Why It Is Over <https://telegra.ph/What-Was-TON-And-Why-It-Is-Over-05-12>`_
-* ɖɦ2 `Blog <https://hackmd.io/KdvOCkZPQ-O3wPq8a5SUOg?view>`_ - `Blog <https://hackmd.io/PuNAVksrRTus-QNbKrzbMQ?view>`_
-* `Wiki <https://en.freeton.wiki/Free_TON_Wiki>`_
+* News `WEB <https://ton-news.com/>`_ - `Channel <https://t.me/TON_Journal_TM>`_ - |FreeTonNews.ico| `Channel <https://t.me/ton_crystal_news>`_
+* Blogs `Freeton <https://medium.com/freeton>`_ - |ocamlpro.ico| `OCamlPro <https://medium.com/ocamlpro-blockchain-fr>`_ - |ocamlpro.ico| `OCamlPro Blog FR <https://forum.freeton.org/t/articles-de-blog-en-francais-sur-freeton/11233>`_ - `Reddit <https://www.reddit.com/r/TONCRYSTAL/>`_ -  `Cointelegraph <https://cointelegraph.com/>`_
+* `Youtube <https://www.youtube.com/c/FreeTON_official/featured>`_
+* `Wikipedia <https://en.freeton.wiki/Free_TON_Wiki>`_
 
 Hold and Send Crystals 
 ~~~~~~~~~~~~~~~~~~~~~~ 
@@ -117,7 +110,6 @@ You are welcome to ask your questions in English!
 * Canadian Community `Chat <https://t.me/ton_canada>`_
 * Chinese Community `Chat ZHO <https://t.me/freeton_china>`_
 * Ecuador Community `Chat <https://t.me/ton_ecuador>`_
-* Estonian Community `WEB EN EST RU <http://freeton.ee/eng>`_
 * French Community `Chat <https://t.me/gramfr>`_
 * German Community `Chat GE <https://t.me/ton_de>`_
 * Greek Community `Chat <https://t.me/freetongreekcommunity>`_
