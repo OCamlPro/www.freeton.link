@@ -3,11 +3,11 @@ For a User
 
 Understand Free TON 
 ~~~~~~~~~~~~~~~~~~~
-* freeton.org `WEB EN FR IT RU <https://freeton.org/>`_ - |toncrystal.ico| `Chat <https://t.me/toncrystal>`_ - `Facebook <https://www.facebook.com/CommunityTon>`_ - `Twitter <https://twitter.com/CommunityTon>`_ - `Instagram <https://www.instagram.com/communityton/>`_ - `Linkedin <https://www.linkedin.com/in/free-ton/>`_
+* freeton.org `WEB EN FR IT RU <https://freeton.org/>`_ - |toncrystal.ico| `Chat <https://t.me/toncrystal>`_
 * freeton.ee `WEB EN EST RU <http://freeton.ee/eng>`_
-* Free TON House `Blog <https://freeton.house/>`_ - `Blog <https://toncrystal.today/>`_ - `Twitter <https://twitter.com/FreetonH>`_ - `Channel RU <https://t.me/fth_ru>`_
+* Free TON House `WEB <https://freeton.house/>`_ - `Channel RU <https://t.me/fth_ru>`_
 * News `WEB <https://ton-news.com/>`_ - `Channel <https://t.me/TON_Journal_TM>`_ - |FreeTonNews.ico| `Channel <https://t.me/ton_crystal_news>`_
-* Blogs `Freeton <https://medium.com/freeton>`_ - |ocamlpro.ico| `OCamlPro <https://medium.com/ocamlpro-blockchain-fr>`_ - |ocamlpro.ico| `OCamlPro Blog FR <https://forum.freeton.org/t/articles-de-blog-en-francais-sur-freeton/11233>`_ - `Reddit <https://www.reddit.com/r/TONCRYSTAL/>`_ -  `Cointelegraph <https://cointelegraph.com/>`_
+* Blogs `Freeton <https://medium.com/freeton>`_ - |ocamlpro.ico| `OCamlPro <https://medium.com/ocamlpro-blockchain-fr>`_ - |ocamlpro.ico| `OCamlPro Blog FR <https://forum.freeton.org/t/articles-de-blog-en-francais-sur-freeton/11233>`_ - `Reddit <https://www.reddit.com/r/TONCRYSTAL/>`_ -  `Cointelegraph <https://cointelegraph.com/>`_ - `Free TON House <https://toncrystal.today/>`_ 
 * `Youtube <https://www.youtube.com/c/FreeTON_official/featured>`_
 * `Wikipedia <https://en.freeton.wiki/Free_TON_Wiki>`_
 
@@ -31,11 +31,28 @@ Buy and Sell Crystals
 * `tokiton_chat Chat <https://t.me/tokiton_chat>`_
 * Chatex Exchange `Bot <https://t.me/Chatex_bot>`_
 * Exchange `Prizmbit <https://prizmbit.com/exchange/TON-USDT>`_
-* https://exchange.bitcoin.com/ton-to-btc
-* https://kuna.io/markets/bnbrub
+* Exchange `bitcoin.com https://exchange.bitcoin.com/ton-to-btc`_
 * https://hitbtc.com/ton-to-usdt
 * https://cex.io/ton-usdt
 * https://pro.changelly.com/otc
+* https://kuna.io/markets/bnbrubitcoin.comb
+* https://www.coingecko.com/en/coins/ton-crystamarkets/l
+* https://coinpaprika.com/coin/ton-ton-crystal/
+* https://coinstats.app/en/coins/ton-crystal/
+* https://coincodex.com/crypto/ton-crystal/
+* https://coincheckup.com/coins/ton-crystal
+* https://coinmarketcap.com/currencies/ton-crystal/ 
+* https://coinmarketcal.com/en/coin/ton-crystal
+* https://coinranking.com/coin/VyoUfuqTuttT+toncrystal-ton
+* https://www.mytokencap.com/currency/ton/821769253
+* https://app.santiment.net/studio
+* https://www.feixiaohao.cc/currencies/ton-crystal/
+
+The price of Crystals
+~~~~~~~~~~~~~~~~~~~~~
+* Blockfolio `Android <https://play.google.com/store/apps/details?id=com.blockfolio.blockfolio>`_ - `iOS <https://apps.apple.com/ru/app/blockfolio-%D0%BA%D1%83%D1%80%D1%81-%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD%D0%B0/id1095564685>`_
+* Delta `Android <https://play.google.com/store/apps/details?id=io.getdelta.android>`_ - `iOS <https://apps.apple.com/ru/app/delta-%D1%82%D1%80%D0%B5%D0%BA%D0%B5%D1%80-%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE-%D0%BF%D0%BE%D1%80%D1%82%D1%84%D0%B5%D0%BB%D0%B5%D0%B9/id1288676542>`_
+* Mytokencap `Android <https://play.google.com/store/apps/details?id=com.hash.mytoken>`_ - `iOS <https://apps.apple.com/cn/app/mytoken-news-%E5%BF%AB%E9%80%9F-%E5%87%86%E7%A1%AE-%E5%85%A8%E9%9D%A2/id1525213647>`_
 
 Earn Crystals
 ~~~~~~~~~~~~~
@@ -50,23 +67,6 @@ Pay with Crystals
 * Pay Mobile Phone |FreeTON2MobileBot.ico| `Bot <https://t.me/FreeTON2MobileBot>`_ 
 * `Cloud service <https://serverspace.io/?utm_source=freeton.com&utm_medium=organic&utm_campaign=ecosystem>`_
 * AdGram Advertising `WEB <https://adgram.io/>`_ - `News Channel <https://t.me/adgram_news>`_ - `Chat <https://t.me/adgram_chat_eng>`_ - `Chat RU <https://t.me/adgram_chat_ru>`_
-
-The price of Crystals
-~~~~~~~~~~~~~~~~~~~~~
-* Blockfolio `Android <https://play.google.com/store/apps/details?id=com.blockfolio.blockfolio>`_ - `iOS <https://apps.apple.com/ru/app/blockfolio-%D0%BA%D1%83%D1%80%D1%81-%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B8%D0%BD%D0%B0/id1095564685>`_
-* Delta `Android <https://play.google.com/store/apps/details?id=io.getdelta.android>`_ - `iOS <https://apps.apple.com/ru/app/delta-%D1%82%D1%80%D0%B5%D0%BA%D0%B5%D1%80-%D0%BA%D1%80%D0%B8%D0%BF%D1%82%D0%BE-%D0%BF%D0%BE%D1%80%D1%82%D1%84%D0%B5%D0%BB%D0%B5%D0%B9/id1288676542>`_
-* Mytokencap `Android <https://play.google.com/store/apps/details?id=com.hash.mytoken>`_ - `iOS <https://apps.apple.com/cn/app/mytoken-news-%E5%BF%AB%E9%80%9F-%E5%87%86%E7%A1%AE-%E5%85%A8%E9%9D%A2/id1525213647>`_
-* https://www.coingecko.com/en/coins/ton-crystamarkets/l
-* https://coinpaprika.com/coin/ton-ton-crystal/
-* https://coinstats.app/en/coins/ton-crystal/
-* https://coincodex.com/crypto/ton-crystal/
-* https://coincheckup.com/coins/ton-crystal
-* https://coinmarketcap.com/currencies/ton-crystal/ 
-* https://coinmarketcal.com/en/coin/ton-crystal
-* https://coinranking.com/coin/VyoUfuqTuttT+toncrystal-ton
-* https://www.mytokencap.com/currency/ton/821769253
-* https://app.santiment.net/studio
-* https://www.feixiaohao.cc/currencies/ton-crystal/
 
 Buy and Sell Non Fungible Tokens
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
