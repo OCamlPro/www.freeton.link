@@ -14,12 +14,15 @@ Read, Discuss
 
 Tooling
 ~~~~~~~
+* `tondev <https://github.com/tonlabs/tondev#what-is-tondev>`_
+  * TVM for Testing `TestSuite4 <https://github.com/tonlabs/tondev#testsuite4>`_
+  * TON OS SE - Local Blockchain for Testing `Docker Image <https://hub.docker.com/r/tonlabs/local-node>`_ - `without Docker <>`_
+  * `tonos cli <https://docs.ton.dev/86757ecb2/p/8080e6-tonos-cli/t/44972c>`_
 * `GraphQL <https://net.ton.dev/graphql>`_ 
-* TVM for Testing `TestSuite4 <https://github.com/tonlabs/tondev#testsuite4>`_
-* Multi-Account Multi-Network Terminal Wallet |ocamlpro.ico| `ft <https://ocamlpro.github.io/freeton_wallet/>`_ - `Article <https://medium.com/ocamlpro/debugging-free-ton-smart-contracts-with-the-ft-multi-account-wallet-e0e0adbe9cec>`_
-* `TON OS SE Docker Image <https://hub.docker.com/r/tonlabs/local-node>`_
+* |ocamlpro.ico| Multi-Account Multi-Network Terminal Wallet `ft <https://ocamlpro.github.io/freeton_wallet/>`_ - `Article <https://medium.com/ocamlpro/debugging-free-ton-smart-contracts-with-the-ft-multi-account-wallet-e0e0adbe9cec>`_
 * `locklift <https://www.npmjs.com/package/locklift>`_
 * `Free TON Toolbox <https://github.com/serge-medvedev/freeton-toolbox>`_
+* `TONDEV VS Code Plugin <https://marketplace.visualstudio.com/items?itemName=TONLabs.tondev>`_
 
 Contests
 ~~~~~~~~
@@ -30,10 +33,19 @@ Contests
 
 Documentation
 ~~~~~~~~~~~~~
-* `Principal Documentation <https://docs.ton.dev>`_
+* `Principal Documentation <https://docs.ton.dev>`_ and  `another Index for the same Documentation <https://ton.dev>`_
 * `TON OS SDK <https://tonlabs.github.io/ton-client-js/>`_
 * `ton.org <https://ton.org/>`_
+* `test.ton.org <https://test.ton.org/>`_
 * `Publish a Smart-Contract <https://habr.com/ru/post/494528/>`_
+
+Get Test Tokens
+~~~~~~~~~~~~~~~
+* Ask on telegram @giverton_bot
+* Ask Chain Rider Debot on `Surf <>`_ (not available in Surf web version) 
+* `Surf Mobile App  <https://help.ton.surf/en/support/solutions/articles/77000397851-how-to-get-coins-in-developer-mode->`_
+* `Form <https://forms.gle/zCH7dDiR2yC84m5m9>`_ (doesn't work?)
+* `extraton <https://faucet.extraton.io/>`_
 
 Different Languages
 ~~~~~~~~~~~~~~~~~~~

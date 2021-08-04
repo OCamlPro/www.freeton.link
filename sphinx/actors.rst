@@ -1,8 +1,8 @@
 Actors
 ======
 
-The Idea Developpers
-~~~~~~~~~~~~~~~~~~~~
+The Idea Developers
+~~~~~~~~~~~~~~~~~~~
 * Pavel Durov `Channel <https://t.me/durov>`_ - `Twitter <https://twitter.com/durov>`_ - `What Was TON And Why It Is Over <https://telegra.ph/What-Was-TON-And-Why-It-Is-Over-05-12>`_
 * Vitalik Buterin `Blog <https://medium.com/@VitalikButerin>`_
 
@@ -11,8 +11,8 @@ Community Active Members
 * ɖɦ2 `Blog <https://hackmd.io/KdvOCkZPQ-O3wPq8a5SUOg?view>`_ - `Blog <https://hackmd.io/PuNAVksrRTus-QNbKrzbMQ?view>`_
 * Community Inner Life `Chat <https://t.me/joinchat/UlCYzgUx8XcYqW-W>`_ - `Channel RU <https://t.me/movetheopennetwork>`_
 
-Development Teams
-~~~~~~~~~~~~~~~~~
+Developers
+~~~~~~~~~~
 * ArsenMkrt `GitHub <https://github.com/ArsenMkrt>`_
 * `Broxus <https://broxus.com/>`_ - `GitHub <https://github.com/broxus/>`_
 * `CEX.IO.LABS <https://cexiolabs.com/>`_
@@ -27,6 +27,8 @@ Development Teams
 * `Pruvendo <https://pruvendo.com/>`_
 * `Radiance <https://radianceteam.com/>`_
 * `RSquad <https://rsquad.io/>`_
+* `SVOI <https://github.com/SVOIcom>`_
+* `TON Community Foundation <https://ton-foundation.org/>`_
 * `TON Labs <https://tonlabs.io>`_ - `News <https://gramkit.org/>`_ - `GitHub <https://github.com/tonlabs/>`_ - `Channel <https://t.me/tonlabs>`_ - `Youtube <https://www.youtube.com/c/TONLabs/featured>`_ - `Facebook <https://www.facebook.com/tonlabsio>`_ - `Twitter <https://twitter.com/tonlabs>`_
 * ton-actions `GitHub <https://github.com/ton-actions>`_ - `Chat <https://t.me/ton_actions_chat>`_
 * ton-blockchain `GitHub <https://github.com/ton-blockchain>`_
