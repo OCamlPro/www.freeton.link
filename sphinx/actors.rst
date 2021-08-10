@@ -62,13 +62,17 @@ Partners
 ~~~~~~~~
 * Bitscale Capital 
 * BR Staking
-* Chorus One
+* `Broxus <https://broxus.com/>`_
+* `Certus one <https://certus.one/>`_
+* `Chorus <https://chorus.one/>`_
 * Dokia Capital
-* Everstake `Blog <https://medium.com/everstake/what-is-free-ton-and-how-ton-blockchain-benefits-a-wide-range-of-industries-from-serving-81f0ddfbfd61>`_
+* `Everstake <https://everstake.one/>`- `Blog <https://medium.com/everstake/what-is-free-ton-and-how-ton-blockchain-benefits-a-wide-range-of-industries-from-serving-81f0ddfbfd61>`_
 * Kuna
 * `OVHcloud <https://startup.ovhcloud.com/fr/>`_
+* `mtx connect (EN RU FR 中文) <https://www.mtxc.eu/en/>`_
 * P2P.org
 * `WorldChess <https://worldchess.com/>`_
+*  Wirecard AG
 
 .. |ocamlpro.ico| image:: images/ocamlpro.ico
 .. |gramkit.ico| image:: images/gramkit.ico 

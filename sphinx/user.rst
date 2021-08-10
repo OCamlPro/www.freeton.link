@@ -1,11 +1,11 @@
 For a User
 ==========
 
-Understand Free TON 
-~~~~~~~~~~~~~~~~~~~
-* freeton.org `WEB (EN FR IT RU) <https://freeton.org/>`_ - |toncrystal.ico| `Chat <https://t.me/toncrystal>`_
-* freeton.ee `WEB (EN EST RU) <http://freeton.ee/eng>`_
-* Free TON House `WEB <https://freeton.house/>`_ - `Channel RU <https://t.me/fth_ru>`_
+Understand Free TON Blockchain 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+* |freeton.org.ico| freeton.org `WEB <https://freeton.org/>`_ - |toncrystal.ico| `Chat <https://t.me/toncrystal>`_
+* |freeton.ee| freeton.ee `WEB (EN EST RU) <http://freeton.ee/eng>`_
+* |freeton.house.ico| Free TON House `WEB <https://freeton.house/>`_ - `Channel RU <https://t.me/fth_ru>`_
 * News `WEB <https://ton-news.com/>`_ - `Channel <https://t.me/TON_Journal_TM>`_ - |FreeTonNews.ico| `Channel <https://t.me/ton_crystal_news>`_
 * Blogs `Freeton <https://medium.com/freeton>`_ - |ocamlpro.ico| `OCamlPro <https://medium.com/ocamlpro-blockchain-fr>`_ - |ocamlpro.ico| `OCamlPro FR <https://forum.freeton.org/t/articles-de-blog-en-francais-sur-freeton/11233>`_ - `Reddit <https://www.reddit.com/r/TONCRYSTAL/>`_ -  `Cointelegraph <https://cointelegraph.com/>`_ - `Free TON House <https://toncrystal.today/>`_ 
 * `Youtube <https://www.youtube.com/c/FreeTON_official/featured>`_
@@ -13,7 +13,6 @@ Understand Free TON
 
 Hold and Send Crystals 
 ~~~~~~~~~~~~~~~~~~~~~~ 
-
 * Surf Wallet + Blockchain Browser + Secure Chat `WEB (EN ES FR GE IT JPN KOR POR RU TUR ZHO) <https://ton.surf>`_ - `WEB ? <https://web.ton.surf>`_ - `WEB More Fonctionalities <https://beta.ton.surf>`_ - `Android <https://play.google.com/store/apps/details?id=surf.ton>`_ - `Android Test Version <https://play.google.com/apps/testing/surf.ton>`_ - `iOS <https://apps.apple.com/us/app/ton-surf/id1481986831>`_ - `iOS Test Version <https://testflight.apple.com/join/VPcfXsR0>`_ - `What is TON Surf? <https://blocksprime.medium.com/free-ton-blockchain-what-is-ton-surf-b651f5f9524>`_
 * `Broxus Wallet <https://l1.broxus.com/freeton/wallet>`_
 * Changelly `Android <https://play.google.com/store/apps/dev?id=6836651604375768742>`_ - `iOS <https://apps.apple.com/us/app/changelly-crypto-exchange/id1435140380>`_
@@ -22,6 +21,7 @@ Hold and Send Crystals
 * `Freewallet <https://freewallet.org>`_
 * |ocamlpro.ico| `ft <https://medium.com/@frank_h_58267/99c0e778c462>`_
 * Koshelek `WEB <https://koshelek.ru/>`_ - `Android <https://play.google.com/store/apps/details?id=ru.koshelek>`_ - `iOS <https://apps.apple.com/ru/app/id1524167720>`_ -  `Bot <https://t.me/Koshelek_bot>`_
+* `mercuryo <https://mercuryo.io/wallet/>`_
 * Rust Wallet
 * `tonwallet <https://tonwallet.io/>`_
 * `Connect Ethereum and Free TON Wallets <https://tonbridge.io/>`_
@@ -117,7 +117,7 @@ You are welcome to ask your questions in English!
 * Belarussian Community `Channel RU <https://t.me/freetonbelarus>`_ - `Chat RU <https://t.me/freetonby>`_
 * Brazilian Community `Chat <https://t.me/freeton_pt>`_ 
 * Canadian Community `Chat <https://t.me/ton_canada>`_
-* Chinese Community `Chat ZHO <https://t.me/freeton_china>`_
+* Chinese Community `Chat 中文 <https://t.me/freeton_china>`_
 * Ecuador Community `Chat <https://t.me/ton_ecuador>`_
 * French Community `Chat <https://t.me/gramfr>`_
 * German Community `Chat GE <https://t.me/ton_de>`_
@@ -158,3 +158,34 @@ You are welcome to ask your questions in English!
 .. |toncrystal.ico| image:: images/toncrystal.ico
 .. |telegraph.ico| image:: images/telegraph.ico 
 .. |ocamlpro.ico| image:: images/ocamlpro.ico
+.. |freeton.org.ico| image:: images/freeton.org.ico
+.. |freeton.ee| image:: images/freeton.ee
+.. |freeton.house.ico| image:: images/freeton.house.ico
+.. || image:: images/
+.. || image:: images/
+.. || image:: images/
+.. || image:: images/
+.. || image:: images/
+.. || image:: images/
+.. || image:: images/
+.. || image:: images/
+.. || image:: images/
+.. || image:: images/
+.. || image:: images/
+.. || image:: images/
+.. || image:: images/
+.. || image:: images/
+.. || image:: images/
+.. || image:: images/
+.. || image:: images/
+.. || image:: images/
+.. || image:: images/
+.. || image:: images/
+.. || image:: images/
+.. || image:: images/
+.. || image:: images/
+.. || image:: images/
+.. || image:: images/
+.. || image:: images/
+.. || image:: images/
+.. || image:: images/

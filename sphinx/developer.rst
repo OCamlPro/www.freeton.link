@@ -38,6 +38,7 @@ Documentation
 * `ton.org <https://ton.org/>`_
 * `test.ton.org <https://test.ton.org/>`_
 * `Publish a Smart-Contract <https://habr.com/ru/post/494528/>`_
+* `Sharding on Blockchain <https://eprint.iacr.org/2019/1178.pdf>`_
 
 Get Test Tokens
 ~~~~~~~~~~~~~~~
