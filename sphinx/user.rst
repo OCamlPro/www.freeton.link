@@ -1,5 +1,3 @@
-<link rel="icon" href="/images/freeton.org.ico" type="image/x-icon" />
-
 For a User
 ==========
 
