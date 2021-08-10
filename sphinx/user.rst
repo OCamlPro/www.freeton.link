@@ -5,7 +5,7 @@ Understand Free TON
 ~~~~~~~~~~~~~~~~~~~
 * |freeton.org.ico| freeton.org `WEB <https://freeton.org/>`_ - |toncrystal.ico| `Chat <https://t.me/toncrystal>`_
 * |freeton.ee.ico| freeton.ee `WEB (EN EST RU) <http://freeton.ee/eng>`_
-* |freeton.house16.ico| Free TON House `WEB <https://freeton.house/>`_ - |freeton.house.tg.ico| `Channel RU <https://t.me/fth_ru>`_
+* Free TON House |freeton.house16.ico| `WEB <https://freeton.house/>`_ - |freeton.house.tg.ico| `Channel RU <https://t.me/fth_ru>`_
 * News |ton-news.com.ico| `WEB <https://ton-news.com/>`_ - `Channel <https://t.me/TON_Journal_TM>`_ - |FreeTonNews.ico| `Channel <https://t.me/ton_crystal_news>`_
 * Blogs `Freeton <https://medium.com/freeton>`_ - |ocamlpro.ico| `OCamlPro <https://medium.com/ocamlpro-blockchain-fr>`_ - |ocamlpro.ico| `OCamlPro FR <https://forum.freeton.org/t/articles-de-blog-en-francais-sur-freeton/11233>`_ - `Reddit <https://www.reddit.com/r/TONCRYSTAL/>`_ -  `Cointelegraph <https://cointelegraph.com/>`_ - `Free TON House <https://toncrystal.today/>`_ 
 * `Youtube <https://www.youtube.com/c/FreeTON_official/featured>`_
