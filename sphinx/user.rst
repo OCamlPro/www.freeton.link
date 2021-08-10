@@ -162,7 +162,7 @@ You are welcome to ask your questions in English!
 .. |freeton.ee.ico| image:: images/freeton.ee.ico
 .. |freeton.house.ico| image:: images/freeton.house.ico
 .. |freeton.house8.ico| image:: images/freeton.house8.ico
-.. |freeton.house8copresse.ico| image:: images/freeton.house8compresse.ico
+.. |freeton.house8compresse.ico| image:: images/freeton.house8compresse.ico
 .. |freeton.house.tg.ico| image:: images/freeton.house.tg.ico
 .. |ton-news.com.ico| image:: images/ton-news.com.ico
 .. || image:: images/
