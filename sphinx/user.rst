@@ -159,7 +159,7 @@ You are welcome to ask your questions in English!
 .. |FreeTonNews.ico| image:: images/FreeTonNews.ico 
 .. |toncrystal.ico| image:: images/toncrystal.ico
 .. |telegraph.ico| image:: images/telegraph.ico 
-.. |ocamlpro.ico| image:: images/ocamlpro.ico
+.. |ocamlpro.ico| image:: images/ocamlpro.png
 .. |freeton.org.ico| image:: images/freeton.org.ico
 .. |freeton.ee.ico| image:: images/freeton.ee.ico
 .. |freeton.house.ico| image:: images/freeton.house.ico

@@ -60,4 +60,4 @@ You are welcome to ask your questions in English!
 * Dangerous Cases `Chat RU <https://t.me/fld_ton_dev>`_
 
 
-.. |ocamlpro.ico| image:: images/ocamlpro.ico
+.. |ocamlpro.ico| image:: images/ocamlpro.png
