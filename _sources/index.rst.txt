@@ -10,11 +10,12 @@ Welcome to Freeton Link!
    :maxdepth: 2
    :caption: FreeTON Link
 
-   Home <https://www.freeton.link>
+   Home <https://kostrik2.github.io/www.freeton.link>
    about
-   websites
-   software
-   channels
+   user
+   developer
+   validator
+   actors
    Edit on Github <https://github.com/ocamlpro/www.freeton.link>
 
 
