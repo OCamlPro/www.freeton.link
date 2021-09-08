@@ -74,5 +74,5 @@ Partners
 * `WorldChess <https://worldchess.com/>`_
 *  Wirecard AG
 
-.. |ocamlpro.ico| image:: images/ocamlpro.ico
+.. |ocamlpro.ico| image:: images/ocamlpro.png
 .. |gramkit.ico| image:: images/gramkit.ico 
